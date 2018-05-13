@@ -20,31 +20,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-    permalink: /:name
-
+    permalink: "/:name"
 defaults:
-#   -
-#     scope:
-#       path: "profiles"
-#       type: "profiles"
-#     values:
-#       layout: "profile"
-#       interviewer: ""
-#       interviewee: ""
-#       date: ""
-#       sub-title: ""
-#       category: "video"
-#       youtube-id: ""
-#       video-description: "This should be a short blub describing the video"
-  -
-    scope:
-      path: "news_analysis"
-      type: "posts"
-    values:
-      layout: "news-anlysis"
-      strike-title: ""
-      lifted-from: ""
-
+- scope:
+    path: news_analysis
+    type: posts
+  values:
+    layout: news-anlysis
+    strike-title: ''
+    lifted-from: ''
 author: The Debt Collective
 email: organizers@debtcollective.org
 description: 'Write an awesome description for your new site here. You can edit this
