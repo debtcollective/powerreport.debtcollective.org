@@ -1,5 +1,6 @@
 ---
 title: Profiles
+permalink: "/profiles"
 layout: default-small-no-feed
 ---
 
