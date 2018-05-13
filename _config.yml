@@ -27,9 +27,8 @@ defaults:
     type: posts
   values:
     layout: news-anlysis
-    strike-title: 'striked out title'
-    lifted-from: 'where the article came from'
-
+    strike-title: striked out title
+    lifted-from: where the article came from
 author: The Debt Collective
 email: organizers@debtcollective.org
 description: 'Write an awesome description for your new site here. You can edit this
