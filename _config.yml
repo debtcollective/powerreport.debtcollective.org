@@ -1,52 +1,57 @@
+---
 title: The Debt Collective
-author: The Debt Collective
-email: organizers@debtcollective.org
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-rss: rss
-
-theme: jekyll-debtcollective
-
-plugins:
-  # - jekyll-feed
-  # - jekyll-seo-tag
-
+timezone: UTC
 collections:
-  posts:
-    output: true
   news_analysis:
+    title: News Analysis
     output: true
-    permalink: /news-analysis/:name
-  profiles:
-    output: true
-    permalink: /profiles/:title
+    permalink: "/news-analysis/:name"
   pages:
+    title: Pages
+    output: true
+    permalink: "/:name"
+  posts:
+    title: Posts
+    output: true
+  profiles:
+    title: Profiles
+    output: true
+    permalink: "/profiles/:title"
+  uploads:
+    title: Uploads
     output: true
     permalink: /:name
 
 defaults:
-  -
-    scope:
-      path: "profiles"
-      type: "profiles"
-    values:
-      layout: "profile"
-      interviewer: ""
-      interviewee: ""
-      date: ""
-      sub-title: ""
-      category: "video"
-      youtube-id: ""
-      video-description: "This should be a short blub describing the video"
+#   -
+#     scope:
+#       path: "profiles"
+#       type: "profiles"
+#     values:
+#       layout: "profile"
+#       interviewer: ""
+#       interviewee: ""
+#       date: ""
+#       sub-title: ""
+#       category: "video"
+#       youtube-id: ""
+#       video-description: "This should be a short blub describing the video"
   -
     scope:
       path: "news_analysis"
-      type: "news-analysis"
+      type: "posts"
     values:
       layout: "news-anlysis"
-      title: ""
       strike-title: ""
       lifted-from: ""
-      category: "analysis"
+
+author: The Debt Collective
+email: organizers@debtcollective.org
+description: 'Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+
+'
+rss: rss
+theme: jekyll-debtcollective
+plugins: 

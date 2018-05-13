@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Debt Collective Statement on Defense to Repayment Negotiated Rulemaking
+date: 2017-11-09 00:00:00 Z
+layout: post
 special-report: true
 ---
 
