@@ -25,3 +25,28 @@ collections:
   pages:
     output: true
     permalink: /:name
+
+defaults:
+  -
+    scope:
+      path: "profiles"
+      type: "profiles"
+    values:
+      layout: "profile"
+      interviewer: ""
+      interviewee: ""
+      date: ""
+      sub-title: ""
+      category: "video"
+      youtube-id: ""
+      video-description: "This should be a short blub describing the video"
+  -
+    scope:
+      path: "news_analysis"
+      type: "news-analysis"
+    values:
+      layout: "news-anlysis"
+      title: ""
+      strike-title: ""
+      lifted-from: ""
+      category: "analysis"
