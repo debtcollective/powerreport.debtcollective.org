@@ -2,7 +2,7 @@
 title: About
 date: 2018-05-13 21:19:00 Z
 permalink: "/about/index.html"
-layout: default-small
+layout: page
 ---
 
 Every month, we are forced into debt for basic necessities. We have no choice but to enter into contracts under unfair terms. We have little power to bargain or negotiate. Creditors are holding us hostage. When we can’t meet the terms of the contract, we are harassed, we have our wages garnished, and some of us are even imprisoned. The goal of the Debt Collective is to fight back and transform how basic necessities, such as education, health care, and housing are provided.
