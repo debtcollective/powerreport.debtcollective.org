@@ -1,0 +1,69 @@
+@mixin special-reports-feed {
+  &__Posts {
+    &-latest {
+      &-metadata {
+        padding-top: 0.25rem;
+        font-size: $font-size-base * 0.75;
+        color: $text-2;
+      }
+
+      &-excerpt {
+        p {
+          margin-bottom: 0;
+          @include page-text;
+          color: $text-2;
+        }
+      }
+
+      &-summary {
+        p {
+          margin-bottom: 0;
+          @include page-text;
+          color: $text-2;
+          font-style: italic;
+        }
+      }
+
+      &-list {
+        list-style: none;
+        padding: 0;
+        @include at-least-medium {
+          padding-top: 2rem;
+        }
+
+        h3 {
+          @include at-least-medium {
+            font-size: $h5-font-size;
+          }
+        }
+
+        &-item {
+          @include only-less-large {
+            margin: 3rem 0;
+          }
+        }
+      }
+    }
+
+    &-date {
+      font-weight: 600;
+    }
+
+    &-author {
+      padding-left: 1rem;
+      font-weight: 400;
+      font-size: $font-size-base * 0.85;
+
+      &.news-analysis {
+        &::before {
+          content: "from";
+          font-style: italic;
+        }
+        font-style: italic;
+        .author-name {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}

@@ -7,14 +7,14 @@ layout: default-small
 
   <header class="News__header">
     <h3 class="News__title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <span class="News__title-strike" itemprop="name headline"><span class="News__title-strike-content">{{ page.strike-title | escape }}</span></span>
+    <span class="News__title-strike" itemprop="name headline"><span class="News__title-strike-content">{{ page.sub-title | escape }}</span></span>
     <p class="News__meta">
       <time class="News__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
       {%- if page.lifted-from -%}
-        <span class="News__lifted-from" itemprop="name">Originally from <em><u>{{ page.lifted-from }}</u></em></span>
+        <span class="News__lifted-from" itemprop="name">Originally from <em><u>{{ page.author }}</u></em></span>
       {%- endif -%}</p>
   </header>
 

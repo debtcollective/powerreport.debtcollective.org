@@ -32,15 +32,9 @@
       &__nav {
         @include at-least-medium {
           padding-top: 6rem;
-          &-dropdown {
-            display: none;
-          }
         }
-        @include at-most-medium {
+        @include only-less-large {
           padding-top: 3rem;
-          &-buttons {
-            display: none;
-          }
         }
       }
       &__title,

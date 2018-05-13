@@ -1,0 +1,28 @@
+{% if post %}
+  <div class="mb-5">
+    {%- include tag-decoration.html -%}
+  
+    <h3 class="Feed__Posts-latest-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h3>
+    {% if post.summary %}
+      <div class="Feed__Posts-latest-summary">
+        <p>
+          {{ post.summary | truncatewords: 30 }}
+        </p>
+      </div>
+    {% endif %}
+    <div class="Feed__Posts-latest-metadata">
+      <div class="Feed__Posts-date">
+        {{ post.date | date: "%b %-d, %Y" }}
+        {% if post.author %}
+          <span class="Feed__Posts-author {{ post.layout }}">
+            <span class="author-name">
+              {{ post.author }}
+            </span>
+          </span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endif %}

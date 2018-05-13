@@ -1,17 +1,20 @@
 {% if post %}
-  <li class="Feed__Posts-latest-list-item pt-1">
-    <h5 class="Feed__Posts-latest-list-item-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h5>
-    <div class="Feed__Posts-latest-metadata">
-      <div class="Feed__Posts-date">
-        {{ post.date | date: "%b %-d, %Y" }}
-        {% if post.author %}
-          <span class="Feed__Posts-author">
-            {{ post.author }}
-          </span>
-        {% endif %}
-      </div>
+  <h3 class="Feed__Posts-latest-title">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </h3>
+  {% if is_latest %}
+    <div class="Feed__Posts-latest-excerpt">
+      {{ post.excerpt | truncatewords: 30 }}
     </div>
-  </li>
+  {% endif %}
+  <div class="Feed__Posts-latest-metadata">
+    <div class="Feed__Posts-date">
+      {{ post.date | date: "%b %-d, %Y" }}
+      {% if post.author %}
+        <span class="Feed__Posts-author">
+          {{ post.author }}
+        </span>
+      {% endif %}
+    </div>
+  </div>
 {% endif %}

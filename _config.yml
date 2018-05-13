@@ -6,6 +6,10 @@ collections:
     title: News Analysis
     output: true
     permalink: "/news-analysis/:name"
+  artwork:
+    title: Artwork
+    output: true
+    permalink: "/artwork/:name"
   profiles:
     title: Profiles
     output: true

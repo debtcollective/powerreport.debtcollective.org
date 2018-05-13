@@ -1,0 +1,32 @@
+---
+layout: default-hero
+---
+
+<div class="Home container mt-5">
+  <div class="row">
+    <div class="col-md-6 offset-md-3">
+      {% assign post = site.posts | first %}
+
+      {%- include index-feed-item.html -%}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-6">
+      {% assign artwork = site.artwork | first %}
+
+      {%- include latest-artwork.html -%}
+    </div>
+    <div class="col-md-6">
+      {% for post in site.posts %}
+        {% if forloop.first %}
+        {% else %}
+          {% case forloop.index %}
+            {% when 2 or 3 %}
+              {%- include index-feed-item.html %}
+          {% endcase %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
