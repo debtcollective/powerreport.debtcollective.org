@@ -1,6 +1,6 @@
 ---
 title: Profiles
-permalink: "/profiles"
+permalink: "/profiles/index.html"
 layout: default-small-no-feed
 ---
 
