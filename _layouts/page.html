@@ -1,0 +1,14 @@
+---
+layout: default-small
+---
+<article class="Page">
+  <header class="Page__header">
+    <h3 class="Page__title">{{ page.title | escape }}</h3>
+    <span class="Post__title-sub">{{ page.sub-title | escape }}</span>
+  </header>
+  <div class="Page__content copy">
+    {{ content }}
+  </div>
+
+  <a href="{{ page.url | relative_url }}" hidden></a>
+</article>

@@ -1,0 +1,39 @@
+---
+layout: default-small
+---
+<article class="Profile" itemscope itemtype="http://schema.org/BlogProfileing">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="Profile__picture">
+          {%- if page.interviewee-picture -%}
+            <img src="{{ page.interviewee-picture | escape }}" alt="{{ page.interviewee | escape }} picture">
+          {%- else -%}
+            <div class="Profile__picture-placeholder"></div>
+          {%- endif -%}
+        </div>
+      </div>
+      <div class="col-md-8">
+        <header class="Profile__header">
+          <h3 class="Profile__title-pre tight">An interview with:</h3>
+          <h3 class="Profile__title" itemprop="name headline">{{ page.interviewee | escape }}</h1>
+          <span class="Profile__title-sub">{{ page.sub-title | escape }}</span>
+          <p class="Profile__meta">
+            <time class="Profile__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+              {{ page.date | date: date_format }}
+            </time>
+            {%- if page.interviewer -%}
+              <span class="Profile__author" itemprop="name">{{ page.interviewer }}</span>
+            {%- endif -%}</p>
+        </header>
+      
+        <div class="Profile__content copy" itemprop="articleBody">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <a class="" href="{{ page.url | relative_url }}" hidden></a>
+</article> 

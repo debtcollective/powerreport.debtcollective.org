@@ -1,0 +1,114 @@
+.SiteHeader {
+  background-color: $text-0;
+  color: $white;
+  margin-top: $header-height;
+  width: 100%;
+  &__hero {
+    height: $header-height-hero;
+    @include at-most-medium {
+      height: $header-height-hero * 0.8;
+    }
+    .SiteHeader {
+      &__tag {
+        padding-top: 5rem;
+        font-style: italic;
+        font-weight: 800;
+        text-transform: uppercase;
+      }
+      &__title {
+        padding-top: 3rem;
+        @include at-most-medium {
+          font-size: $font-size-xl;
+        }
+      }
+      &__stroke {
+        height: 2rem;
+        background-position: bottom;
+        @include at-most-medium {
+          width: 20.625rem;
+          margin: auto;
+        }
+      }
+      &__nav {
+        @include at-least-medium {
+          padding-top: 6rem;
+          &-dropdown {
+            display: none;
+          }
+        }
+        @include at-most-medium {
+          padding-top: 3rem;
+          &-buttons {
+            display: none;
+          }
+        }
+      }
+      &__title,
+      &__tag,
+      &__nav {
+        margin: auto;
+        text-align: center;
+      }
+    }
+  }
+  &__small {
+    height: $header-height;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .SiteHeader {
+      &__title {
+        display: inline-block;
+        text-align: left;
+
+        &.tight {
+          font-size: $font-size-base * 3.75;
+          padding-left: $font-size-base * 1.5;
+          padding-top: $font-size-base * 0.25;
+          @include only-x-small() {
+            font-size: $font-size-base * 2;
+          }
+          @include only-less-medium() {
+            padding-left: $font-size-base * 0.5;
+          }
+        }
+      }
+
+      &__nav {
+        display: inline-block;
+        .btn-outline-white {
+          border: none;
+        }
+      }
+    }
+  }
+
+  &__dropdown {
+    border-radius: 8px;
+    border: 1px solid $text-3;
+    background-color: $white;
+    padding: 0;
+    width: 20em;
+
+    a {
+      text-decoration: none;
+      font-weight: 600;
+      padding: 1rem 1rem;
+
+      &:hover {
+        background-color: rgba(0, 0, 0, 0.1);
+      }
+
+      &:first-child {
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+      }
+
+      &:last-child {
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+<div class="Profiles__BigFeed-item my-5">
+  <div class="Profiles__BigFeed-item-picture float-left">
+    <img src="{{ profile.interviewee-picture }}" alt="{{ profile.interviewee }} picture" />
+  </div>
+  <div>
+    <h5 class="Profiles__BigFeed-item-name">
+      {{ profile.interviewee }}
+    </h5>
+    <div class="Profiles__BigFeed-item-sub-title">
+      {{ profile.sub-title }}
+    </div>
+    <div class="Profiles__BigFeed-item-metadata">
+      {%- assign date_format = "%b %-d, %Y" -%} {{ profile.date | date: date_format }}
+      <div class="Profiles__BigFeed-item-metadata-interviewer d-sm-inline-block d-xs-inline-block">
+        {{ profile.interviewer }}
+      </div>
+    </div>
+  </div>
+</div>

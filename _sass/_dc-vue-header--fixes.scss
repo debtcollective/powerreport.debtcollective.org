@@ -1,0 +1,9 @@
+p.nav-item-wrapper {
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+/** Prevents the video controls from overlapping the header */
+.Header {
+  z-index: 3 !important;
+}

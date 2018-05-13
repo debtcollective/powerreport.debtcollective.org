@@ -1,0 +1,164 @@
+@mixin only-large() {
+  @media (min-width: $w-md) and (max-width: $w-lg) {
+    @content;
+  }
+}
+
+@mixin only-medium() {
+  @media (min-width: $w-sm) and (max-width: $w-md) {
+    @content;
+  }
+}
+
+@mixin only-small() {
+  @media (min-width: $w-xs) and (max-width: $w-sm) {
+    @content;
+  }
+}
+
+@mixin only-x-small() {
+  @media (max-width: $w-xs) {
+    @content;
+  }
+}
+
+@mixin only-less-small() {
+  @media (max-width: $w-xs) {
+    @content;
+  }
+}
+
+@mixin only-less-medium() {
+  @media (max-width: $w-sm) {
+    @content;
+  }
+}
+
+@mixin only-less-large() {
+  @media (max-width: $w-md) {
+    @content;
+  }
+}
+
+@mixin at-least-x-small() {
+  @media (min-width: $w-xs) {
+    @content;
+  }
+}
+
+@mixin at-least-small() {
+  @media (min-width: $w-sm) {
+    @content;
+  }
+}
+
+@mixin at-least-medium() {
+  @media (min-width: $w-md) {
+    @content;
+  }
+}
+
+@mixin at-most-medium() {
+  @media (max-width: $w-md) {
+    @content;
+  }
+}
+
+@mixin at-least-large() {
+  @media (min-width: $w-lg) {
+    @content;
+  }
+}
+
+@mixin page-margins() {
+  @include at-least-medium() {
+    margin-left: 8rem;
+  }
+  @include only-medium() {
+    margin-left: 2rem;
+  }
+  @include only-small() {
+    margin-left: 1rem;
+  }
+  @include only-x-small() {
+    margin-left: 0.5rem;
+  }
+  max-width: 37.5rem;
+}
+
+@mixin page-header-margins {
+  @include only-small() {
+    margin-top: 2rem;
+  }
+  @include only-x-small() {
+    margin-top: 2rem;
+  }
+
+  margin-top: 7rem;
+}
+
+@mixin page-text {
+  line-height: 1.7;
+  font-size: $font-size-sm;
+}
+
+@mixin page-copy {
+  margin-top: 4rem;
+
+  &.copy {
+    p {
+      @include page-text;
+    }
+  }
+}
+
+@mixin page-meta {
+  margin-top: 1rem;
+}
+
+@mixin page-meta-date {
+  font-weight: 600;
+  font-size: $h6-font-size;
+}
+
+@mixin page-meta-author {
+  font-size: $font-size-sm;
+  padding-left: 2rem;
+  @include only-less-small() {
+    padding-left: 0;
+    padding-top: 0.125rem;
+    display: block;
+  }
+}
+
+@mixin page {
+  &__header,
+  &__content {
+    @include page-margins;
+  }
+
+  &__header {
+    @include page-header-margins;
+  }
+
+  &__title-sub {
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  &__meta {
+    @include page-meta;
+  }
+
+  &__date {
+    @include page-meta-date;
+  }
+
+  &__author {
+    @include page-meta-author;
+  }
+
+  &__content {
+    @include page-copy;
+  }
+}

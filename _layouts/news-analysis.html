@@ -1,0 +1,25 @@
+---
+layout: default-small
+---
+<article class="News" itemscope itemtype="http://schema.org/BlogPosting">
+  <h3 class="News__news-analysis tight">News Analysis</h3>
+
+  <header class="News__header">
+    <h3 class="News__title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <span class="News__title-strike" itemprop="name headline"><span class="News__title-strike-content">{{ page.strike-title | escape }}</span></span>
+    <p class="News__meta">
+      <time class="News__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.lifted-from -%}
+        <span class="News__lifted-from" itemprop="name">Originally from <em><u>{{ page.lifted-from }}</u></em></span>
+      {%- endif -%}</p>
+  </header>
+
+  <div class="News__content copy" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <a class="" href="{{ page.url | relative_url }}" hidden></a>
+</article>

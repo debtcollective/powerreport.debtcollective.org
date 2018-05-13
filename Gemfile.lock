@@ -1,6 +1,5 @@
-GIT
-  remote: git://github.com/debtcollective/jekyll-debtcollective.git
-  revision: 9428263591b7d23f5f4c3508d5ee69bb9ef99eff
+PATH
+  remote: .
   specs:
     jekyll-debtcollective (0.1.0)
       jekyll (~> 3.7)
@@ -34,8 +33,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-feed (0.9.3)
-      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (2.0.0)
@@ -50,6 +47,7 @@ GEM
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.2)
+    rake (12.3.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -66,10 +64,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.1)
+  bundler (~> 1.16)
   jekyll-debtcollective!
-  jekyll-feed (~> 0.6)
-  tzinfo-data
+  rake (~> 12.0)
 
 BUNDLED WITH
    1.16.1

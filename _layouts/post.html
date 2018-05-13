@@ -1,0 +1,25 @@
+---
+layout: default-small
+---
+<article class="Post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="Post__header">
+    <h3 class="Post__title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <span class="Post__title-sub" itemprop="name headline">{{ page.sub-title | escape }}</span>
+    <p class="Post__meta">
+      <time class="Post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        <span class="Post__author" itemprop="name">{{ page.author }}</span>
+      {%- endif -%}</p>
+  </header>
+
+  <div class="Post__content copy" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <a class="" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+
+

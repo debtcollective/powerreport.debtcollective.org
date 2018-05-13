@@ -1,0 +1,87 @@
+---
+layout: default-small-no-feed
+---
+
+<div class="Profiles">
+  <div class="Profiles__title tight">Member Profiles</div>
+
+  <div class="Profiles__video-feed container-fluid">
+    <div class="row">
+      <div class="col-12">
+        {% assign latest_video = site.profiles | where: "category","video" | last %}
+
+        {% assign safe_id = latest_video.archive-video-location | replace: '.', '-' | replace: '/', '-' %}
+        {% assign video_id = "video-" | append:safe_id %}
+        {% assign details_id = "details-" | append:safe_id %}
+        {% assign sub_title_id = "sub-title-" | append:safe_id %}
+        {% assign video_src = "https://archive.org/download/" | append:latest_video.archive-video-location %}
+        {% assign video_poster = "https://archive.org/download/" | append:latest_video.video-poster-location %}
+        <div class="Profiles__video-latest mt-2">
+          <div class="Profiles__video-wrapper">
+            <video
+              controls
+              playsinline
+              id="{{video_id}}"
+              src="{{video_src}}"
+              poster="{{video_poster}}"
+              data-plyr-config='{ "title": "{{latest_video.interviewee}}", "clickToPlay": true }'
+            ></video>
+            <div class="Profiles__video-details" id="{{details_id}}">
+              <div class="Profiles__video-title">
+                {{latest_video.interviewee}}
+              </div>
+              <div class="Profiles__video-description">
+                {{latest_video.video-description}}
+              </div>
+            </div>
+          </div>
+          <script>
+            const player = new Plyr('#{{video_id}}');
+            player.on('ready', function(e) {
+              const instance = e.detail.plyr;
+              const details = $('#{{details_id}}');
+              details.css('display', 'inline-block');
+              $('.plyr__controls').prepend(details[0]);
+            })
+          </script>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="Profiles__BigFeed-wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 mt-3">
+          <h3>Our Latest Member Interviews</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-9">
+          {% assign profile = site.profiles[0] %}
+          {%- include profiles-big-feed-item.html -%}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-9 offset-md-3">
+          {% assign profile = site.profiles[1] %}
+          {%- include profiles-big-feed-item.html -%}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-9">
+          {% assign profile = site.profiles[2] %}
+          {%- include profiles-big-feed-item.html -%}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-12 d-flex justify-content-center">
+        <a class="btn btn-outline-light" href="/profiles/all">see more interviews</a>
+      </div>
+    </div>
+  </div>
+</div>

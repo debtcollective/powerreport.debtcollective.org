@@ -1,0 +1,84 @@
+.News {
+  &__news-analysis {
+    font-size: $font-size-base * 3.75;
+    color: $dc-red;
+    padding-top: $font-size-base;
+    padding-left: $font-size-base * 1.5;
+    padding-right: $font-size-base * 1.5;
+    @include only-less-medium() {
+      margin: auto;
+      padding-left: $font-size-base * 0.5;
+      padding-right: $font-size-base * 0.5;
+    }
+  }
+
+  @include page;
+
+  &__header {
+    .News {
+      &__title {
+        margin-bottom: 1rem;
+        &-strike {
+          padding-right: 1.125rem;
+        }
+      }
+    }
+  }
+
+  &__title {
+    &-strike {
+      font-size: 2rem;
+      text-decoration: line-through $dc-red;
+      line-height: 0;
+      &-content {
+        font-size: 1.125rem;
+        vertical-align: middle;
+      }
+    }
+  }
+
+  &__lifted-from {
+    @include page-meta-author;
+  }
+
+  &__content {
+    mark {
+      background-color: $ex-yellow-tint;
+      padding: 0;
+    }
+
+    aside {
+      @mixin aside-width-pos-l-m() {
+        transform: translateY(-4rem);
+        position: absolute;
+        max-width: 20rem;
+      }
+      @include only-large() {
+        @include aside-width-pos-l-m();
+        left: 50rem;
+      }
+      @include only-medium() {
+        @include aside-width-pos-l-m();
+        left: 41rem;
+      }
+
+      @include only-less-medium() {
+        margin-bottom: 3rem;
+        margin-top: 1rem;
+      }
+
+      font-weight: 600;
+      font-size: $font-size-sm;
+      padding-right: 2rem;
+      &::before {
+        position: absolute;
+        transform: translateY(-1.5rem);
+        padding-left: 1.5rem;
+        content: "DEBT COLLECTIVE";
+        color: $dc-red;
+        background-image: url($star-url);
+        background-repeat: no-repeat;
+      }
+    }
+  }
+}

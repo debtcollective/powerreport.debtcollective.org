@@ -1,0 +1,68 @@
+.Footer {
+  background-color: $text-0;
+  margin-top: 3rem;
+  padding: 3rem 0 1rem 0;
+  color: $white;
+
+  &__list {
+    @include only-less-medium {
+      &:first-child,
+      &:nth-child(2) {
+        margin-bottom: 2rem;
+      }
+    }
+    &-head {
+      text-transform: uppercase;
+      color: $text-2;
+      font-weight: 400;
+      font-size: $font-size-base;
+    }
+    &-item {
+      &:not(:last-child) {
+        margin-bottom: 1rem;
+      }
+      a {
+        color: $white;
+        text-decoration: none;
+
+        &:hover {
+          color: $text-5;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+
+  &__brand {
+    margin-top: 3rem;
+    img {
+      height: 3.375rem;
+    }
+    &-copyright {
+      color: $text-1;
+      font-size: $font-size-sm;
+    }
+    &-tos,
+    &-copyright {
+      display: inline-block;
+      white-space: nowrap;
+    }
+    &-tos {
+    }
+    &-copy-and-tos {
+    }
+    @include at-least-small {
+      &-tos {
+        padding-left: 2.5rem;
+      }
+    }
+    @include only-less-medium {
+      &-logo,
+      &-copy-and-tos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  }
+}

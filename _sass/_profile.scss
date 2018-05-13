@@ -1,0 +1,72 @@
+.Profile {
+  @include page;
+
+  .container {
+    max-width: 100%;
+  }
+
+  &__header,
+  &__content {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  &__picture {
+    $base-width: 18.375rem;
+    $base-height: 21.6875rem;
+    @include only-large {
+      width: $base-width;
+      height: $base-height;
+    }
+    @include only-less-large {
+      width: $base-width * 0.75;
+      height: $base-height * 0.75;
+    }
+
+    margin-top: 2rem;
+    margin-left: 1rem;
+
+    @include at-least-small {
+      margin-left: 2rem;
+    }
+
+    transform: rotate(-6deg);
+
+    &-placeholder,
+    img {
+      background-color: $text-3;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  &__title-pre {
+    font-size: 1.5rem;
+    color: $principal-green;
+  }
+
+  &__meta {
+    color: $text-2;
+  }
+
+  &__content {
+    counter-reset: question;
+
+    dt {
+      @include page-text;
+      font-weight: 600;
+      &::before {
+        counter-increment: question;
+        content: counter(question) ".";
+        padding-right: 0.25rem;
+      }
+    }
+    dd {
+      margin-top: 2rem;
+      font-weight: 400;
+      &:not(:last-child) {
+        margin-bottom: 4rem;
+      }
+    }
+  }
+}

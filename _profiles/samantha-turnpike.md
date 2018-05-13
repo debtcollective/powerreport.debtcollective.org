@@ -1,0 +1,17 @@
+---
+layout: profile
+date: 27/04/2018
+interviewer: Interviewer Name
+interviewee: Samantha Turnpike
+sub-title: This could be a quote or something from the person that goes here, more content
+category: profile
+---
+
+Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.  
+: Looking back I've learned so much as far as being an organizer with Debt Collective and Everest Colleges Avengers. It has truly been some of the most rewarding moments of my life. I have learned how strong willed I am as well as how encouraging others find me to be even when I feel like I may not be the most encouraged myself. I entered the movement as a graduate of a college that was not only ripping 10s of thousands of people off but a person that was and still is determined to get justice and reilef for all. I feel like I have grown so much in the way that I view politics and our government. I'm more willing to challenge the system instead of just going along with what I'm told to do. I feel like today in this moment I'm less susceptible to scare tactics and more headstrong and ready to fight back and demand the right thing be done by our citizens. This is our AMERICA and we want what is constitutionally promised to us!
+
+What does your family think about the organizing work you have done to help win over $600 million in relief for people across the US.?  
+: My parents (Kimberly Hornes, Troy Sublett) are extremely proud of the work that I've done with Debt Collective. From the beginning they have made it a point to tell me to do the right thing and fight for those who felt as if they didn't have a voice. It's crazy because I don't think any of us really pay attention to the number but $600 million is a huge number. Granted that we are Trillions of dollars in debt it's still a number to be proud of and to know that we are working towards an even bigger goal is what makes it all worth it.
+
+Please tell me about what being an leader and activist has meant to you?  
+: I never really considered myself a "leader" in the sense that I've always been a person who values his privacy and alone time. I never thought of myself as a person to set any trends and be an inspiration or influencer to others. It wasn't until I got with my former classmates & starting meeting with students hearing their stories and putting it out there on social media that I saw how I could be a leader and inspire change. It truly means the world to me that I have been a part of any type of change or shift in someone's thinking so that they get up and fight for themselves. It has been amazing to have people tell me the work that we have done is helping them in any way big or small. I'm truly honored and privileged to be in the place that I am and I really owe it all to God and the people that have been placed in my life to help me get thus far. Debt collective has given me a platform to help grow a cause that has been near and dear to my heart & I wouldn't be the person I am today without the help of them, so thank you all! (seen and unseen).

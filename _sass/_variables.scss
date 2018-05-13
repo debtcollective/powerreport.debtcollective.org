@@ -1,0 +1,63 @@
+/**
+ * Colors
+ */
+
+$white: #fcfbf7 !default;
+$very-white: #fff !default;
+$dc-red: #ff4630 !default;
+$principal-green: #24ba9d !default;
+
+$ex-blue: #007fff !default;
+$ex-red: #f23f56 !default;
+$ex-green: #70de54 !default;
+$ex-purple: #9460d6 !default;
+$ex-orange: #f17129 !default;
+$ex-yellow: #ffc957 !default;
+
+$ex-blue-tint: #a6dfff !default;
+$ex-red-tint: #ffb5c2 !default;
+// $ex-green-tint: #d8ffba !default;
+// $ex-purple-tint: #dcc6f7 !default;
+// $ex-orange-tint: #ffb78f !default;
+$ex-yellow-tint: #ffef9e !default;
+
+// $highlighter: $ex-yellow-tint;
+$bg-blue: #dbf8ff !default;
+$bg-tan: #fcfbf7 !default;
+$text-0: #2b2b2b !default;
+$text-1: #4f4f4f !default;
+$text-2: #828282 !default;
+$text-3: #bdbdbd !default;
+$text-4: #e0e0e0 !default;
+$text-5: #f2f2f2 !default;
+
+/**
+ * Sizes
+ */
+
+$header-height-hero: 26.5rem;
+$header-height: 4.5rem;
+
+$font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
+$font-size-xl: $font-size-base * 3.25;
+$font-size-lg: ($font-size-base * 1.25) !default;
+$font-size-md: $font-size-base * 1.125;
+$font-size-sm: ($font-size-base * 0.875) !default;
+
+$h1-font-size: $font-size-base * 6.625 !default;
+$h2-font-size: $font-size-base * 3.25 !default;
+$h3-font-size: $font-size-base * 2 !default;
+$h4-font-size: $font-size-base * 1.5 !default;
+$h5-font-size: $font-size-base * 1.125 !default;
+$h6-font-size: $font-size-base * 0.8125 !default;
+
+/**
+ * Breakpoints
+ *
+ * These just match the Bootstrap breakpoints pixel values in rems
+ */
+
+$w-xs: 36rem;
+$w-sm: 48rem;
+$w-md: 62rem;
+$w-lg: 75rem;

@@ -1,0 +1,20 @@
+{% if profile %}
+  <li class="Feed__Profiles__latest-list-item">
+    <div class="Feed__Profiles__latest-list-item-picture float-left">
+      <img src="{{profile.interviewee-picture}}" alt="{{profile.interviewee}} picture" />
+    </div>
+    <div class="">
+      <h5 class="Feed__Profiles__latest-list-item-name">
+        <a href="{{ profile.url | relative_url }}">{{profile.interviewee}}</a>
+      </h6>
+      <div class="Feed__Profiles__latest-list-item-sub-title">
+        {{profile.sub-title}}
+      </div>
+      <div class="Feed__Profiles__latest-list-item-metadata">
+          {%- assign date_format = "%b %-d, %Y" -%}
+          {{ profile.date | date: date_format }}
+          <span class="Feed__Profiles__latest-list-item-metadata-interviewer">{{profile.interviewer}}</span>
+      </div>
+    </div>
+  </li>
+{% endif %}

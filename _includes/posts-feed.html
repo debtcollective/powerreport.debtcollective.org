@@ -1,0 +1,58 @@
+<div class="Feed Feed__Posts container">
+  <div class="row">
+    <div class="col-md-9 col-sm-12">
+      <h3 class="Feed__title tight">Special Reports</h3>
+    </div>
+    <div class="col-md-3 d-xl-block d-lg-block d-md-none d-sm-none d-none">
+      <a href="/reports" class="btn btn-outline-light float-right">
+        More special reports
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  </div>
+
+  <hr class="mt-0">
+
+  <div class="row">
+    <div class="col-lg-7 mb-3">
+      {% assign latest_post = site.posts | last %}
+
+      {% if latest_post.special-report %}
+        <h6 class="Feed__Posts-special-report-head mt-3"><div class="splat"></div>Special Report</h6>
+      {% endif %}
+      <h3 class="Feed__Posts-latest-title mt-3"><a href="{{ latest_post.url | relateive_url }}">{{ latest_post.title }}</a></h3>
+      <div class="Feed__Posts-latest-metadata">
+        <div class="Feed__Posts-date">
+          {{ latest_post.date | date: "%b %-d, %Y" }}
+          {% if latest_post.author %}
+            <span class="Feed__Posts-author">
+              {{ latest_post.author }}
+            </span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-5">
+      <div class="Feed__Posts-latest">
+        {% assign posts = site.posts | reverse %}
+
+        <ul class="Feed__Posts-latest-list">
+          <!-- Skip the first one as that's what we're displaying above -->
+          {% assign post = posts[1] %}
+          {%- include posts-feed-item.html -%}
+          {% assign post = posts[2] %}
+          {%- include posts-feed-item.html -%}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+      <div class="col-12 d-xl-none d-lg-none d-md-flex d-sm-flex d-flex justify-content-center">
+        <a href="/reports" class="btn btn-outline-light">
+          More Special Reports
+        </a>
+      </div>
+    </div>
+</div>
