@@ -6,10 +6,6 @@ collections:
     title: News Analysis
     output: true
     permalink: "/news-analysis/:name"
-  pages:
-    title: Pages
-    output: true
-    permalink: "/:name"
   profiles:
     title: Profiles
     output: true
