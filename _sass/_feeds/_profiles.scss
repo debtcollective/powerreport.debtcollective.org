@@ -1,6 +1,4 @@
-.Feed {
-  margin-top: 5rem;
-
+@mixin profiles-feed {
   &__Profiles {
     &__latest {
       &-headline {
@@ -96,76 +94,4 @@
       }
     }
   }
-
-  &__Posts {
-    &-special-report-head {
-      color: $principal-green;
-      text-transform: uppercase;
-      line-height: 1.3;
-      letter-spacing: 0.03rem;
-    }
-
-    &-latest {
-      &-metadata {
-        padding-top: 0.25rem;
-        font-size: $font-size-base * 0.75;
-        color: $text-2;
-      }
-
-      &-list {
-        list-style: none;
-        padding: 0;
-        @include at-least-medium {
-          padding-top: 2rem;
-        }
-
-        &-item {
-          @include only-less-large {
-            margin: 3rem 0;
-
-            &-title {
-              font-size: $h3-font-size;
-            }
-          }
-        }
-      }
-    }
-
-    &-date {
-      font-weight: 600;
-    }
-
-    &-author {
-      padding-left: 1rem;
-      font-weight: 400;
-      font-size: $font-size-base * 0.85;
-    }
-  }
-
-  &__title {
-    font-size: $font-size-base * 3.25;
-  }
-}
-
-.plyr--full-ui {
-  border-radius: 4px;
-
-  input[type="range"] {
-    color: $principal-green;
-  }
-}
-
-.plyr__control--overlaid {
-  background-color: $principal-green;
-  opacity: 0;
-  &:hover {
-    opacity: 1;
-    background-color: lighten($principal-green, 10%);
-  }
-}
-
-.plyr--video .plyr__controls .plyr__control.plyr__tab-focus,
-.plyr--video .plyr__controls .plyr__control:hover,
-.plyr--video .plyr__controls .plyr__control[aria-expanded="true"] {
-  background-color: lighten($principal-green, 10%);
 }

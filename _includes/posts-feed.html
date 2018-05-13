@@ -15,12 +15,15 @@
 
   <div class="row">
     <div class="col-lg-7 mb-3">
-      {% assign latest_post = site.posts | last %}
+      {% assign latest_post = site.posts | first %}
 
       {% if latest_post.special-report %}
         <h6 class="Feed__Posts-special-report-head mt-3"><div class="splat"></div>Special Report</h6>
       {% endif %}
       <h3 class="Feed__Posts-latest-title mt-3"><a href="{{ latest_post.url | relateive_url }}">{{ latest_post.title }}</a></h3>
+      <div class="Feed__Posts-latest-excerpt">
+        {{ latest_post.excerpt | truncatewords: 30 }}
+      </div>
       <div class="Feed__Posts-latest-metadata">
         <div class="Feed__Posts-date">
           {{ latest_post.date | date: "%b %-d, %Y" }}
@@ -35,14 +38,14 @@
 
     <div class="col-lg-5">
       <div class="Feed__Posts-latest">
-        {% assign posts = site.posts | reverse %}
-
         <ul class="Feed__Posts-latest-list">
           <!-- Skip the first one as that's what we're displaying above -->
-          {% assign post = posts[1] %}
-          {%- include posts-feed-item.html -%}
-          {% assign post = posts[2] %}
-          {%- include posts-feed-item.html -%}
+          {% for post in site.posts  %}
+            {% case forloop.index %}
+              {% when 2 or 3 %}
+                {%- include posts-feed-item.html -%}
+            {% endcase %}
+          {% endfor %}
         </ul>
       </div>
     </div>

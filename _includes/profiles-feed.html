@@ -10,12 +10,12 @@
       </a>
     </div>
   </div>
-
+  
   <hr class="mt-0"/>
 
   <div class="row">
     <div class="col-lg-7 mb-3">
-      {% assign latest_video = site.profiles | where: "category","video" | last %}
+      {% assign latest_video = site.profiles | where: "categories", "video" | last %}
 
       {% assign safe_id = latest_video.archive-video-location | replace: '.', '-' | replace: '/', '-' %}
       {% assign video_id = "video-" | append:safe_id %}
@@ -61,13 +61,15 @@
     <div class="col-lg-5">
       <div class="Feed__Profiles__latest">
         <h4 class="Feed_Profiles__latest-headline">Latest Member Interviews</h4>
-        {% assign profiles = site.profiles | where: "category", "profile" | reverse %}
+        {% assign profiles = site.profiles | where: "categories", "profile" | reverse %}
 
         <ul class="Feed__Profiles__latest-list">
-          {% assign profile = profiles[0] %}
-          {%- include profiles-feed-item.html -%}
-          {% assign profile = profiles[1] %}
-          {%- include profiles-feed-item.html -%}
+          {% for profile in profiles %}
+            {% case forloop.index %}
+              {% when 1 or 2 %}
+                {%- include profiles-feed-item.html -%}
+            {% endcase %}
+          {% endfor %}
         </ul>
       </div>
     </div>

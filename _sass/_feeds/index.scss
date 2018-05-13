@@ -1,0 +1,12 @@
+@import "profiles";
+@import "special-reports";
+
+.Feed {
+  margin-top: 5rem;
+  &__title {
+    font-size: $font-size-base * 3.25;
+  }
+
+  @include profiles-feed;
+  @include special-reports-feed;
+}

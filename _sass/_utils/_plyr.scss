@@ -1,0 +1,22 @@
+.plyr--full-ui {
+  border-radius: 4px;
+
+  input[type="range"] {
+    color: $principal-green;
+  }
+}
+
+.plyr__control--overlaid {
+  background-color: $principal-green;
+  opacity: 0;
+  &:hover {
+    opacity: 1;
+    background-color: lighten($principal-green, 10%);
+  }
+}
+
+.plyr--video .plyr__controls .plyr__control.plyr__tab-focus,
+.plyr--video .plyr__controls .plyr__control:hover,
+.plyr--video .plyr__controls .plyr__control[aria-expanded="true"] {
+  background-color: lighten($principal-green, 10%);
+}
