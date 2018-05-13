@@ -10,13 +10,13 @@ collections:
     title: Pages
     output: true
     permalink: "/:name"
-  posts:
-    title: Posts
-    output: true
   profiles:
     title: Profiles
     output: true
     permalink: "/profiles/:title"
+  posts:
+    title: Statements/Special Reports
+    output: true
   uploads:
     title: Uploads
     output: true
