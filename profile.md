@@ -1,9 +1,10 @@
 ---
+date: 2018-07-14 00:00:00 Z
 layout: profile
-date: 14/07/2018
 interviewer: Interviewer Name
 interviewee: Nathan Hornes
-sub-title: This could be a quote or something from the person that goes here, more content
+sub-title: This could be a quote or something from the person that goes here, more
+  content
 ---
 
 Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.  

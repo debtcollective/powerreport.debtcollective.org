@@ -1,8 +1,9 @@
 ---
-layout: news-analysis
-date: 07/05/2018
 title: Banks want to take even more of your money from this headline head
-strike-title: Banks look to Break Government's Hold on Student Loan Market; Lobbying group pushes to limit how much individuals can borrow from federal program
+date: 2018-05-07 00:00:00 Z
+layout: news-analysis
+strike-title: Banks look to Break Government's Hold on Student Loan Market; Lobbying
+  group pushes to limit how much individuals can borrow from federal program
 lifted-from: The Wall Street Journal
 ---
 

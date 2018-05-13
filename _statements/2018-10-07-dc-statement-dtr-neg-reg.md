@@ -1,8 +1,8 @@
 ---
+title: Debt Collective Statement on Defense to Repayment Negotiated Rulemaking
+date: 2018-10-07 00:00:00 Z
 layout: post
 author: Laura Hanna
-title: Debt Collective Statement on Defense to Repayment Negotiated Rulemaking
-date: 07/10/2018
 category: post
 ---
 

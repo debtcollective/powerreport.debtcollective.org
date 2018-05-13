@@ -1,8 +1,8 @@
 ---
+title: Debt Collective Statement on Defense to Repayment Negotiated Rulemaking
+date: 2018-05-07 00:00:00 Z
 layout: post
 author: Laura Hanna
-title: Debt Collective Statement on Defense to Repayment Negotiated Rulemaking
-date: 07/05/2018
 ---
 
 Next week, the Department of Education will hold the first in a series of meetings ("neg reg") on Defense to Repayment, the law that says students who were defrauded by their school have a right to have their federal loans cancelled. The Debt Collective will not be participating in this illegitimate process because it is a brazen attempt to ditch rules finalized last year.  
