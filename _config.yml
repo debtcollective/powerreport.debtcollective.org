@@ -39,7 +39,7 @@ defaults:
   -
     scope:
       path: "news_analysis"
-      type: "posts"
+      type: "news_analysis"
     values:
       layout: "news-anlysis"
       strike-title: ""
