@@ -1,0 +1,17 @@
+.PageStream {
+  .Feed__Posts-latest-title {
+    @include only-less-large {
+      font-size: $h4-font-size;
+    }
+  }
+  &__header {
+    @include feed-page-header;
+    margin-bottom: 5rem;
+  }
+
+  .container {
+    @include only-less-medium {
+      padding-top: 5rem;
+    }
+  }
+}

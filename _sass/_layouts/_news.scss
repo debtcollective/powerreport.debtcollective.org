@@ -1,15 +1,7 @@
 .News {
   &__news-analysis {
-    font-size: $font-size-base * 3.75;
+    @include feed-page-header;
     color: $dc-red;
-    padding-top: $font-size-base;
-    padding-left: $font-size-base * 1.5;
-    padding-right: $font-size-base * 1.5;
-    @include only-less-medium() {
-      margin: auto;
-      padding-left: $font-size-base * 0.5;
-      padding-right: $font-size-base * 0.5;
-    }
   }
 
   @include page;
@@ -53,7 +45,7 @@
         position: absolute;
         max-width: 20rem;
       }
-      @include only-large() {
+      @include at-least-medium() {
         @include aside-width-pos-l-m();
         left: 50rem;
       }

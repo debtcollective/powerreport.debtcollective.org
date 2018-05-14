@@ -2,4 +2,20 @@
   .Feed__Posts-latest-title {
     font-size: $h4-font-size;
   }
+
+  &__posts {
+    &-list {
+      @include at-least-medium {
+        padding-top: 5rem;
+      }
+    }
+
+    &-latest {
+      @include at-least-small {
+        .Feed__Posts-latest-title {
+          font-size: $h3-font-size;
+        }
+      }
+    }
+  }
 }

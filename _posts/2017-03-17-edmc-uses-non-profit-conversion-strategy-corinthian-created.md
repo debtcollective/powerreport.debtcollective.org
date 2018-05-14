@@ -2,7 +2,6 @@
 title: EDMC Uses the Non-Profit Conversion Strategy Corinthian Created
 date: 2017-03-17 00:00:00 Z
 layout: post
-special-report: true
 author: Someone Namehere
 ---
 

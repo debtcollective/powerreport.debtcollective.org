@@ -1,7 +1,9 @@
 ---
 title: Update on Our Court Fights
 date: 2018-04-24 00:00:00 Z
-layout: post
+layout: special-report
+categories:
+- special-report
 ---
 
 Since for-profit college borrowers began fighting for debt relief in 2014, they have battled both democrats, republicans as well as loan servicers and collectors. Recently, some former Corinthian students finally started getting debt relief. While this is a good start, it is not enough. In fact, some borrowers are only receiving partial relief of their fraudulent loans. That is one reason the fight has moved to the courts. This month, there are two important cases to watch.
@@ -10,7 +12,7 @@ Since for-profit college borrowers began fighting for debt relief in 2014, they 
 
 On **April 30, 2018**, The Court will hear arguments from Debt Collective member, [Sarah Diffenbacher](http://www.chicagotribune.com/business/ct-biz-corinthian-students-loan-relief-20180316-story.html). Her lawyers will argue that the Department has illegally sought to collect her loans by wage garnishment and that Sarah’s loans are completely unenforceable because of the misconduct of her school. The Court will also hear arguments from the Department’s lawyers about why the case should be dismissed.
 
-==Members of the public are welcome to attend the hearing to support Sarah and to demonstrate to the judge that we expect results. Here are the details:==
+<mark>Members of the public are welcome to attend the hearing to support Sarah and to demonstrate to the judge that we expect results. Here are the details:</mark>
 
 Dieffenbacher v. DeVos
 Hearing date / time:  Monday April 30, 2018 at 2pm

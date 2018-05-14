@@ -1,14 +1,18 @@
 {% if post %}
-  <div class="mb-5 pt-5">
-    {%- include tag-decoration.html -%}
-  
+  <div class="PageStream__item">
     <h3 class="Feed__Posts-latest-title">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h3>
     {% if post.summary %}
       <div class="Feed__Posts-latest-summary">
         <p>
-          {{ post.summary | truncatewords: 30 }}
+          {{ post.summary | truncatewords: 50 }}
+        </p>
+      </div>
+    {% else %}
+      <div class="Feed__Posts-latest-excerpt">
+        <p>
+          {{ post.excerpt | truncatewords: 50 }}
         </p>
       </div>
     {% endif %}

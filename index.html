@@ -4,7 +4,7 @@ layout: default-hero
 
 <div class="Home container mt-5">
   <div class="row">
-    <div class="col-md-6 offset-md-3">
+    <div class="col-md-8 col-lg-6 offset-lg-3 offset-md-2 Home__posts-latest">
       {% assign post = site.posts | first %}
 
       {%- include index-feed-item.html -%}
@@ -17,7 +17,7 @@ layout: default-hero
 
       {%- include latest-artwork.html -%}
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6 Home__posts-list">
       {% for post in site.posts %}
         {% if forloop.first %}
         {% else %}

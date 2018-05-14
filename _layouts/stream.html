@@ -1,0 +1,18 @@
+---
+layout: default-small-no-feed
+---
+<div class="PageStream">
+    <h3 class="PageStream__header {{ page.header-color }} tight">{{ page.title }}</h3>
+
+    <div class="container">
+      <div class="row">
+        {% for post in site.posts %}
+          {% if post.layout == page.target-layout %}
+            <div class="col-md-6 pb-5">
+              {%- include general-feed-item.html -%}
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+</div>
