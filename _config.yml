@@ -2,14 +2,14 @@
 title: The Debt Collective
 timezone: UTC
 collections:
-  news_analysis:
-    title: News Analysis
-    output: true
-    permalink: "/news-analysis/:name"
   artwork:
     title: Artwork
     output: true
     permalink: "/artwork/:name"
+  news_analysis:
+    title: News Analysis
+    output: true
+    permalink: "/news-analysis/:name"
   profiles:
     title: Profiles
     output: true

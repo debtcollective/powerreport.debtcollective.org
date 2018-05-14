@@ -7,7 +7,8 @@ layout: news-analysis
 sub-title: Banks look to Break Government's Hold on Student Loan Market; Lobbying
   group pushes to limit how much individuals can borrow from federal program
 author: The Wall Street Journal
-summary: Banks Look to Break Government's Hold on Student Loan Market; Lobbying group pushes to limit how much individuals can borrow from federal programs
+summary: Banks Look to Break Government's Hold on Student Loan Market; Lobbying group
+  pushes to limit how much individuals can borrow from federal programs
 ---
 
 Private lenders are pushing to break up the government's near monopoly in the $100 billion-a-year student-loan market.  
