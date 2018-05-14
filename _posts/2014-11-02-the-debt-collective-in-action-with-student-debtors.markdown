@@ -1,6 +1,6 @@
 ---
 title: The Debt Collective in Action With Student Debtors
-date: 2018-11-02 00:00:00 Z
+date: 2014-11-02 00:00:00 Z
 ---
 
 
