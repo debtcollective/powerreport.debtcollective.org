@@ -1,6 +1,6 @@
 ---
 title: 'Email #1: The Debt Collective''s Pilot Project'
-date: 2018-10-24 00:00:00 Z
+date: 2014-10-24 00:00:00 Z
 layout: post
 ---
 
