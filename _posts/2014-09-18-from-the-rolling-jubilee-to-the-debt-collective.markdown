@@ -1,6 +1,6 @@
 ---
 title: From the Rolling Jubilee to the Debt Collective
-date: 2018-09-14 00:00:00 Z
+date: 2014-09-18 15:00:00 Z
 ---
 
 *Originally posted on teh Strike Debt blog here: http://strikedebt.org/debtbuy4/*
