@@ -2,7 +2,6 @@
 title: "Former ITT Tech Students on Strike!"
 date: Wed Sep 28 2016
 layout: post
-
 ---
 
 ![alt](/assets/images/2016/09/hero.jpg)

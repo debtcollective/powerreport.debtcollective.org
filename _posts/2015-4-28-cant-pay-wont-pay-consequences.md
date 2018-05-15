@@ -2,7 +2,6 @@
 title: "Can't Pay, Won't Pay  - Consequences"
 date: Fri May 29 2015
 layout: post
-
 ---
 
 This year, the Corinthian 15 launched the first student debt strike in US history. There are more debt strikes on the way. But since our first campaign started with student loans, we want to make sure that everyone is informed that the laws governing such loans are extremely favorable to creditors. For that reason, there are consequences for non-payment.  We are listing some of those possible consequences below, though many of you are no doubt already aware of them.

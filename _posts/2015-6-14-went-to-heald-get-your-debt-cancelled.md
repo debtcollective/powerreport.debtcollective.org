@@ -2,7 +2,6 @@
 title: "Went to Heald? You May Have a Fast-Track to Debt Cancellation"
 date: Wed Jul 15 2015
 layout: post
-
 ---
 
 If you went to a Heald College between 2010 and 2015, you may qualify for a cancellation of your federal student loans. Unfotunately, [only 180](https://twitter.com/alliebidwell/status/614149753560002560) out of the estimated 40,000 eligible Heald borrowers have filled out this fast-track form to debt relief. 

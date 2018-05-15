@@ -2,7 +2,6 @@
 title: "As Evidence of Systemic Fraud Builds, the Dept of Ed Continues to Collect on Fraudulent Debt"
 date: Thu Dec 15 2016
 layout: post
-
 ---
 
 After members of the Debt Collective stood up for their rights, the Department of Education finally acknowledged its responsibility to investigate fraud among schools to which gives money to and to discharge the loans of students who were victims of fraud. It even acknowledged that where there is evidence of systemic fraud the group of students who were all exposed to fraudulent behavior should automatically have their debts canceled.

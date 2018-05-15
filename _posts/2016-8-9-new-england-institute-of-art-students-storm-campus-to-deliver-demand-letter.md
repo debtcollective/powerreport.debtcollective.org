@@ -2,7 +2,6 @@
 title: "New England Institute of Art Students Storm Campus to Deliver Demand Letter"
 date: Fri Sep 09 2016
 layout: post
-
 ---
 
 On Wednesday students who attended predatory for-profit college, the New England Institute of Art, [stormed their former campus](http://thinkprogress.org/after-the-latest-closure-of-a-for-profit-college-chain-what-happens-next-eb3fd2d9b007#.aen3zjq6o) to demand justice, including debt cancellation, for all those who attended the school. 

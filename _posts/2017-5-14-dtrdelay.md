@@ -2,7 +2,6 @@
 title: "Statement on the Trump Administration's Delay of Defense to Repayment"
 date: Wed Jun 14 2017
 layout: post
-
 ---
 
 Today the Trump Administration announced that it would try to halt the new “Defense to Repayment” regulation put in place last year. This means that the vast majority of former for-profit students who are fighting for relief are getting screwed over by the same administration that promised to “drain the swamp” in Washington and look out for working Americans. 

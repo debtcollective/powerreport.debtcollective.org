@@ -2,7 +2,6 @@
 title: "Department of Education Refuses to Do its Job, Again."
 date: Mon Jun 08 2015
 layout: post
-
 ---
 
 In response to the Department of Education's [announcement on June 8th](http://www.ed.gov/blog/2015/06/debt-relief-for-corinthian-colleges-students/), 2015 regarding Corinthian student debt, the Debt Collective issued the following statement:

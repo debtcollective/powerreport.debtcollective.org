@@ -2,7 +2,6 @@
 title: "What Art Institutes Students Need to Know About Teach Outs & Campus Closures"
 date: Fri Jan 22 2016
 layout: post
-
 ---
 
 By Ami Schneider

@@ -2,7 +2,6 @@
 title: "An Open Letter to President Obama from Former For-Profit College Students"
 date: Thu Dec 01 2016
 layout: post
-
 ---
 
 Dear President Obama,

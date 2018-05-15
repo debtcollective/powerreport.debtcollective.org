@@ -2,7 +2,6 @@
 title: "Make Your Voice Heard: Submit a Comment on Defense to Repayment"
 date: Wed Jul 06 2016
 layout: post
-
 ---
 
 

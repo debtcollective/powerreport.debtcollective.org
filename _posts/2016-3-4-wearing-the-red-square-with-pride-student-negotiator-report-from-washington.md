@@ -2,7 +2,6 @@
 title: "Wearing the Red Square with Pride and Solidarity: Student Negotiator Report From Washington"
 date: Mon Apr 04 2016
 layout: post
-
 ---
 
 ![alt](/assets/images/2016/04/annb_DC1.jpg)

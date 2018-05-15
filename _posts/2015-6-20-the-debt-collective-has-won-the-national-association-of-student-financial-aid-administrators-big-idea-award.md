@@ -2,7 +2,6 @@
 title: "The Debt Collective Has Won the National Association of Student Financial Aid Administrators Big Idea Award"
 date: Mon Jul 20 2015
 layout: post
-
 ---
 
 ![alt](/assets/images/2015/07/unnamed.jpg)

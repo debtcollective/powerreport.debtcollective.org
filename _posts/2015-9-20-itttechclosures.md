@@ -2,7 +2,6 @@
 title: "What ITT Tech Students Should Know About Teach Outs & Campus Closures"
 date: Tue Oct 20 2015
 layout: post
-
 ---
 
 ![alt](/assets/images/2015/10/niki2.jpg)

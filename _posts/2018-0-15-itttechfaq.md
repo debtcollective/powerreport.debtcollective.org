@@ -2,7 +2,7 @@
 title: "ITT Tech Bankruptcy - FAQ"
 date: Mon Jan 15 2018
 layout: post
-
+image: /assets/images/2018/01/image.png
 ---
 
 *UPDATE: On January 24, the Court approved the settlement described in this post. For information on how to submit a comment on the settlement to the Court, go [here](http://docs.google.com/document/d/1H0xr8htYBXtdpBoIxT4J5-fZvM5lfQLmsG2abj_g7zE/edit). 

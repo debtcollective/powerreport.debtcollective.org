@@ -2,7 +2,6 @@
 title: "Changes to the Defense to Repayment Application"
 date: Mon Jan 09 2017
 layout: post
-
 ---
 
 Beginning February 1, 2017, student debtors who wish to dispute their federal student loans must use the Department of Education’s new form which is [located here](http://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/borrower-defense#borrower-defense-application). 

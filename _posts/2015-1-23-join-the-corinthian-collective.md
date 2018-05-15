@@ -2,7 +2,6 @@
 title: "Join the Corinthian Collective To Fight Back Against Corinthian and the Department of Education"
 date: Mon Feb 23 2015
 layout: post
-
 ---
 
 Today the [Corinthian 15](http://https://debtcollective.org/studentstrike) launched an historic student debt strike!

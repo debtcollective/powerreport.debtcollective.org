@@ -2,7 +2,6 @@
 title: "Why I Joined the Corinthian Debt Strike"
 date: Fri Jun 12 2015
 layout: post
-
 ---
 
 By: Ashlee Schmidt

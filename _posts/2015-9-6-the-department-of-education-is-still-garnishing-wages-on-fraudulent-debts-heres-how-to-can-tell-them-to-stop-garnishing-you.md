@@ -2,7 +2,6 @@
 title: "The Department of Education is still garnishing wages on fraudulent debts. Here’s how to tell them to stop garnishing you."
 date: Tue Oct 06 2015
 layout: post
-
 ---
 
 ![alt](/assets/images/2015/10/fraud.jpg)

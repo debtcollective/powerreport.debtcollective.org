@@ -2,7 +2,6 @@
 title: "Your School's Accreditor is in Trouble. What Does That Mean for You?"
 date: Sat Jun 25 2016
 layout: post
-
 ---
 
 By law, in order for a college to get money from the federal government, it has to be accredited. An accredition agency is supposed to make sure that colleges are doing their job and providing you with a quality education. In the for-profit sector, schools have been bribing accreditors for years. The Department of Education has been looking the other way, letting criminals get away with trapping students in unpayable debt.   

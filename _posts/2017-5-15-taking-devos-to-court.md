@@ -2,7 +2,6 @@
 title: "Taking DeVos to Court"
 date: Thu Jun 15 2017
 layout: post
-
 ---
 
 Last month, a group of for-profit colleges sued the Department of Education over the defense to repayment (DTR) regulations we fought hard for. Obviously the Betsy DeVos-led Department of Education isn't exactly enthusiastic about defending these regulations. They're probably hoping to use this lawsuit as ammunition in [their quest to gut them](https://www.insidehighered.com/news/2017/06/15/education-department-hit-pause-two-primary-obama-regulations-aimed-profits).

@@ -2,7 +2,6 @@
 title: "Department of Education Will Not Relieve Debts of Vast Majority of Defrauded Borrowers"
 date: Fri Mar 25 2016
 layout: post
-
 ---
 
 Today's [announcement](http://www2.ed.gov/documents/press-releases/report-special-master-borrower-defense-3.pdf) that the Department will not provide broad relief to defrauded for-profit college students is a slap in the face to those who have been demanding – through debt strikes and mass loan disputes – broad-based loan cancellation for more than a year. 

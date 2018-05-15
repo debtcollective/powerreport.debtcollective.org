@@ -2,7 +2,6 @@
 title: "The Department of Education Announces Details of New Borrower Defense Rule"
 date: Fri Oct 28 2016
 layout: post
-
 ---
 
 Almost two years ago, Corinthian students started submitting applications for debt cancellation based on the [Defense to Repayment](http://debtcollective.org/defense-to-repayment) law. Since then, thousands of students from for-profit colleges across the country have joined the fight for debt relief. 

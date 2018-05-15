@@ -2,7 +2,6 @@
 title: "Statement on the Department of Education's Proposal on Defense to Repayment"
 date: Mon Jun 13 2016
 layout: post
-
 ---
 
 

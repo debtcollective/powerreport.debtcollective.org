@@ -2,7 +2,6 @@
 title: "Update on FFEL Discharge Process"
 date: Fri May 13 2016
 layout: post
-
 ---
 
 A message from Luke Herrine

@@ -2,7 +2,6 @@
 title: "Students Make Their Voices Heard at For-Profit College Open Houses"
 date: Wed Oct 28 2015
 layout: post
-
 ---
 
 

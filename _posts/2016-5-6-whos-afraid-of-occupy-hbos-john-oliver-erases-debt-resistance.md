@@ -2,7 +2,6 @@
 title: "Who’s Afraid of Occupy? The John Oliver Show Erases Debt Resistance"
 date: Mon Jun 06 2016
 layout: post
-
 ---
 
 Eight months ago, Charles Wilson, a researcher from John Oliver's HBO show, Last Week Tonight, contacted us to ask about our project of buying and cancelling debt. We kicked off the [Rolling Jubilee](http://rollingjubilee.org) in 2012 with a [widely publicized telethon](http://nymag.com/daily/intelligencer/2012/11/occupy-gets-focused-with-rolling-jubilee.html) (featuring comedians David Rees, Lizz Winstead, and Hari Kondabolu and members of TV On the Radio, Sonic Youth, Fugazi, among others). The project went viral and has been regularly covered in the press over the years, including the 	[New York Times](http://mobile.nytimes.com/2012/11/14/nyregion/occupy-offshoot-aims-to-erase-peoples-debts.html), 	[the Guardian](http://www.theguardian.com/commentisfree/2013/nov/13/occupy-wall-st-debt-buying-heart-capitalism) and [NPR](http://www.npr.org/sections/ed/2014/09/17/348036877/these-people-can-make-student-loans-disappear). 

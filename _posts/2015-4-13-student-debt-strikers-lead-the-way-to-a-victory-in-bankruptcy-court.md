@@ -2,7 +2,6 @@
 title: "Student Debt Strikers Lead the Way to a Victory in Bankruptcy Court"
 date: Wed May 13 2015
 layout: post
-
 ---
 
 To our Corinthian student comrades,

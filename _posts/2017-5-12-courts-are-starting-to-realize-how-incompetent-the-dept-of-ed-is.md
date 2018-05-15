@@ -2,7 +2,6 @@
 title: "Debt Striker Makes Progress in Lawsuit Against Dept of Ed"
 date: Mon Jun 12 2017
 layout: post
-
 ---
 
 The fight for student debt cancellation started with a debt strike over two years ago and has continued on multiple fronts since. The fight has been quiet lately, but that doesn't mean it hasn't been moving forward. A Debt Collective member achieved a small victory last week. Her victory could help open the door to bigger victories for all for-profit student debtors moving forward.

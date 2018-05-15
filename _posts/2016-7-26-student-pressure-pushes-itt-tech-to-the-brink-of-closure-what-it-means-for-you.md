@@ -2,7 +2,6 @@
 title: "Student Pressure Pushes ITT Tech to Close : What It Means For You"
 date: Fri Aug 26 2016
 layout: post
-
 ---
 
 ITT recently closed as a result of the Department of Education's [announcement](http://www.insidehighered.com/news/2016/08/26/education-department-bars-itt-tech-enrolling-new-students-federal-aid) that it will stop funding the schools, effective immediately. This is a move that would not have happened without pressure from students who have been organizing and making their voices heard. 

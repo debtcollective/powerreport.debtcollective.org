@@ -2,13 +2,12 @@
 title: "Debtors Join Solidarity Strike Threat in Support of Corinthian Students"
 date: Fri Jun 05 2015
 layout: post
-
 ---
 
 
 
 
-### And The Debt Collective Does the Department of Education’s job - Again
+###And The Debt Collective Does the Department of Education’s job - Again
 
 On February 19th, fifteen graduates of Corinthian Colleges, Inc [declared](https://debtcollective.org/studentstrike) they would no longer pay their federal loans in the country’s first-ever student debt strike. Since then, number of Corinthian student debts strikers has grown to 190.
 

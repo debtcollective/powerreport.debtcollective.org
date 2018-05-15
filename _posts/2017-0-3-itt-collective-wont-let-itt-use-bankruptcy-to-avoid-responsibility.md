@@ -2,7 +2,6 @@
 title: "ITT Collective Won't Let ITT Use Bankruptcy to Avoid Responsibility"
 date: Tue Jan 03 2017
 layout: post
-
 ---
 
 For months now, ITT debt resisters in the Debt Collective have been working together for debt cancellation. Over [900 resisters](http://ittstrike.com/strikers/) have joined the [debt strike](http://ittstrike.com/). Over 2,000 resisters have submitted [Defense to Repayment](https://debtcollective.org/defense-to-repayment) applications to the Department of Education. Now they have enlisted [lawyers from Harvard Law School](http://www.legalservicescenter.org/get-legal-help/predatory-lending-and-consumer-protection-unit/project-on-predatory-student-lending/) to help them with their next step: representing students in ITT's bankruptcy proceedings.

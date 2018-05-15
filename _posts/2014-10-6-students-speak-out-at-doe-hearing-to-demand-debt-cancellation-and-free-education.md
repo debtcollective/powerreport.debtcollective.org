@@ -2,7 +2,6 @@
 title: "Students Speak Out at DOE Hearing to Demand Debt Cancellation and Free Education"
 date: Thu Nov 06 2014
 layout: post
-
 ---
 
 On November 4, a group of student debtors and supporters disrupted business as usual at the Department of Education public hearing in Anaheim, CA. Current and former Corinthian college students who call themselves [Everest Avengers](http://www.facebook.com/groups/everestavengers/) (Everest, Heald and Wyotech are brands of Corinthian college) challenged the DOE to stop coddling for-profit colleges and predatory lenders and demanded full debt cancellation and free education.

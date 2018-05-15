@@ -2,7 +2,6 @@
 title: "Corinthian Collective Sends Letter to Education Secretary John King"
 date: Wed Oct 19 2016
 layout: post
-
 ---
 
 ![alt](/assets/images/2016/10/dclogo_j.jpg)

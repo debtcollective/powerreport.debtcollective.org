@@ -2,7 +2,6 @@
 title: "No Justice, No Meeting"
 date: Fri May 01 2015
 layout: post
-
 ---
 
 

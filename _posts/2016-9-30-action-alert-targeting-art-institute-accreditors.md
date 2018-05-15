@@ -2,7 +2,6 @@
 title: "Action Alert: Targeting Art Institute Accreditors"
 date: Sun Oct 30 2016
 layout: post
-
 ---
 
 To all former AI students, let's keep organizing for debt relief! 

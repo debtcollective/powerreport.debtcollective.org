@@ -2,7 +2,6 @@
 title: "Getting Friendly Foxes out of the Henhouse: ITT Whistleblowers and Debt Collective oppose renewal of for-profit accreditors ACICS and ACCSC"
 date: Tue May 31 2016
 layout: post
-
 ---
 
 ![alt](/assets/images/2016/05/fox_henhouse_12.jpg)

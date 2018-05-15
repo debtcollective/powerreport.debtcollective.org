@@ -2,7 +2,6 @@
 title: "The Debt Collective Letter to the DOE"
 date: Sun Apr 12 2015
 layout: post
-
 ---
 
 On March 31, Corinthian strike team members and Debt Collective organizers met with officials from the CFPB, the Treasury Dept, and the Department of Education in [Washington DC](http://blog.debtcollective.org/corinthian-100-demanding-debt-cancellation-in-washington-dc/) to demand debt cancellation for all Corinthian students. 

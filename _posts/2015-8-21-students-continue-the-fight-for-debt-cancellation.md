@@ -2,7 +2,6 @@
 title: "Students Continue the Fight for Debt Cancellation"
 date: Mon Sep 21 2015
 layout: post
-
 ---
 
 On Wednesday the comment period closed on the Department of Education’s proposal to have a 'negotiated rulemaking' to determine how to implement Defense Against Repayment. Nearly 200 comments were submitted, nearly all of which were from student debtors or supporters of student debtors. Furthermore, the Department held two hearings--one in Washington DC and one in San Francisco. At both hearings, everyone spoke in support of broad debt relief for Corinthian and other for-profit students.

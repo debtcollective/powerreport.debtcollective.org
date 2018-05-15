@@ -2,7 +2,6 @@
 title: "EDMC Uses the Non-Profit Conversion Strategy Corinthian Created"
 date: Fri Mar 03 2017
 layout: post
-
 ---
 
 [Word](https://www.washingtonpost.com/news/grade-point/wp/2017/03/03/art-institute-campuses-to-be-sold-to-foundation/?utm_term=.f98a0570359d) [is](https://www.insidehighered.com/news/2017/03/03/large-profit-chain-edmc-be-bought-dream-center-missionary-group) that The Education Management Corp. (EDMC), which owns for-profit chains Art Institutes, Brown Mackie, Argosy, and South University is going to be sold to the non-profit faith-based Dream Center Foundation. That means all of those for-profit colleges will suddenly become non-profit colleges (except Brown Mackie colleges, which EDMC will keep in order to shut down). There's no reason to think that's going to change anything else about these failing predators.

@@ -2,7 +2,7 @@
 title: "What Does The Lawsuit Against Navient Teach About Debt and Social Control?"
 date: Wed Apr 12 2017
 layout: post
-
+image: /assets/images/2017/04/image.png
 ---
 
 Eight million student debtors are in default. That's nearly 20% of the 44 million total. Add if we count the student debtors who are delinquent, in deferral, or forbearance, it's more like 40% of all student debtors who are not paying.

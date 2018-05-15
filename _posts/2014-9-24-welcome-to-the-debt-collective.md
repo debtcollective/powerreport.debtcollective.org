@@ -2,7 +2,6 @@
 title: "Email #1: The Debt Collective's Pilot Project"
 date: Fri Oct 24 2014
 layout: post
-
 ---
 
 
@@ -16,17 +15,17 @@ Everest, Heald, and WyoTech College</a>
  
  
 
-#### But what is a debt collective, really?
+####But what is a debt collective, really?
 
 The Debt Collective is a platform by and for debtors for organization, advocacy, and resistance. Organizing collectively offers many possibilities for building power against creditors: as we build membership, debtors can organize into groups based on region, type of debt, or institution. We can help each other bargain with creditors or even develop the power to threaten a debt strike.
 
 Many new members already get it.  Denny, from South Dakota, emailed us to describe his own debt nightmare. In that email he asked, “Is it possible there are others who have some of my issues in common? Is there an opportunity to collectivize this issue?” Phil in California asked a similar question, "Do you have a collective group of Bank of America Mortgage debtors?” Denny's and Phil’s questions show that people already understand what the debt collective can do. They are ready to organize and begin demanding fair terms including fair interest rates, fair principal amounts, and even the abolition of unjust debts.
 
-#### So where do we start?
+####So where do we start?
 
 The Debt Collective’s pilot project is with students from Everest college, one of the colleges in the Corinthian for-profit network. Everest students are some of the most exploited debtors in the country. Everest cheats students while funneling profits to Wells Fargo, the Department of Education, wealthy investors, lenders, and debt collectors. The school has been under investigation for years and is now shutting down, but current and former students could be left holding tens of thousands of dollars in illegitimate debt. We know that, if Everest students organize, they can win a full debt discharge and quality, free education.
 
-#### Everest students need your help.
+####Everest students need your help.
 
 Right now we are working closely with Everest students to collectivize their issues and make their demands known. We have a legal team in place, media trained on their situation, and direct actions in the pipeline. Everest will be our first win. It will set the stage for more victories to come. If you're not an Everest student, you can still help by sharing this email with your friends.
 

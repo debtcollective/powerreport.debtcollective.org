@@ -2,7 +2,7 @@
 title: "Fighting a Predatory Lender, From New York to Michigan"
 date: Thu Jan 29 2015
 layout: post
-
+image: /assets/images/2015/01/laurahanna.jpg
 ---
 
 Hi Everyone,

@@ -2,7 +2,6 @@
 title: "Getting Organized Locally: Next Steps to Bigger Victories"
 date: Tue May 10 2016
 layout: post
-
 ---
 
 

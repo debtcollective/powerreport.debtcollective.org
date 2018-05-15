@@ -2,7 +2,6 @@
 title: "These students were ruined by predatory colleges. Now they're getting even -- an illustration by Susie Cagle"
 date: Tue Sep 29 2015
 layout: post
-
 ---
 
 In case you missed it, [Susie Cagle published an inspiring comic](http://fusion.net/story/204007/students-ruined-by-for-profit-colleges-fight-back/) about the Debt Collective's efforts to fight back against predatory colleges and the Department of Education. She tells the story of brave strikers from the beginning, describing in vivid pictures how the government funded the scam, how the Debt Collective decided to get involved, and how the Department has so far failed to cancel the fraudulent loans. 

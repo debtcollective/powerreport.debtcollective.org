@@ -2,7 +2,6 @@
 title: "The Debt Collective Statement on the Borrower Defense Special Master’s Report on Defense To Repayment"
 date: Thu Dec 03 2015
 layout: post
-
 ---
 
 ![alt](/assets/images/2015/12/51a119d8f7531caa75ff866eff483261.gif)

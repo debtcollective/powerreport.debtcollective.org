@@ -2,7 +2,6 @@
 title: "Victory for ITT Students: Temporary Credits Gone!"
 date: Wed May 24 2017
 layout: post
-
 ---
 
 When ITT Tech declared bankruptcy, former ITT students in the Debt Collective sprung into action. Working with Harvard's [Project on Predatory Student Lending](http://www.legalservicescenter.org/category/predatory-lending-clinic/project-on-predatory-student-lending/), they formed a group to [represent](http://wiki.debtcollective.org/Itt-tech-bankruptcy#ITT_Tech_Bankruptcy) former ITT students' interest in the bankruptcy proceedings.

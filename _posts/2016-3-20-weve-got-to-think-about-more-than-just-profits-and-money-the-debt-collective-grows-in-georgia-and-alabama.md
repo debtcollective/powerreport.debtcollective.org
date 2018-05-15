@@ -1,9 +1,7 @@
 ---
-title: >
-  "We've Got to Think About More than Just Profits and Money": The Debt Collective in Georgia and Alabama
+title: ""We've Got to Think About More than Just Profits and Money": The Debt Collective in Georgia and Alabama"
 date: Thu Apr 21 2016
 layout: post
-
 ---
 
 The fight for debt cancellation for **all** defrauded borrowers continues! Last week, Debt Collective organizers, Ann and Laura, traveled to Alabama and Georgia to meet in person with some of the former for-profit college students who are leading the fight against corrupt schools and their helpers at the Department of Education.

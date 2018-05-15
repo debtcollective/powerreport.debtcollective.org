@@ -2,7 +2,6 @@
 title: "Newsflash: Department of Education Propaganda is Propaganda"
 date: Wed Apr 15 2015
 layout: post
-
 ---
 
 Alarms have been sounding about Corinthian Colleges, Inc., the parent company of Everest, Heald, and Wyotech, for nearly a decade. The Department of Education could have closed Corinthian and provided victimized students with full refunds of their student loans years ago. Instead, it has coddled the embattled corporation with emergency cash inflows and facilitated sales of distressed assets while continuing to collect from defrauded students. 

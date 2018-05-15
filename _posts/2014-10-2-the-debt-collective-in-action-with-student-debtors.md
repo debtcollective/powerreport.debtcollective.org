@@ -2,7 +2,7 @@
 title: "The Debt Collective in Action With Student Debtors"
 date: Sun Nov 02 2014
 layout: post
-
+image: /assets/images/2014/11/sd8.jpg
 ---
 
 

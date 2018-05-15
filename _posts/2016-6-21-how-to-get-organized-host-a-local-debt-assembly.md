@@ -2,7 +2,6 @@
 title: "How to Get Organized: Host a Local Debt Assembly"
 date: Thu Jul 21 2016
 layout: post
-
 ---
 
 The fight to get debts cancelled for everyone defrauded by predatory schools is heating up. Debt Collective members around the country are talking to their friends and family about the fraudulent for-profit higher education system. Some organizers are hosting small debt assemblies in parks, libraries, and backyards to share details about our campaign with friends and neighbors.

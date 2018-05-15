@@ -2,7 +2,6 @@
 title: "Strikers Lead the Way, Organizations Get on Board"
 date: Tue Apr 28 2015
 layout: post
-
 ---
 
 ![alt](/assets/images/2015/04/squares.jpg)

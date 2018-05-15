@@ -2,7 +2,6 @@
 title: "The Debt Collective's Comment to the Department of Education about Negotiated Rulemaking"
 date: Sun Sep 06 2015
 layout: post
-
 ---
 
 *The Department of Education is now accepting comments on the their proposed negotiated rulemaking process for how to create a Defense to Repayment enforcement process. Below is what we submitted. You can submit your thoughts to the Department [here](http://www.regulations.gov/#!submitComment;D=ED-2015-OPE-0103-0001).*

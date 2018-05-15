@@ -2,7 +2,6 @@
 title: "Former Students of Everest College Declare a Student Debt Strike"
 date: Tue Feb 24 2015
 layout: post
-
 ---
 
 Yesterday, fifteen courageous former students of Everest College launched an historic student [debt strike](http://debtcollective.org/studentstrike). 

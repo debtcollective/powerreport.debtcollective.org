@@ -2,7 +2,6 @@
 title: "Building Debtor Power: Join the DC Canvassing Team"
 date: Wed May 03 2017
 layout: post
-
 ---
 
 As the Trump administration makes nice with for-profit colleges and threatens to roll back those small gains we have won so far, we are building an organization that will have real power against creditors and the government agencies that do their bidding. We're building power by canvassing in our local neighborhoods. We are talking to our family, friends, and neighbors about:

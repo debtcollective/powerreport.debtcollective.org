@@ -2,7 +2,6 @@
 title: "Statement on Betsy DeVos"
 date: Wed Feb 08 2017
 layout: post
-
 ---
 
 Yesterday Betsy DeVos was confirmed as Secretary of Education. Only 50 senators voted YES, so Vice President Pence had to cast a tie-breaking vote. DeVos’s only experience of public education is fighting against it. 

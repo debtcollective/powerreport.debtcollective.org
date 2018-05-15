@@ -2,7 +2,6 @@
 title: "The Fight For Debt Cancellation Continues"
 date: Thu Nov 17 2016
 layout: post
-
 ---
 
 The Debt Collective has always had a healthy skepticism when it comes to rhetoric from both sides of the aisle (Democrats and Republicans). We have said this from the beginning and we've always suggested people read the fine print! So let’s talk about the [incoming administration](http://www.politico.com/story/2016/11/donald-trump-wall-street-bankers-231524). 

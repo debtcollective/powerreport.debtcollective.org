@@ -2,7 +2,6 @@
 title: "Debt Collective Hosts Canvassing Training to Evict Creditors from Our Lives and Organize for a Positive Future"
 date: Tue Apr 11 2017
 layout: post
-
 ---
 
 Everyone knows that members of the Debt Collective launched the first student debt strike in history and forced a change to federal law, resulting in hundreds of millions in debt relief (so far - we're still fighting!). 

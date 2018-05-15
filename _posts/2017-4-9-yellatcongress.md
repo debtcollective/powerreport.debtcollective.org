@@ -2,7 +2,7 @@
 title: "How To Yell at Your Congressperson"
 date: Tue May 09 2017
 layout: post
-
+image: /assets/images/2017/05/image.png
 ---
 
 By Ami S. 
