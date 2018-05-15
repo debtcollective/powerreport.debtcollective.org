@@ -2,7 +2,7 @@
 title: Still Enrolled When Corinthian Closed? Get Your Refund!
 date: 2015-05-11 00:00:00 Z
 layout: post
-image: /assets/images/2015/05/DC-Flyer-discharge-BW-copy.jpg
+image: "/assets/images/2015/05/DC-Flyer-discharge-BW-copy.jpg"
 ---
 
 **You may be owed a full refund of your federal student loans.**

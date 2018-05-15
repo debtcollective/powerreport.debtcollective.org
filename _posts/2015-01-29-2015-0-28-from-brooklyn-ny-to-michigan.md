@@ -2,7 +2,8 @@
 title: Fighting a Predatory Lender, From New York to Michigan
 date: 2015-01-29 00:00:00 Z
 layout: post
-summary: We are two Debt Collective organizers who have been travelling across Michigan this week meeting with current and former
+summary: We are two Debt Collective organizers who have been travelling across Michigan
+  this week meeting with current and former
 ---
 
 Hi Everyone,

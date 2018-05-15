@@ -1,6 +1,7 @@
 ---
-title: >
-  "It's the Quiet Ones You Gotta Worry About."
+title: '"It''s the Quiet Ones You Gotta Worry About."
+
+'
 date: 2015-03-03 00:00:00 Z
 layout: post
 ---

@@ -1,6 +1,8 @@
 ---
-title: >
-  "We've Got to Think About More than Just Profits and Money": The Debt Collective in Georgia and Alabama
+title: '"We''ve Got to Think About More than Just Profits and Money": The Debt Collective
+  in Georgia and Alabama
+
+'
 date: 2016-04-21 00:00:00 Z
 layout: post
 ---
