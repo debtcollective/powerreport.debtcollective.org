@@ -6,6 +6,9 @@ collections:
     title: Artwork
     output: true
     permalink: "/artwork/:name"
+    src: the url of the image
+    description: A description to help screen readers
+    artist: the artist who made the artwork
   news_analysis:
     title: News Analysis
     output: true
