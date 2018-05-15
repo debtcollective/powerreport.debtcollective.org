@@ -2,6 +2,7 @@
 title: Defrauded Students Demand Debt Cancellation in Washington D.C.
 date: 2016-02-23 00:00:00 Z
 layout: post
+summary: On February 17th and 18th, members of the Debt Collective who attended Corinthian, ITT Tech, Art Institute, and the University of Phoenix traveled to Washington D.C. to attend meetings at the Department of Education negotiated rulemaking session and to tell their stories to Senate staffers.
 ---
 
 *On February 17th and 18th, members of the Debt Collective who attended Corinthian, ITT Tech, Art Institute, and the University of Phoenix traveled to Washington D.C. to attend meetings at the Department of Education negotiated rulemaking session and to tell their stories to Senate staffers. (You can watch video from the sessions [here](http://www.youtube.com/playlist?list=PLZeEaRs2q0CnhU3fkdChl4ZRtkrZzt35J) and read a detailed report on some members' statements [here](http://www.huffingtonpost.com/davidhalperin/students-testify-for-profit-colleges-stole-our-futures_b_9259934.html)). Students from Corinthian also met with the Borrower Defense Special Master, Joseph Smith. In all of these meetings, debt strikers and supporters demanded class-wide loan cancellation for all defrauded borrowers. After returning home, some of them reflected on their experience.*

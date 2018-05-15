@@ -55,7 +55,9 @@
       &__title {
         display: inline-block;
         text-align: left;
-
+        a:hover {
+          color: $white;
+        }
         &.tight {
           font-size: $font-size-base * 3.75;
           padding-left: $font-size-base * 1.5;

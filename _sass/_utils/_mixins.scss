@@ -116,6 +116,9 @@
 
 @mixin page-copy {
   margin-top: 4rem;
+  img {
+    max-width: 100%;
+  }
 
   &.copy {
     p {

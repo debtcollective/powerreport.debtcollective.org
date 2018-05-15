@@ -2,11 +2,12 @@
 title: Fighting a Predatory Lender, From New York to Michigan
 date: 2015-01-29 00:00:00 Z
 layout: post
+summary: We are two Debt Collective organizers who have been travelling across Michigan this week meeting with current and former
 ---
 
 Hi Everyone,
 
-We are two Debt Collective organizers who have been travelling across Michigan this week meeting with currnt and former Everest students about their student loans and discussing how we can work together to get those debts discharged. 
+We are two Debt Collective organizers who have been travelling across Michigan this week meeting with current and former Everest students about their student loans and discussing how we can work together to get those debts discharged. 
 
 Here is a pic of downtown Grand Rapids. 
 

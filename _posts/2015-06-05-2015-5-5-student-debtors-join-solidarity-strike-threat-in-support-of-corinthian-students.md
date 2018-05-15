@@ -2,6 +2,7 @@
 title: Debtors Join Solidarity Strike Threat in Support of Corinthian Students
 date: 2015-06-05 00:00:00 Z
 layout: post
+summary: And The Debt Collective Does the Department of Education’s job - Again
 ---
 
 ### And The Debt Collective Does the Department of Education’s job - Again
