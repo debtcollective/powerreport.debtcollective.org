@@ -1,0 +1,58 @@
+---
+title: "What Does The Lawsuit Against Navient Teach About Debt and Social Control?"
+date: Wed Apr 12 2017
+layout: post
+
+---
+
+Eight million student debtors are in default. That's nearly 20% of the 44 million total. Add if we count the student debtors who are delinquent, in deferral, or forbearance, it's more like 40% of all student debtors who are not paying.
+
+Recent [economic studies](https://www.brookings.edu/wp-content/uploads/2016/07/ConferenceDraft_LooneyYannelis_StudentLoanDefaults.pdf) have shown that much of the increase in defaults can be traced to the increasing amount of "non-traditional" students (and "non-traditional" for-profit institutions) taking on loans to go to college. Non-traditional generally means lower income, older, and/or from a first generation college-going family.
+
+Creditors have another way of referring to non-traditional college students: "subprime".
+
+The term "subprime" was used a lot during the mortgage crisis of a few years ago. It's is a technical term that creditors use to refer to borrowers who are less likely to to pay their debts. Starting in the 1980s, creditors figured out a series of strategies that allowed them to make a lot of money in subprime lending. Doing so requires knowing that a lot of folks will default on their loans but lending to them anyway.
+
+Let's look at an example.
+
+Recently, loan servicer Navient (formerly Sallie Mae) has been sued for lending to "subprime" borrowers it knew couldn't pay. According to [the New York Times](http://www.nytimes.com/2017/04/09/business/dealbook/accusations-navient.html?_r=0), "Sallie Mae used private subprime loans — some of which it expected to default at rates as high as 92 percent — as a tool to build its business relationships with colleges and universities across the country." The Times quotes a Washington State regulator saying "these loans were designed to fail." But Navient made money by taking that loss, since by doing so it could make even more money servicing federal student loans.
+
+Lovely.
+
+But what makes some of us prime and some subprime?
+
+To creditors, subprime borrowers (with a credit score below about 640) are irresponsible people who borrow too much or who can't or don't pay. 
+
+Maybe some folks are like that, but the root cause of not paying for most of us is being *unable* to pay. We're struggling. Our income is low and inconsistent. Our expenses are growing. We can't build up savings or afford insurance to help us through hard times. Subprime borrowers are much more likely to be Black or Brown (white people tend to have more wealth than Black and Brown folks even controlling for income levels), to have faced financial shocks like medical emergencies or divorces or deaths in the family. 
+
+In other words, subprime borrowers have a harder time paying debts because they are structurally positioned in society to have a harder time coming up with money for anything, including loan payments.
+
+For-profit colleges were not the first subprime lenders, but they used the tactic to ruin lives.  
+
+If you went to Corinthian College, for example, maybe you took out a "Genesis Loan". If you went to ITT, a "PEAKS/CUSO" loan. These were private loans that for-profits knew they were going to lose money on. But they didn't care: issuing these loans helped them enroll students who brought federal grants and loans with them. And that revenue well outweighed any loss on the private loans.
+
+The fact that for-profit colleges and big creditors like Navient can make money by losing money (and screwing us over in the process) is the main driver of the "bubble" in student loans.
+
+This is why the subprime mortgage market is commonly compared to the student debt market of today. The mortgage market was full of similar tactics, and we all know what happened when that bubble burst. Notice that the mortgage market is *much* bigger than the student loan market (or any other household debt market):
+
+![alt](https://knowyourdebt.debtcollective.org/assets/img/housingdebt.png)
+
+Subprime lending is also how creditors make their money on credit cards. Check out this graph of credit card profits (on the Y axis) by credit rating of the credit card holder (on the X axis):
+
+![alt](https://knowyourdebt.debtcollective.org/assets/img/cc-profits.png)
+
+In the 1970s and 80s banks figured out how lucrative it was to use subprime lending to put people who are struggling into a debt trap. You can see that now they make almost all of their money on credit cards from the subprime sector of the market (below 640 in this case). How? By getting people who can't pay their full bills to pay only interest. Then they keep paying forever without ever paying off their bills.
+
+Just one more example. The hot new thing among creditors now is [subprime auto loans](https://www.bloomberg.com/news/articles/2016-02-11/some-hedge-funds-want-to-make-subprime-auto-loans-next-big-short). In fact, auto loans are growing just as fast as student debt nowadays. Both are at around $1.4 trillion outstanding. Defaults abound. Subprime auto loans are extra fun because they often use this new technology that allows creditors to remotely shut off cars so that debtors can't drive them when they can't pay.
+
+With those types of debt, we've covered all the biggest sources of household debt. In other words, subprime lending is found everywhere.
+
+![alt](https://knowyourdebt.debtcollective.org/assets/img/nonhousingdebt.png)
+
+What do all of these cases of subprime lending have in common?
+
+Well, one thing to notice is that they all involve shady practices: in order to make money lending to folks without the money to pay, creditors have to engage in one or another form of predatory behavior: lying about loan terms, setting up really punitive collection arrangements, charging huge amounts of interest and (often hidden) fees, preventing borrowers from suing them, etc.
+
+But there's something deeper. Subprime loans are the bizarro version of the American Dream. They allow more of us to get access to houses, cars, educations, and medical care (often through credit cards), but they do so by forcing us to enter into relationships with enormous financial institutions who then have control over us, our families, and our communities. 
+
+It's time to flip the script. Creditors - who are part of the rich class - have created a subprime world. They hoard the wealth and then charge us interest. If that wealth were actually used to invest in our communities rather than extract the little money we have, we wouldn't need subprime loans at all. It's time to flip the script, but it's also time to flip some tables.

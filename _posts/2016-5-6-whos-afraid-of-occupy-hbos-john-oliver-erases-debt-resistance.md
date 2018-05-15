@@ -1,0 +1,20 @@
+---
+title: "Who’s Afraid of Occupy? The John Oliver Show Erases Debt Resistance"
+date: Mon Jun 06 2016
+layout: post
+
+---
+
+Eight months ago, Charles Wilson, a researcher from John Oliver's HBO show, Last Week Tonight, contacted us to ask about our project of buying and cancelling debt. We kicked off the [Rolling Jubilee](http://rollingjubilee.org) in 2012 with a [widely publicized telethon](http://nymag.com/daily/intelligencer/2012/11/occupy-gets-focused-with-rolling-jubilee.html) (featuring comedians David Rees, Lizz Winstead, and Hari Kondabolu and members of TV On the Radio, Sonic Youth, Fugazi, among others). The project went viral and has been regularly covered in the press over the years, including the 	[New York Times](http://mobile.nytimes.com/2012/11/14/nyregion/occupy-offshoot-aims-to-erase-peoples-debts.html), 	[the Guardian](http://www.theguardian.com/commentisfree/2013/nov/13/occupy-wall-st-debt-buying-heart-capitalism) and [NPR](http://www.npr.org/sections/ed/2014/09/17/348036877/these-people-can-make-student-loans-disappear). 
+
+Until we stopped collecting donations last year, we used the $700 thousand we raised to erase over $30 million in predatory medical and tuition debt and more (stay tuned for more announcements), as well as helping to abolish over $800 million in a class action settlement. We canceled this debt (without any compensation) to get people to think critically about indebtedness: if creditors often value debts at a fraction of the amount they tell debtors they owe and if many of these debts were taken out to fund basic needs, are people really morally obligated repay them?
+
+Wilson told us Last Week Tonight was interested in reproducing our feat. Because LWT has previously done a good job of highlighting the outrageousness and injustice of various issues, we were under the impression they were interested in highlighting the mechanisms of oppression used by the creditor class as well as our ongoing organizing work to challenge these unjust arrangements. We spent hours on the phone and email with them explaining how we did our work and connecting them to other experts and resources.
+
+At the last minute Wilson told us LWT did not want to associate themselves with the work of the Rolling Jubilee due to its roots in Occupy Wall Street. Instead John Oliver framed the debt buy as his idea: a giveaway to compete with Oprah. The lead researcher who worked on this segment invoked the cover of journalism to justify distancing themselves from our project.
+
+This line is ironic given that the show has expressly claimed not to be doing journalism. Indeed, LWT has often engaged in outright activism: encouraging his viewers to call their elected officials, raising money to pay for media campaigns, interviewing activists about their campaigns, etc. On this episode, John Oliver advocates for vague milquetoast “reform” of the industry while making sure to encourage everybody who “can” to repay their debts.
+
+But apparently our activism--or our message--was beyond the pale. Apparently our position that NO ONE should have to go into debt to secure the basic necessities of life, and that any debt incurred to pay for health care or education is morally illegitimate is too radical for LWT.
+
+Whether LWT obscured the work of the Rolling Jubilee because it disagrees with our politics or wants to avoid inconvenience of having to acknowledge influence, we are disappointed. While we are happy that attention is being focused on the destructive nature of the debt collection industry, we ultimately believe that the only solution is for debtors to join together to challenge the underlying economic system that puts people in debt in the first place. That is why we launched the Debt Collective, so that debtors can build power and fight back together.
