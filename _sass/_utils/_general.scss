@@ -38,3 +38,7 @@ a.nostyle {
 .principal-green {
   color: $principal-green;
 }
+
+.tight.small {
+  font-size: $font-size-base * 3.25;
+}

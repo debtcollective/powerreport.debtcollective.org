@@ -1,0 +1,11 @@
+{% comment %}
+  Filter a collection of items where the `prop` equals the value of `match`
+{% endcomment %}
+
+{% assign filtered_collection = '' | split: '' %}
+
+{% for item in collection %}
+  {% if item[prop] == match %}
+    {% assign filtered_collection = filtered_collection | push: item %}
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,10 @@
+.ArtworkWithPosts {
+  .Feed__Posts {
+    &-item {
+      margin-bottom: 1.5rem;
+    }
+    &-latest-title {
+      font-size: $font-size-base * 1.5;
+    }
+  }
+}

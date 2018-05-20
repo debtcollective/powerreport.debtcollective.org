@@ -1,53 +1,28 @@
-<div class="Feed Feed__Posts container">
+<div class="container">
   <div class="row">
-    <div class="col-md-9 col-sm-12">
-      <h3 class="Feed__title tight">Special Reports</h3>
-    </div>
-    <div class="col-md-3 d-xl-block d-lg-block d-md-none d-sm-none d-none">
-      <a href="/reports" class="btn btn-outline-light float-right">
-        More special reports
-        <i class="fas fa-angle-right"></i>
-      </a>
+    <div class="col-12">
+      <h3 class="tight small">
+        Special Reports
+      </h3>
     </div>
   </div>
-
+  
   <hr class="mt-0">
 
-  <div class="row">
-    <div class="col-lg-7 mb-3">
-      {% assign post = site.posts | first %}
+  {% assign collection = site.posts %}
+  {% assign prop = 'layout' %}
+  {% assign match = 'special-report' %}
+  {% include filter-collection-where-prop-equals.html %}
+  {% assign posts = filtered_collection %}
 
-      {% if post.categories contains "special report" %}
-        {%- include tag-decoration.html -%}
-      {% else %}
-        <!-- Space to compensate for no splat -->
-        <div class="mt-4"></div>
-      {% endif %}
-      {% assign is_latest = true %}
-      {%- include posts-feed-item.html %}
-      {% assign is_latest = false %}
-    </div>
-
-    <div class="col-lg-5">
-      <ul class="Feed__Posts-latest-list">
-        <!-- Skip the first one as that's what we're displaying above -->
-        {% for post in site.posts  %}
-          {% case forloop.index %}
-            {% when 2 or 3 %}
-              <li class="Feed__Posts-latest-list-item pt-1">
-                {%- include posts-feed-item.html -%}
-              </li>
-          {% endcase %}
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-      <div class="col-12 d-xl-none d-lg-none d-md-flex d-sm-flex d-flex justify-content-center">
-        <a href="/reports" class="btn btn-outline-light">
-          More Special Reports
-        </a>
-      </div>
-    </div>
+  {% for post in posts %}
+    {% case forloop.index %}
+      {% when 1 or 2 or 3 %}
+        <div class="row">
+          <div class="col-12">
+            {% include posts-feed-item.html %}
+          </div>
+        </div>
+    {% endcase %}
+  {% endfor %}
 </div>

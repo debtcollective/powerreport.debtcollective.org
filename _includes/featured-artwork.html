@@ -1,0 +1,18 @@
+<div class="Artwork Artwork__wrapper">
+  <div class="Artwork__latest">
+    {% assign collection = site.artwork %}
+    {% assign prop = 'featured' %}
+    {% assign match = true %}
+    {% include filter-collection-where-prop-equals.html %}
+    {% assign artwork = filtered_collection | last %}
+
+    <div class="Artwork__image">
+      <a href="{{ artwork.url | relative_url }}" class="nostyle">
+        <img src="{{ artwork.preview }}" alt="{{ artwork.description }}; by {{ artwork.artist }}" />
+      </a>
+    </div>
+    <div class="Artwork__signature mt-1">
+      Artwork by: {{ artwork.artist }}
+    </div>
+  </div>
+</div>
