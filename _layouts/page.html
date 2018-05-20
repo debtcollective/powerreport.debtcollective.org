@@ -7,6 +7,9 @@ layout: default-small
     <h3 class="Page__title">{{ page.title | escape }}</h3>
     <span class="Post__title-sub">{{ page.sub-title | escape }}</span>
   </header>
+
+  {% include page-video.html %}
+
   <div class="Page__content copy">
     {{ content }}
   </div>

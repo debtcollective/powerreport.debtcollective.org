@@ -10,43 +10,8 @@ layout: default-small-no-feed
   <div class="Profiles__video-feed container-fluid">
     <div class="row">
       <div class="col-12">
-        {% assign latest_video = site.profiles | where: "category","video" | last %}
-
-        {% assign safe_id = latest_video.archive-video-location | replace: '.', '-' | replace: '/', '-' %}
-        {% assign video_id = "video-" | append:safe_id %}
-        {% assign details_id = "details-" | append:safe_id %}
-        {% assign sub_title_id = "sub-title-" | append:safe_id %}
-        {% assign video_src = "https://archive.org/download/" | append:latest_video.archive-video-location %}
-        {% assign video_poster = "https://archive.org/download/" | append:latest_video.video-poster-location %}
-        <div class="Profiles__video-latest mt-2">
-          <div class="Profiles__video-wrapper">
-            <video
-              controls
-              playsinline
-              id="{{video_id}}"
-              src="{{video_src}}"
-              poster="{{video_poster}}"
-              data-plyr-config='{ "title": "{{latest_video.interviewee}}", "clickToPlay": true }'
-            ></video>
-            <div class="Profiles__video-details" id="{{details_id}}">
-              <div class="Profiles__video-title">
-                {{latest_video.interviewee}}
-              </div>
-              <div class="Profiles__video-description">
-                {{latest_video.video-description}}
-              </div>
-            </div>
-          </div>
-          <script>
-            const player = new Plyr('#{{video_id}}');
-            player.on('ready', function(e) {
-              const instance = e.detail.plyr;
-              const details = $('#{{details_id}}');
-              details.css('display', 'inline-block');
-              $('.plyr__controls').prepend(details[0]);
-            })
-          </script>
-        </div>
+        {% assign video = site.profiles | where: "categories","video" | last %}
+        {% include embed-video.html %}
       </div>
     </div>
   </div>

@@ -15,47 +15,12 @@
 
   <div class="row">
     <div class="col-lg-7 mb-3">
-      {% assign latest_video = site.profiles | where: "categories", "video" | last %}
+      {% assign video = site.profiles | where: "categories", "video" | last %}
 
-      {% assign safe_id = latest_video.archive-video-location | replace: '.', '-' | replace: '/', '-' %}
-      {% assign video_id = "video-" | append:safe_id %}
-      {% assign details_id = "details-" | append:safe_id %}
-      {% assign sub_title_id = "sub-title-" | append:safe_id %}
-      {% assign video_src = "https://archive.org/download/" | append:latest_video.archive-video-location %}
-      {% assign video_poster = "https://archive.org/download/" | append:latest_video.video-poster-location %}
-      <h4 class="d-xl-none d-lg-none d-md-block d-sm-block d-block">Latest Video Profile</h4>
-      <div class="Feed__Profiles__video-latest">
-        <div class="Feed__Profiles__video-wrapper">
-          <video
-            controls
-            playsinline
-            id="{{video_id}}"
-            src="{{video_src}}"
-            poster="{{video_poster}}"
-            data-plyr-config='{ "title": "{{latest_video.interviewee}}", "clickToPlay": true }'
-          ></video>
-          <div class="Feed__Profiles__video-details" id="{{details_id}}">
-            <div class="Feed__Profiles__video-headline d-xl-block d-lg-block d-md-none d-sm-none d-xs-none">
-              Latest Video Profile
-            </div>
-            <div class="Feed__Profiles__video-title">
-              <a class="nostyle" href="{{ latest_video.url | relative_url }}">{{latest_video.interviewee}}</a>
-            </div>
-            <div class="Feed__Profiles__video-description">
-              {{latest_video.video-description}}
-            </div>
-          </div>
-        </div>
-        <script>
-          const player = new Plyr('#{{video_id}}');
-          player.on('ready', function(e) {
-            const instance = e.detail.plyr;
-            const details = $('#{{details_id}}');
-            details.css('display', 'inline-block');
-            $('.plyr__controls').prepend(details[0]);
-          })
-        </script>
-      </div>
+      <!-- Used by embed-video to add the headline to the video description -->
+      {% assign headline = "Latest Video Profile" %}
+      <h4 class="d-xl-none d-lg-none d-md-block d-sm-block d-block">{{headline}}</h4>
+      {% include embed-video.html %}
     </div>
 
     <div class="col-lg-5">

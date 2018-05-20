@@ -1,0 +1,39 @@
+{% if video %}
+  <div class="EmbedVideo">
+    {% assign video_id = "video-" | append:video.youtube-id %}
+    {% assign details_id = "details-" | append:video.youtube-id %}
+    
+    {% if headline %}
+    <div class="EmbedVideo__details headline" id="{{details_id}}">
+    {% else %}
+    <div class="EmbedVideo__details" id="{{details_id}}">
+    {% endif %}
+
+      {% if headline %}
+        <div class="EmbedVideo__headline d-xl-block d-lg-block d-md-none d-sm-none d-xs-none">
+          {{headline}}
+        </div>
+      {% endif %}
+      <div class="EmbedVideo__title">
+        <a class="nostyle" href="{{ video.url | relative_url }}">{{video.title}}</a>
+      </div>
+      <div class="EmbedVideo__description">
+        {{video.video-description}}
+      </div>
+    </div>
+    
+    <div class="plyr__video-embed" id="{{video_id}}">
+      <iframe src="https://www.youtube.com/embed/{{video.youtube-id}}?origin=https://plyr.io&amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1" allowfullscreen allowtransparency allow="autoplay"></iframe>
+    </div>
+
+    <script>
+      const player = new Plyr('#{{video_id}}');
+      player.on('ready', function(e) {
+        const instance = e.detail.plyr;
+        const details = $('#{{details_id}}');
+        details.css('display', 'inline-block');
+        $('.plyr__controls').prepend(details[0]);
+      })
+    </script>
+  </div>
+{% endif %}
