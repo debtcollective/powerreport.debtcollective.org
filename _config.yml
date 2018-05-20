@@ -32,6 +32,12 @@ defaults:
     layout: news-anlysis
     strike-title: striked out title
     lifted-from: where the article came from
+- scope:
+    path: profiles
+    type: posts
+  values:
+    author: the author
+    sub-title: a subtitle or excerpt
 author: The Debt Collective
 email: organizers@debtcollective.org
 description: 'Write an awesome description for your new site here. You can edit this

@@ -198,5 +198,8 @@
     &:not(:last-child) {
       margin-bottom: 4rem;
     }
+    br {
+      margin-bottom: 1rem;
+    }
   }
 }
