@@ -1,4 +1,6 @@
 {% if page.youtube-id %}
-  {% assign video = page %}
-  {% include embed-video.html %}
+  <div class="PageVideo">
+    {% assign video = page %}
+    {% include embed-video.html %}
+  </div>
 {% endif %}

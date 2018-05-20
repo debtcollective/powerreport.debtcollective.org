@@ -62,3 +62,13 @@
     padding-left: 0.5rem;
   }
 }
+
+.PageVideo {
+  .EmbedVideo {
+    max-width: 37.5rem;
+  }
+
+  & + .copy {
+    margin-top: 2rem;
+  }
+}

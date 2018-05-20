@@ -15,9 +15,13 @@
 
   <div class="row">
     <div class="col-lg-7 mb-3">
-      {% assign video = site.profiles | where: "categories", "video" | last %}
+      {% include get-video-profiles.html %}
+      {% assign video = video_profiles | last %}
 
-      <!-- Used by embed-video to add the headline to the video description -->
+      {% comment %}
+        "headline" used by embed-video to add the headline to the video description
+      {% endcomment %}
+
       {% assign headline = "Latest Video Profile" %}
       <h4 class="d-xl-none d-lg-none d-md-block d-sm-block d-block">{{headline}}</h4>
       {% include embed-video.html %}
@@ -26,7 +30,11 @@
     <div class="col-lg-5">
       <div class="Feed__Profiles__latest">
         <h4 class="Feed_Profiles__latest-headline">Latest Member Interviews</h4>
-        {% assign profiles = site.profiles | where: "categories", "profile" | reverse %}
+        {% assign collection = site.profiles %}
+        {% assign exclude = video %}
+        {% assign prop = 'url' %}
+        {% include filter-collection-excluding-on-prop.html %}
+        {% assign profiles = filtered_collection %}
 
         <ul class="Feed__Profiles__latest-list">
           {% for profile in profiles %}

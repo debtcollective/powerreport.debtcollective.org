@@ -1,0 +1,23 @@
+{% comment %}
+  I know this is ugly but unfortunately liquid doesn't have a way to filter an array
+  of objects for when a property is defined. This at least generifies it so that it's easy
+  to do this in other places... for example:
+
+  ```
+  {% assign collection = site.profiles %}
+  {% assign prop = 'youtube-id' %}
+  {% include filter-collection-on-prop-defined.html %}
+  {% assign video_profiles = filtered_collection %}
+  ```
+
+  creates an array of pages from the `profiles` collection where the `youtube-id` property
+  is defined
+{% endcomment %}
+
+{% assign filtered_collection = '' | split: '' %}
+
+{% for item in collection %}
+  {% if item[prop] %}
+    {% assign filtered_collection = filtered_collection | push: item %}
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,25 @@
+{% comment %}
+  Filter a collection to exclude any elements where the value of the `prop` property
+  is equal to the value of the same property on the `exclude` variable
+
+  For example:
+
+  ```
+  {% assign collection = site.profiles %}
+  {% assign exclude = latest_video %}
+  {% assign prop = 'url' %}
+  {% include filter-collection-excluding-on-prop.html %}
+  {% assign profiles = filtered_collection %}
+  ```
+
+  will create a `filtered_collection` array of profile pages where the "url"
+  property does not equal the "url" property of the `latest_video`
+{% endcomment %}
+
+{% assign filtered_collection = '' | split: '' %}
+
+{% for item in collection %}
+  {% if item[prop] != exclude[prop] %}
+    {% assign filtered_collection = filtered_collection | push: item %}
+  {% endif %}
+{% endfor %}

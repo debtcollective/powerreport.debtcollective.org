@@ -1,0 +1,6 @@
+{% assign collection = site.profiles %}
+{% assign prop = 'youtube-id' %}
+
+{% include filter-collection-on-prop-defined.html %}
+
+{% assign video_profiles = filtered_collection %}
