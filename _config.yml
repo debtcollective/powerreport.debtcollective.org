@@ -26,24 +26,25 @@ collections:
     permalink: "/:name"
 defaults:
 - scope:
-    path: ""
+    path: ''
     type: news_analysis
   values:
     layout: news-anlysis
     strike-title: striked out title
     lifted-from: where the article came from
 - scope:
-    path: ""
+    path: ''
     type: posts
   values:
-    author: the author of the piece, if any, or the place the article was originally taken from, if a news-analysis
+    author: the author of the piece, if any, or the place the article was originally
+      taken from, if a news-analysis
     sub-title: a sub title to accompany the piece
     youtube-id: false
     image: false
     excerpt: false
     summary: false
 - scope:
-    path: ""
+    path: ''
     type: artwork
   values:
     preview: a smaller version of the image to serve as fast loading preview
@@ -52,7 +53,7 @@ defaults:
     featured: false
     description: A brief description to accompany the artwork and assist screen-readers
 - scope:
-    path: ""
+    path: ''
     type: profiles
   values:
     layout: profile
