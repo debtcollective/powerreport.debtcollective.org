@@ -79,9 +79,11 @@
   }
   @include only-small() {
     margin-left: 1rem;
+    margin-right: 1rem;
   }
   @include only-x-small() {
     margin-left: 0.5rem;
+    margin-right: 0.5rem;
   }
   max-width: 37.5rem;
 }
@@ -175,5 +177,26 @@
 
   &__content {
     @include page-copy;
+  }
+}
+
+@mixin q-and-a {
+  counter-reset: question;
+
+  dt {
+    @include page-text;
+    font-weight: 600;
+    &::before {
+      counter-increment: question;
+      content: counter(question) ".";
+      padding-right: 0.25rem;
+    }
+  }
+  dd {
+    margin-top: 2rem;
+    font-weight: 400;
+    &:not(:last-child) {
+      margin-bottom: 4rem;
+    }
   }
 }

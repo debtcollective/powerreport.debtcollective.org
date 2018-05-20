@@ -2,3 +2,30 @@
 layout: default-small
 ---
 
+<article class="ArtworkPage" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="ArtworkPage__header">
+    <h3 class="ArtworkPage__title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <span class="ArtworkPage__title-sub" itemprop="name headline">{{ page.sub-title | escape }}</span>
+    <p class="ArtworkPage__meta">
+      <time class="ArtworkPage__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      <span class="ArtworkPage__author" itemprop="name">{{ page.artist }}</span>
+  </header>
+
+  <div class="Artwork__image">
+    <a href="{{ page.src }}" class="nostyle">
+      <img src="{{ page.preview }}" alt="{{ page.description }}; by {{ page.artist }}" />
+    </a>
+  </div>
+
+  {% include page-video.html %}
+
+  <div class="ArtworkPage__content copy" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <a class="" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+

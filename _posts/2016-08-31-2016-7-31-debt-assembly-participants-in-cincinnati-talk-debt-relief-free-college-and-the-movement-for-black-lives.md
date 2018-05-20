@@ -2,7 +2,7 @@
 title: Ohio Debt Assembly Participants Talk Economics, Race, and the Movement for
   Debt Cancellation
 date: 2016-08-31 00:00:00 Z
-layout: post
+layout: special-report
 ---
 
 Student debtors around the country are hosting debt assemblies to kickstart local organizing against predatory lenders and to push for free, quality higher education for all. The movement is being led by for-profit college students who were scammed by their schools. 

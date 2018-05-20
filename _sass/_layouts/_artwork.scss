@@ -1,0 +1,11 @@
+.ArtworkPage {
+  @include page;
+
+  &__content {
+    @include q-and-a;
+  }
+
+  .Artwork__image {
+    @include page-margins;
+  }
+}

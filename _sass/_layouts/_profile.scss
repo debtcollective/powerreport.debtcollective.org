@@ -50,23 +50,6 @@
   }
 
   &__content {
-    counter-reset: question;
-
-    dt {
-      @include page-text;
-      font-weight: 600;
-      &::before {
-        counter-increment: question;
-        content: counter(question) ".";
-        padding-right: 0.25rem;
-      }
-    }
-    dd {
-      margin-top: 2rem;
-      font-weight: 400;
-      &:not(:last-child) {
-        margin-bottom: 4rem;
-      }
-    }
+    @include q-and-a;
   }
 }

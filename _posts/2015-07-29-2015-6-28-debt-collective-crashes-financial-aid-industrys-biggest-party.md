@@ -1,7 +1,7 @@
 ---
 title: Debt Collective Crashes Financial Aid Industry's Biggest Party
 date: 2015-07-29 00:00:00 Z
-layout: post
+layout: special-report
 ---
 
 Hi Everyone,

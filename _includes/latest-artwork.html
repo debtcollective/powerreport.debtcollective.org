@@ -1,9 +1,11 @@
 <div class="Artwork Artwork__wrapper">
   <div class="Artwork__latest">
-    {% assign artwork = site.artwork | first %}
+    {% assign artwork = site.artwork | last %}
 
     <div class="Artwork__image">
-      <img src="{{ artwork.src }}" alt="{{ artwork.description }}; by {{ artwork.artist }}" />
+      <a href="{{ artwork.url | relative_url }}" class="nostyle">
+        <img src="{{ artwork.preview }}" alt="{{ artwork.description }}; by {{ artwork.artist }}" />
+      </a>
     </div>
     <div class="Artwork__signature mt-1">
       Artwork by: {{ artwork.artist }}
