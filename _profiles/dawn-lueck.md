@@ -1,8 +1,6 @@
 ---
 title: Dawn Lueck
 date: 2018-04-27 00:00:00 Z
-categories:
-- video
 layout: profile
 author: Interviewer Name
 sub-title: This could be a quote or something from the person that goes here, more
