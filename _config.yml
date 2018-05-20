@@ -26,16 +26,36 @@ collections:
     permalink: "/:name"
 defaults:
 - scope:
-    path: news_analysis
-    type: posts
+    path: ""
+    type: news_analysis
   values:
     layout: news-anlysis
     strike-title: striked out title
     lifted-from: where the article came from
 - scope:
-    path: profiles
+    path: ""
     type: posts
   values:
+    author: the author of the piece, if any, or the place the article was originally taken from, if a news-analysis
+    sub-title: a sub title to accompany the piece
+    youtube-id: false
+    image: false
+    excerpt: false
+    summary: false
+- scope:
+    path: ""
+    type: artwork
+  values:
+    preview: a smaller version of the image to serve as fast loading preview
+    src: the full version of the image
+    artist: the artist's name
+    featured: false
+    description: A brief description to accompany the artwork and assist screen-readers
+- scope:
+    path: ""
+    type: profiles
+  values:
+    layout: profile
     author: the author
     sub-title: a subtitle or excerpt
 author: The Debt Collective
