@@ -1,11 +1,8 @@
 ---
 title: Pam Hunt
 date: 2018-04-27 00:00:00 Z
-categories:
-- profile
 layout: profile
-interviewer: Interviewer Name
-interviewee: Pam Hunt
+interviewer: Dan Hong
 sub-title: This could be a quote or something from the person that goes here, more
   content
 ---
