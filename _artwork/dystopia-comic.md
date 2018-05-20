@@ -1,7 +1,7 @@
 ---
 title: Welcome to Feudaltown
 date: 2018-05-20 00:00:00 Z
-src: "\uFEFFhttps://s3.amazonaws.com/tds-static/artwork/DystopiaComicB%26W(highres).jpeg"
+src: https://s3.amazonaws.com/tds-static/artwork/DystopiaComicB%26W(highres).jpeg
 preview: https://s3.amazonaws.com/tds-static/artwork/DystopiaComicB%26W(highres)x0.25.jpeg
 description: Welcome to ol' Feudaltown
 artist: Someone
