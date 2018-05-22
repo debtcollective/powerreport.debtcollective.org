@@ -36,11 +36,13 @@ defaults:
     path: ''
     type: posts
   values:
-    author: the author of the piece, if any, or the place the article was originally taken from, if a news-analysis
-    sub-title: (optional) a sub title to accompany the piece
-    youtube-id: (optional) the last part of a youtube url if a video should accompany the piece
-    image: (optional) an image if the piece has a featured image to display
-    summary: (optional) a summary of the piece
+    author: the author of the piece, if any, or the place the article was originally
+      taken from, if a news-analysis
+    sub-title: "(optional) a sub title to accompany the piece"
+    youtube-id: "(optional) the last part of a youtube url if a video should accompany
+      the piece"
+    image: "(optional) an image if the piece has a featured image to display"
+    summary: "(optional) a summary of the piece"
 - scope:
     path: ''
     type: artwork
@@ -57,8 +59,10 @@ defaults:
     layout: profile
     author: the name of the interviewer
     sub-title: a subtitle or excerpted quote from the interview
-    youtube-id: (optional) the last part of a youtube url if the interview is a video interview
-    video-description: (optional) if there's a video, this will appear over the video while it is paused underneath the title
+    youtube-id: "(optional) the last part of a youtube url if the interview is a video
+      interview"
+    video-description: "(optional) if there's a video, this will appear over the video
+      while it is paused underneath the title"
 author: The Debt Collective
 email: organizers@debtcollective.org
 description: 'Write an awesome description for your new site here. You can edit this
