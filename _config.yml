@@ -6,9 +6,6 @@ collections:
     title: Artwork
     output: true
     permalink: "/artwork/:name"
-    src: the url of the image
-    description: A description to help screen readers
-    artist: the artist who made the artwork
   news_analysis:
     title: News Analysis
     output: true
@@ -30,25 +27,23 @@ defaults:
     type: news_analysis
   values:
     layout: news-anlysis
-    strike-title: striked out title
-    lifted-from: where the article came from
+    strike-title: ''
+    lifted-from: ''
 - scope:
     path: ''
     type: posts
   values:
-    author: the author of the piece, if any, or the place the article was originally
-      taken from, if a news-analysis
-    sub-title: "(optional) a sub title to accompany the piece"
-    youtube-id: "(optional) the last part of a youtube url if a video should accompany
-      the piece"
-    image: "(optional) an image if the piece has a featured image to display"
-    summary: "(optional) a summary of the piece"
+    author: ''
+    sub-title: ''
+    youtube-id: ''
+    image: ''
+    summary: ''
 - scope:
     path: ''
     type: artwork
   values:
-    preview: a smaller version of the image to serve as fast loading preview
-    src: the full version of the image
+    preview: link to a smaller version of the image to serve as fast loading preview
+    src: link to the full version of the image
     artist: the artist's name
     featured: false
     description: A brief description to accompany the artwork and assist screen-readers
@@ -57,19 +52,13 @@ defaults:
     type: profiles
   values:
     layout: profile
-    author: the name of the interviewer
-    sub-title: a subtitle or excerpted quote from the interview
-    youtube-id: "(optional) the last part of a youtube url if the interview is a video
-      interview"
-    video-description: "(optional) if there's a video, this will appear over the video
-      while it is paused underneath the title"
+    author: ''
+    sub-title: ''
+    youtube-id: ''
+    video-description: ''
 author: The Debt Collective
 email: organizers@debtcollective.org
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
+description: 'The Debt Collective Power Report — Member Profiles, News Analysis, Updates on our work'
 rss: rss
 plugins: 
 markdown: kramdown
