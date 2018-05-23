@@ -1,0 +1,11 @@
+{% assign all_posts = site.posts %}
+
+{% for post in site.special_reports %}
+  {% assign all_posts = all_posts | push: post %}
+{% endfor %}
+
+{% for post in site.news_analysis %}
+  {% assign all_posts = all_posts | push: post %}
+{% endfor %}
+
+{% assign all_posts = all_posts | sort: 'date' | reverse %}

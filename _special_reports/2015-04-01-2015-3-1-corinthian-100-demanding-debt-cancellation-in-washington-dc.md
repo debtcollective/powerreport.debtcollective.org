@@ -1,7 +1,6 @@
 ---
 title: Corinthian Strike Team Demands Debt Cancellation in Washington DC
 date: 2015-04-01 00:00:00 Z
-layout: special-report
 ---
 
 ![alt](/assets/images/2015/04/group.jpg)

@@ -9,13 +9,8 @@
   
   <hr class="mt-0">
 
-  {% assign collection = site.posts %}
-  {% assign prop = 'layout' %}
-  {% assign match = 'special-report' %}
-  {% include filter-collection-where-prop-equals.html %}
-  {% assign posts = filtered_collection %}
-
-  {% for post in posts %}
+  {% assign is_latest = false %}
+  {% for post in site.special_reports %}
     {% case forloop.index %}
       {% when 1 or 2 or 3 %}
         <div class="row">
@@ -25,4 +20,10 @@
         </div>
     {% endcase %}
   {% endfor %}
+
+  <div class="row">
+    <div class="col-12 d-flex justify-content-center">
+      <a href="/reports" class="btn btn-outline-light">More Special Reports</a>
+    </div>
+  </div>
 </div>

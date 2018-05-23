@@ -1,7 +1,6 @@
 ---
 title: New England Institute of Art Students Storm Campus to Deliver Demand Letter
 date: 2016-09-09 00:00:00 Z
-layout: special-report
 youtube-id: SdCUr1TdF-M
 ---
 

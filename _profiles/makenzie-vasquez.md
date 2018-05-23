@@ -2,8 +2,6 @@
 title: Makenzie Vasquez
 date: 2018-04-18 00:00:00 Z
 author: Dan Hong
-sub-title: This could be a quote or something from the person that goes here, more
-  content
 layout: profile
 ---
 

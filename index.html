@@ -2,10 +2,11 @@
 layout: default-hero
 ---
 
+{% include all-posts.html %}
 <div class="Home container mt-5">
   <div class="row">
     <div class="col-md-8 col-lg-6 offset-lg-3 offset-md-2 Home__posts-latest">
-      {% assign post = site.posts | first %}
+      {% assign post = all_posts | first %}
 
       {%- include index-feed-item.html -%}
     </div>
@@ -18,7 +19,7 @@ layout: default-hero
       {%- include latest-artwork.html -%}
     </div>
     <div class="col-md-6 Home__posts-list">
-      {% for post in site.posts %}
+      {% for post in all_posts %}
         {% if forloop.first %}
         {% else %}
           {% case forloop.index %}

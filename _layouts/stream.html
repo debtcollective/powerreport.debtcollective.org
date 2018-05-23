@@ -7,12 +7,23 @@ layout: default-small-no-feed
 
     <div class="container">
       <div class="row">
-        {% for post in site.posts %}
-          {% if post.layout == page.target-layout %}
-            <div class="col-md-6 pb-5">
-              {%- include general-feed-item.html -%}
-            </div>
-          {% endif %}
+        {% if page.target-collection %}
+          {% assign posts = site[page.target-collection] %}
+        {% elsif page.target-layout %}
+          {% assign posts = '' | split: '' %}
+          {% for post in site.posts %}
+            {% if post.layout == page.target-layout %}
+              {% assign posts = posts | push: post %}
+            {% endif %}
+          {% endfor %}
+        {% else %}
+          Nothing to see here... yet
+        {% endif %}
+        
+        {% for post in posts %}
+          <div class="col-md-6 pb-5">
+            {%- include general-feed-item.html -%}
+          </div>
         {% endfor %}
       </div>
     </div>

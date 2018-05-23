@@ -24,6 +24,8 @@
           &-sub-title {
             font-weight: 400;
             font-style: italic;
+            max-height: 4.5rem;
+            overflow-y: hidden;
           }
           &-metadata {
             padding-top: 0.25rem;

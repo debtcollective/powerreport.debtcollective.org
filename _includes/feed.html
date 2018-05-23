@@ -1,4 +1,8 @@
 
-{%- include profiles-feed.html -%}
+{% if page.layout == 'profile' %}
+  {%- include profile-feed-no-video.html %}
+{% else %}
+  {%- include profiles-feed.html -%}
+{% endif %}
 
 {%- include artwork-with-posts-feed.html -%}

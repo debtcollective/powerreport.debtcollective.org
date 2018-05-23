@@ -1,0 +1,40 @@
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <div class="Feed Feed__Profiles container px-2">
+        <div class="row">
+          <div class="col-lg-9 col-12">
+            <h3 class="Feed__title tight">Who is the Debt Collective?</h3>
+          </div>
+          <div class="col-md-3 d-xl-block d-lg-block d-md-none d-sm-none d-none">
+            <a href="/profiles" class="btn btn-outline-light float-right">
+              Member Profiles
+              <i class="fas fa-angle-right"></i>
+            </a>
+          </div>
+        </div>
+      
+        <hr class="mt-0">
+      
+        <div class="row Feed__Profiles__latest Feed__Profiles__latest-list">
+          {% for profile in site.profiles %}
+            {% case forloop.index %}
+              {% when 1 or 2 or 3 or 4 %}
+                <div class="col-md-6">
+                  {% include profiles-feed-item.html %}
+                </div>
+            {% endcase %}
+          {% endfor %}
+        </div>
+      
+        <div class="row">
+          <div class="col-12 d-xl-none d-lg-none d-md-flex d-sm-flex d-flex justify-content-center">
+            <a href="/profiles" class="btn btn-outline-light">
+              More Member Profiles
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

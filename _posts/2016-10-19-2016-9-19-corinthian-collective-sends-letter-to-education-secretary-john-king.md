@@ -2,9 +2,9 @@
 title: Corinthian Collective Sends Letter to Education Secretary John King
 date: 2016-10-19 00:00:00 Z
 layout: post
+image: /assets/images/2016/10/dclogo_j.jpg
+summary: We are writing to tell you that your attempts to pretend we do not exist will not work.
 ---
-
-![alt](/assets/images/2016/10/dclogo_j.jpg)
 
 Dear Secretary King, 
 

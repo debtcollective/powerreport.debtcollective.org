@@ -6,10 +6,6 @@ collections:
     title: Artwork
     output: true
     permalink: "/artwork/:name"
-  news_analysis:
-    title: News Analysis
-    output: true
-    permalink: "/news-analysis/:name"
   posts:
     title: Posts
     output: true
@@ -21,6 +17,14 @@ collections:
     title: Uploads
     output: true
     permalink: "/:name"
+  special_reports:
+    title: Special Reports
+    output: true
+    permalink: "/reports/:title"
+  news_analysis:
+    title: News Analysis
+    output: true
+    permalink: "/news-analysis/:title"
 defaults:
 - scope:
     path: ''
@@ -31,13 +35,33 @@ defaults:
     lifted-from: ''
 - scope:
     path: ''
+    type: special_reports
+  values:
+    layout: special-report
+    sub-title: 
+    author: 
+    youtube-id: 
+    image: 
+    summary: 
+- scope:
+    path: ''
+    type: news_analysis
+  values:
+    layout: news-analysis
+    sub-title:
+    author:
+    youtube-id:
+    image:
+    summary:
+- scope:
+    path: ''
     type: posts
   values:
-    author: ''
-    sub-title: ''
-    youtube-id: ''
-    image: ''
-    summary: ''
+    author: 
+    sub-title: 
+    youtube-id: 
+    image: 
+    summary: 
 - scope:
     path: ''
     type: artwork
@@ -52,10 +76,10 @@ defaults:
     type: profiles
   values:
     layout: profile
-    author: ''
-    sub-title: ''
-    youtube-id: ''
-    video-description: ''
+    author: 
+    sub-title: 
+    youtube-id: 
+    video-description: 
 author: The Debt Collective
 email: organizers@debtcollective.org
 description: 'The Debt Collective Power Report — Member Profiles, News Analysis, Updates on our work'
