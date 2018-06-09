@@ -6,6 +6,10 @@ collections:
     title: Artwork
     output: true
     permalink: "/artwork/:name"
+  letters:
+    title: Letters
+    output: true
+    permalink: "/letters/:title"
   news_analysis:
     title: News Analysis
     output: true
@@ -13,10 +17,6 @@ collections:
   posts:
     title: Posts
     output: true
-  letters:
-    title: Letters
-    output: true
-    permalink: "/letters/:title"
   profiles:
     title: Profiles
     output: true
