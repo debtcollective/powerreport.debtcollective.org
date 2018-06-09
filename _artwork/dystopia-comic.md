@@ -1,14 +1,14 @@
 ---
-title: Welcome to Feudaltown
+title: Welcome to ol' Feudaltown
 date: 2018-05-20 00:00:00 Z
-src: https://s3.amazonaws.com/tds-static/artwork/DystopiaComicB%26W(highres).jpg
-preview: https://s3.amazonaws.com/tds-static/artwork/DystopiaComicB%26W(highres)x0.25.jpeg
-description: Welcome to ol' Feudaltown
+preview: https://s3.amazonaws.com/tds-static/artwork/DebtCollectiveComicColor(highres)x0.25.jpeg
+src: https://s3.amazonaws.com/tds-static/artwork/DebtCollectiveComicColor(highres).jpg
 artist: Phil Ashworth
+featured: true
+description: Welcome to ol' Feudaltown
 social:
   twitter: charlestondsa
 layout: artwork
-featured: true
 ---
 
 Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.  
