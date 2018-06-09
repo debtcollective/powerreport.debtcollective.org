@@ -8,6 +8,11 @@
     {% assign video_id = "video-" | append:video.youtube-id %}
     {% assign details_id = "details-" | append:video.youtube-id %}
 
+    {% if forloop %}
+      {% assign video_id = video_id | append:forloop.index %}
+      {% assign details_id = details_id | append:forloop.index %}
+    {% endif %}
+
     {% if headline %}
     <div class="EmbedVideo__details headline" id="{{details_id}}">
     {% else %}
@@ -35,7 +40,7 @@
       const player = new Plyr('#{{video_id}}');
       player.on('ready', function(e) {
         const instance = e.detail.plyr;
-        // Reset the poster because for some reason the default doesn't work for some of our videos
+        /* Reset the poster because for some reason the default doesn't work for some of our videos */
         instance.poster = 'https://img.youtube.com/vi/{{video.youtube-id}}/hqdefault.jpg';
         const details = $('#{{details_id}}');
         details.css('display', 'inline-block');

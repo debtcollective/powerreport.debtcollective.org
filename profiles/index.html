@@ -8,10 +8,19 @@ layout: default-small-no-feed
   <div class="Profiles__title tight">Member Profiles</div>
 
   <div class="Profiles__video-feed container-fluid">
+    {% assign videos = site.profiles | reverse %}
+    {% assign latest = videos | first %}
     <div class="row">
-      <div class="col-12">
-        {% assign video = site.profiles | where: "categories","video" | last %}
+      <div class="col-8">
+        {% assign video = latest %}
         {% include embed-video.html %}
+      </div>
+      <div class="col-4">
+        {% for video in videos %}
+          {% if forloop.index != 0 %}
+            {% include embed-video.html %}
+          {% endif %}
+        {% endfor %}
       </div>
     </div>
   </div>

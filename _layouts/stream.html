@@ -8,7 +8,7 @@ layout: default-small-no-feed
     <div class="container">
       <div class="row">
         {% if page.target-collection %}
-          {% assign posts = site[page.target-collection] %}
+          {% assign posts = site[page.target-collection] | reverse %}
         {% elsif page.target-layout %}
           {% assign posts = '' | split: '' %}
           {% for post in site.posts %}
