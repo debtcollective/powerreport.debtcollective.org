@@ -1,7 +1,7 @@
 ---
 title: Welcome to ol' Feudaltown
 date: 2018-05-20 00:00:00 Z
-preview: https://s3.amazonaws.com/tds-static/artwork/DebtCollectiveComicColor(highres)x0.25.jpeg
+preview: https://s3.amazonaws.com/tds-static/artwork/DebtCollectiveComicColor(highres)x0.25.jpg
 src: https://s3.amazonaws.com/tds-static/artwork/DebtCollectiveComicColor(highres).jpg
 artist: Phil Ashworth
 featured: true
