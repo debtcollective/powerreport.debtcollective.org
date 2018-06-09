@@ -22,19 +22,13 @@
         "headline" used by embed-video to add the headline to the video description
       {% endcomment %}
 
-      {% assign headline = "Latest Video Profile" %}
-      <h4 class="d-xl-none d-lg-none d-md-block d-sm-block d-block">{{headline}}</h4>
       {% include embed-video.html %}
     </div>
 
     <div class="col-lg-5">
       <div class="Feed__Profiles__latest">
         <h4 class="Feed_Profiles__latest-headline">Latest Member Interviews</h4>
-        {% assign collection = site.profiles %}
-        {% assign exclude = video %}
-        {% assign prop = 'url' %}
-        {% include filter-collection-excluding-on-prop.html %}
-        {% assign profiles = filtered_collection %}
+        {% assign profiles = site.letters %}
 
         <ul class="Feed__Profiles__latest-list">
           {% for profile in profiles %}

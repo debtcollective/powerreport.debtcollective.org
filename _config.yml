@@ -13,6 +13,10 @@ collections:
   posts:
     title: Posts
     output: true
+  letters:
+    title: Letters
+    output: true
+    permalink: "/letters/:title"
   profiles:
     title: Profiles
     output: true
@@ -73,14 +77,22 @@ defaults:
     description: A brief description to accompany the artwork and assist screen-readers
 - scope:
     path: ''
+    type: letters
+  values:
+    layout: profile
+    author: 
+    sub-title: 
+    interviewee-picture: 
+- scope:
+    path: ''
     type: profiles
   values:
     layout: profile
     author: 
     sub-title: 
+    interviewee-picture: 
     youtube-id: 
     video-description: 
-    interviewee-picture: 
 author: The Debt Collective
 email: organizers@debtcollective.org
 description: The Debt Collective Power Report — Member Profiles, News Analysis, Updates
