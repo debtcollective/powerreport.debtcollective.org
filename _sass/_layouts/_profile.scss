@@ -14,10 +14,13 @@
   &__picture {
     $base-width: 18.375rem;
     $base-height: 21.6875rem;
-    @include only-large {
-      width: $base-width;
-      height: $base-height;
-    }
+
+    background-position: center;
+    background-size: cover;
+
+    width: $base-width;
+    height: $base-height;
+
     @include only-less-large {
       width: $base-width * 0.75;
       height: $base-height * 0.75;

@@ -1,7 +1,6 @@
 {% if profile %}
   <li class="Feed__Profiles__latest-list-item">
-    <div class="Feed__Profiles__latest-list-item-picture float-left">
-      <img src="{{profile.picture}}" alt="{{profile.title}} picture" />
+    <div class="Feed__Profiles__latest-list-item-picture float-left" style="background-image: url('{{ profile.interviewee-picture | escape }}');">
     </div>
     <div class="">
       <h5 class="Feed__Profiles__latest-list-item-name">
