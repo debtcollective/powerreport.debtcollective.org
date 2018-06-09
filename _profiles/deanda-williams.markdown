@@ -3,6 +3,7 @@ title: DeAnda Williams
 date: 2018-04-29 17:06:00 Z
 author: Dan Hong
 sub-title: an excerpt
+interviewee-picture: "/deanda-williams.jpeg"
 ---
 
 Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.
