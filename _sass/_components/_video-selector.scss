@@ -1,0 +1,23 @@
+a.VideoSelector {
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 200px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  @include at-most-medium {
+    margin-top: 15px;
+  }
+
+  .EmbedVideo__details {
+    display: contents;
+    color: $white;
+  }
+}
+
+.Profiles__video-feed-items {
+  @include at-least-small {
+    max-height: 36vw;
+    overflow-y: scroll;
+  }
+}

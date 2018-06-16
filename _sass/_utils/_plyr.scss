@@ -20,3 +20,7 @@
 .plyr--video .plyr__controls .plyr__control[aria-expanded="true"] {
   background-color: lighten($principal-green, 10%);
 }
+
+.plyr__poster {
+  background-size: cover;
+}

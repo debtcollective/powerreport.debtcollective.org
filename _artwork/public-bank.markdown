@@ -3,7 +3,8 @@ title: Public Bank
 date: 2018-06-09 14:23:00 Z
 preview: https://s3.amazonaws.com/tds-static/artwork/PUBLICBANKx0.25.jpg
 src: https://s3.amazonaws.com/tds-static/artwork/PUBLICBANK.jpg
-artist: Someone Else
+artist: Haley Hughes
+artist-website: https://haleyhughespaintings.blogspot.com/
 featured: false
 description: Public Bank
 ---
