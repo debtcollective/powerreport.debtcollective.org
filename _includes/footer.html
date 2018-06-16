@@ -4,10 +4,10 @@
       <div class="Footer__list col-lg-2 col-md-3 col-sm-6 col-6">
         <h6 class="Footer__list-head">Organize</h6>
         <div class="Footer__list-item">
-          <a href="#collectives">Collectives</a>
+          <a href="{{ endpoint | append: paths.collectives }}">Collectives</a>
         </div>
         <div class="Footer__list-item">
-          <a href="#campaigns">Campaigns</a>
+          <a href="{{ endpoint | append: paths.campaigns }}">Campaigns</a>
         </div>
         <div class="Footer__list-item">
           <a href="#debt-map">Debt Map</a>
@@ -16,13 +16,13 @@
       <div class="Footer__list col-lg-2 col-md-3 col-sm-6 col-6">
         <h6 class="Footer__list-head">Take Action</h6>
         <div class="Footer__list-item">
-          <a href="#events">Events</a>
+          <a href="{{ endpoint | append: paths.events }}">Events</a>
         </div>
         <div class="Footer__list-item">
           <a href="https://tools.debtcollective.org/dispute-tools">Dispute your Debt</a>
         </div>
         <div class="Footer__list-item">
-          <a href="#campaigns">Campaigns</a>
+          <a href="{{ endpoint | append: paths.campaigns }}">Campaigns</a>
         </div>
       </div>
       <div class="Footer__list col-lg-2 col-md-3 col-sm-6 col-6">

@@ -98,5 +98,11 @@ email: organizers@debtcollective.org
 description: The Debt Collective Power Report — Member Profiles, News Analysis, Updates
   on our work
 rss: rss
-plugins: 
+discourse:
+  endpoint: 'https://community.debtsyndicate.org'
+  paths:
+    campaigns: '/campaigns'
+    collectives: '/collectives'
+    events: '/calendar'
+plugins:
 markdown: kramdown
