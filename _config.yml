@@ -99,10 +99,10 @@ description: The Debt Collective Power Report — Member Profiles, News Analysis
   on our work
 rss: rss
 discourse:
-  endpoint: 'https://community.debtsyndicate.org'
+  endpoint: https://community.debtsyndicate.org
   paths:
-    campaigns: '/campaigns'
-    collectives: '/collectives'
-    events: '/calendar'
-plugins:
+    campaigns: "/campaigns"
+    collectives: "/collectives"
+    events: "/calendar"
+plugins: 
 markdown: kramdown
