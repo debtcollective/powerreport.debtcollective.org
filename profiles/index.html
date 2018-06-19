@@ -9,39 +9,41 @@ layout: default-small-no-feed
 
   {%- include video-selector.html -%}
 
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 mt-5">
+        <h3>Our Latest Member Interviews</h3>
+      </div>
+    </div>  
+  </div>
   <div class="Profiles__BigFeed-wrapper">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-12 mt-3">
-          <h3>Our Latest Member Interviews</h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-9">
-          {% assign profile = site.profiles[0] %}
+      {% assign letters = site.letters | reverse %}
+      {% for profile in letters %}
+        <div class="row">
+          {% assign mod2 = forloop.index | modulo: 2 %}
+          {% case mod2 %}
+            {% when 0 %}
+              <div class="col-md-8 offset-md-2">
+            {% when 1 %}
+              <div class="col-md-8 offset-md-4">
+          {% endcase %}
           {%- include profiles-big-feed-item.html -%}
+          </div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-md-9 offset-md-3">
-          {% assign profile = site.profiles[1] %}
-          {%- include profiles-big-feed-item.html -%}
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-9">
-          {% assign profile = site.profiles[2] %}
-          {%- include profiles-big-feed-item.html -%}
-        </div>
-      </div>
+      {% endfor %}
     </div>
   </div>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-12 d-flex justify-content-center">
-        <a class="btn btn-outline-light" href="/profiles/all">see more interviews</a>
+  {% comment %}
+    Not sure what to do with this. All the letters and video profiles are already
+    displayed on this page so there's not really a use for /profiles/all, is there?
+    <!-- <div class="container">
+      <div class="row">
+        <div class="col-12 d-flex justify-content-center">
+          <a class="btn btn-outline-light" href="/profiles/all">see more interviews</a>
+        </div>
       </div>
-    </div>
-  </div>
+    </div> -->
+  {% endcomment %}
 </div>
