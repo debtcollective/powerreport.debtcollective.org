@@ -15,6 +15,39 @@ a.VideoSelector {
   }
 }
 
+.VideoSelector {
+  &__title {
+    color: $white;
+  }
+  &__list-item {
+    min-height: 7rem;
+    margin-bottom: 2rem;
+
+    &-picture {
+      $base-width: 14.375rem;
+      $base-height: 7.625rem;
+      width: $base-width;
+      height: $base-height;
+      background-color: transparent;
+      margin-right: 1rem;
+      background-position: center;
+      background-size: cover;
+      border-radius: 4px;
+    }
+    &-name {
+      color: $white;
+      padding-top: 0.25rem;
+    }
+    &-sub-title {
+      color: $white;
+      font-weight: 400;
+      font-style: italic;
+      max-height: 4.5rem;
+      overflow-y: hidden;
+    }
+  }
+}
+
 .Profiles__video-feed-items {
   @include at-least-small {
     max-height: 36vw;

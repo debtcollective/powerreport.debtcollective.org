@@ -32,21 +32,21 @@
     </script>
 
     <div class="Profiles__video-feed-items col-md-4">
+      <h4 class="VideoSelector__title">More Video Profiles</h3>
       {% for video in videos %}
         {% if forloop.index != 1 %}
-          <a
-            href="{{video.url | relative_url}}"
-            class="VideoSelector nostyle"
-            style="background-image: url('https://img.youtube.com/vi/{{video.youtube-id}}/hqdefault.jpg');">
-            <div class="EmbedVideo__details">
-              <div class="EmbedVideo__title">
-                {{video.title}}
-              </div>
-              <div class="EmbedVideo__description">
-                {{video.video-description}}
+          <li class="VideoSelector__list-item">
+            <div class="VideoSelector__list-item-picture float-left" style="background-image: url('https://img.youtube.com/vi/{{video.youtube-id}}/hqdefault.jpg');">
+            </div>
+            <div class="">
+              <h5 class="VideoSelector__list-item-name">
+                <a class="nostyle" href="{{ video.url | relative_url }}">{{video.title}}</a>
+              </h6>
+              <div class="VideoSelector__list-item-sub-title">
+                {{video.sub-title}}
               </div>
             </div>
-          </a>
+          </li>
         {% endif %}
         <!-- <button
           class="VideoSelector"
