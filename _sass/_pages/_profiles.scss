@@ -20,6 +20,9 @@
     padding-top: 0.5rem;
     padding-bottom: 1rem;
 
+    &-items {
+    }
+
     video {
       max-height: 30.125rem;
     }
@@ -83,6 +86,14 @@
         background-color: transparent;
         margin-right: 2rem;
         margin-bottom: 3rem;
+        background-position: center;
+        background-size: cover;
+
+        &.rotate-right {
+          transform: rotate(90deg);
+          width: 12rem;
+          height: 9rem;
+        }
       }
 
       &-name {

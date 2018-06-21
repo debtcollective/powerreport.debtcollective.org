@@ -1,0 +1,54 @@
+<div class="Profiles__video-feed container-fluid">
+  <div class="row">
+    <div class="col-md-8">
+      <div class="EmbedVideo">
+        {% assign videos = site.profiles | reverse %}
+        {% assign video = videos | first %}
+        <div class="EmbedVideo__details" id="video-details">
+          <div class="EmbedVideo__title">
+            <a href="{{video.url | relative_url}}" class="nostyle">{{video.title}}</a>
+          </div>
+          <div class="EmbedVideo__description">
+            {{video.video-description}}
+          </div>
+        </div>
+
+        <div class="plyr__video-embed" id="plyr-video">
+          <iframe src="https://www.youtube.com/embed/{{video.youtube-id}}?origin=https://plyr.io&amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1" allowfullscreen allowtransparency allow="autoplay"></iframe>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function() {
+        var player = new Plyr('#plyr-video');
+        player.on('ready', function (e) {
+          e.detail.plyr.poster = 'https://img.youtube.com/vi/{{video.youtube-id}}/hqdefault.jpg';
+          var details = $('#video-details');
+          details.css('display', 'inline-block');
+          $('#plyr-video .plyr__controls').prepend(details[0]);
+        })
+      })()
+    </script>
+
+    <div class="Profiles__video-feed-items col-md-4">
+      <h4 class="VideoSelector__title">More Video Profiles</h3>
+      {% for video in videos %}
+        {% if forloop.index != 1 %}
+          <li class="VideoSelector__list-item">
+            <div class="VideoSelector__list-item-picture float-left" style="background-image: url('https://img.youtube.com/vi/{{video.youtube-id}}/hqdefault.jpg');">
+            </div>
+            <div class="">
+              <h5 class="VideoSelector__list-item-name">
+                <a class="nostyle" href="{{ video.url | relative_url }}">{{video.title}}</a>
+              </h6>
+              <div class="VideoSelector__list-item-sub-title">
+                {{video.sub-title}}
+              </div>
+            </div>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
