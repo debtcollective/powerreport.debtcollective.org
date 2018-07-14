@@ -80,7 +80,7 @@ defaults:
     path: ''
     type: letters
   values:
-    layout: profile
+    layout: letter
     author: 
     sub-title: 
     interviewee-picture: 
