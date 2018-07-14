@@ -88,12 +88,6 @@
         margin-bottom: 3rem;
         background-position: center;
         background-size: cover;
-
-        &.rotate-right {
-          transform: rotate(90deg);
-          width: 12rem;
-          height: 9rem;
-        }
       }
 
       &-name {

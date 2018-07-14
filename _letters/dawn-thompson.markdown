@@ -4,7 +4,6 @@ date: 2018-04-20 17:04:00 Z
 author: Dan Hong
 sub-title: an excerpt
 interviewee-picture: "/dawn-thomson.jpeg"
-rotate-picture-right: true
 ---
 
 Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.

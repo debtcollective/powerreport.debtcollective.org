@@ -19,12 +19,6 @@
             margin-right: 1rem;
             background-position: center;
             background-size: cover;
-
-            &.rotate-right {
-              transform: rotate(90deg);
-              width: 12rem;
-              height: 9rem;
-            }
           }
           &-name {
             padding-top: 0.25rem;

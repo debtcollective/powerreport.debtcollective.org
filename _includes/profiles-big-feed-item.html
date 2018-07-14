@@ -1,9 +1,5 @@
 <div class="Profiles__BigFeed-item my-5">
-  {% if profile.rotate-picture-right %}
-    <div class="Profiles__BigFeed-item-picture rotate-right float-left" style="background-image: url('{{ profile.interviewee-picture | escape }}');"></div>
-  {% else %}
-    <div class="Profiles__BigFeed-item-picture float-left" style="background-image: url('{{ profile.interviewee-picture | escape }}');"></div>
-  {% endif %}
+  <div class="Profiles__BigFeed-item-picture float-left" style="background-image: url('{{ profile.interviewee-picture | escape }}');"></div>
   <div>
     <h5 class="Profiles__BigFeed-item-name">
       <a href="{{ profile.url | relative_url }}">{{profile.title}}</a>

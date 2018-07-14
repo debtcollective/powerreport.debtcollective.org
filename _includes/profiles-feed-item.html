@@ -1,10 +1,6 @@
 {% if profile %}
   <li class="Feed__Profiles__latest-list-item">
-    {% if profile.rotate-picture-right %}
-      <div class="Feed__Profiles__latest-list-item-picture rotate-right float-left" style="background-image: url('{{ profile.interviewee-picture | escape }}');">
-    {% else %}
-      <div class="Feed__Profiles__latest-list-item-picture float-left" style="background-image: url('{{ profile.interviewee-picture | escape }}');">
-    {% endif %}
+    <div class="Feed__Profiles__latest-list-item-picture float-left" style="background-image: url('{{ profile.interviewee-picture | escape }}');">
     </div>
     <div class="">
       <h5 class="Feed__Profiles__latest-list-item-name">
