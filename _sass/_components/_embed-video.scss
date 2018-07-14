@@ -64,6 +64,7 @@
 }
 
 .PageVideo {
+  @include page-margins;
   .EmbedVideo {
     max-width: 37.5rem;
   }
