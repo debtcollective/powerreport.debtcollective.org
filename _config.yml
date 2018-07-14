@@ -107,6 +107,5 @@ discourse:
     events: "/calendar"
 plugins: 
 markdown: kramdown
-# Prevent SiteLeaf from destroying our circleci config that publishes the site to S3
 exclude:
 - ".circleci"
