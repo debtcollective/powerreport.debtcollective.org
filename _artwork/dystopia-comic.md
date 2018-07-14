@@ -8,7 +8,6 @@ featured: true
 description: Welcome to ol' Feudaltown
 social:
   twitter: charlestondsa
-layout: artwork
 ---
 
 Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.  

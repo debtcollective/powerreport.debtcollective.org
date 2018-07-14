@@ -70,6 +70,7 @@ defaults:
     path: ''
     type: artwork
   values:
+    layout: artwork
     preview: link to a smaller version of the image to serve as fast loading preview
     src: link to the full version of the image
     artist: the artist's name
