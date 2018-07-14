@@ -1,0 +1,31 @@
+version: 2
+jobs:
+  deploy:
+    docker:
+      - image: circleci/ruby:2.5.1-stretch-node-browsers
+    working_directory: ~/powerreport.debtcollective.org
+    steps:
+      - checkout
+      - run:
+          name: build site
+          command: |
+            bundle install
+            bundle exec jekyll build
+      - run:
+          name: install awscli
+          command: |
+            sudo apt-get install python-dev
+            curl -O https://bootstrap.pypa.io/get-pip.py
+            python get-pip.py --user
+            ../.local/bin/pip install awscli --upgrade --user
+      - run:
+          name: deploy to S3
+          command: ../.local/bin/aws s3 sync _site s3://powerreport.debtcollective.org --region us-east-1 --acl public-read
+workflows:
+  version: 2
+  deploy:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              only: master
