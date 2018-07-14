@@ -1,7 +1,6 @@
 ---
 title: The Debt Collective
 timezone: UTC
-permalink: pretty
 collections:
   artwork:
     title: Artwork
@@ -95,6 +94,7 @@ defaults:
     interviewee-picture: 
     youtube-id: 
     video-description: 
+permalink: pretty
 author: The Debt Collective
 email: organizers@debtcollective.org
 description: The Debt Collective Power Report — Member Profiles, News Analysis, Updates
