@@ -1,7 +1,6 @@
 ---
 title: Update on Art Institute Closures
 date: 2018-07-19 14:04:00 Z
-published: false
 sub-title: What Current Students Should Know
 ---
 
