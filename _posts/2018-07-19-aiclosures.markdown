@@ -2,7 +2,7 @@
 title: Update on Art Institute Closures
 date: 2018-07-19 14:04:00 Z
 published: false
-youtube-id: sv3TXMSv6Lw
+sub-title: What Current Students Should Know
 ---
 
 Debt Collective members who attended Art Institute have been fighting for debt relief. They have been building power against EDMC, the former owners of AI and other schools (including Brown Mackie and Argosy), and pressuring the US Department of Education to cancel their debt.  While we continue to work together to build power on the ground and in the courts, Dream Center (the new owner of AI) announced dozens of campus closures earlier this month.
