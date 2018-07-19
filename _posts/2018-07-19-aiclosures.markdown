@@ -1,6 +1,9 @@
 ---
 title: Update on Art Institute Closures
 date: 2018-07-19 14:04:00 Z
+tags:
+- Art Institute
+- For-profit collective
 sub-title: What Current Students Should Know
 ---
 
