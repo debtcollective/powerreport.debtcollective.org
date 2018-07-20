@@ -4,6 +4,7 @@ date: 2018-07-19 14:04:00 Z
 tags:
 - Art Institute
 - For-profit collective
+author: The Debt Collective
 sub-title: What Current Students Should Know
 ---
 
