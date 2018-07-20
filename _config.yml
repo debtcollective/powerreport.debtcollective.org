@@ -107,6 +107,7 @@ discourse:
     collectives: "/collectives"
     events: "/calendar"
 plugins: 
+  - jekyll-seo-tag
 markdown: kramdown
 exclude:
 - ".circleci"
