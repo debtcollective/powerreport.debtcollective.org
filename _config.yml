@@ -61,6 +61,7 @@ defaults:
     path: ''
     type: posts
   values:
+    layout: post
     author: 
     sub-title: 
     youtube-id: 
