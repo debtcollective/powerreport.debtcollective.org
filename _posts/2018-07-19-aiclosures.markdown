@@ -18,8 +18,9 @@ Education Management Corporation (EDMC) operated the predatory for-profit school
 
 The Debt Collective demands that
 
-* Current students get their money back. 
-* All students should have all of their debts discharged. 
+* Current students get their money back.
+
+* All students should have all of their debts discharged.
 
 We make these demands knowing full well that the Dream Center is trying to trick students into signing their rights away. In this process students are not being giving all of the information they need in order to understand what their best options are.
 
@@ -38,12 +39,11 @@ GET ORGANIZED TO DEMAND DEBT CANCELATION. Current and former students are gettin
 Join with local current and former students to organize protests on your campus. Distribute fliers to current students so that they know their rights.
 
 DEMAND MORE INFORMATION. [Contact your Senators and Representatives](https://www.govtrack.us/congress/members). Demand that the Department of Education explicitly clarify that all current students will qualify for a closed school discharge.
-[Write a letter to the editor](https://docs.google.com/document/d/1gxXjnQXugyP6Ro_A1aFVerCJC4ht1j9VlnXRu4C2wLw/edit) or an op-ed in your local newspaper. You can use [this template](https://docs.google.com/document/d/12xPNrqT-7Jp76KTJLHkDNljCuu4hGJ1W9qGL2btEYpQ/edit). Letters to the editor and op-eds are two of the best ways to put pressure on your local representatives to take action. They also help spread the word and inform your classmates. 
+[Write a letter to the editor](https://docs.google.com/document/d/1gxXjnQXugyP6Ro_A1aFVerCJC4ht1j9VlnXRu4C2wLw/edit) or an op-ed in your local newspaper. You can use [this template](https://docs.google.com/document/d/12xPNrqT-7Jp76KTJLHkDNljCuu4hGJ1W9qGL2btEYpQ/edit). Letters to the editor and op-eds are two of the best ways to put pressure on your local representatives to take action. They also help spread the word and inform your classmates.
 
 Share the word on social media. You can use some of these sample posts, and make your own! Use your creativity to make memes. Make sure to tag your representatives and the Department of Education.
 
 For more information about these closures see the [Project on Predatory Student Lending.](https://predatorystudentlending.org/updates/information-art-institutes-closures-bankruptcies-2/)
-
 
 List of closing campuses
 
