@@ -95,6 +95,11 @@ defaults:
     interviewee-picture: 
     youtube-id: 
     video-description: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 permalink: pretty
 author: The Debt Collective
 email: organizers@debtcollective.org
