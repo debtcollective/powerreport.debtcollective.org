@@ -49,30 +49,30 @@ List of closing campuses
 
 ART INSTITUTES
 
-Arizona: Phoenix
-California: Inland Empire/San Bernardino, Orange County/Santa Ana, Sacramento, San Francisco
-Colorado: Denver
-Florida: Fort Lauderdale
-Illinois: Chicago, Schaumburg
-Indiana: Indianapolis
-Michigan: Detroit
-North Carolina: Charlotte, Raleigh-Durham
-Oregon: Portland
-Pennsylvania: Philadelphia
-South Carolina: Charleston
-Tennessee: Nashville
-Virginia: Arlington
+Arizona: Phoenix  
+California: Inland Empire/San Bernardino, Orange County/Santa Ana, Sacramento, San Francisco  
+Colorado: Denver  
+Florida: Fort Lauderdale  
+Illinois: Chicago, Schaumburg  
+Indiana: Indianapolis  
+Michigan: Detroit  
+North Carolina: Charlotte, Raleigh-Durham  
+Oregon: Portland  
+Pennsylvania: Philadelphia  
+South Carolina: Charleston  
+Tennessee: Nashville  
+Virginia: Arlington  
 
 Argosy University
 
-California: Inland Empire, San Diego, San Francisco
-Colorado: Denver
-Florida: Sarasota
-Illinois: Schaumburg
-Tennessee: Nashville
-Texas: Dallas
-Utah: Salt Lake City
-Washington: Seattle
+California: Inland Empire, San Diego, San Francisco  
+Colorado: Denver  
+Florida: Sarasota  
+Illinois: Schaumburg  
+Tennessee: Nashville  
+Texas: Dallas  
+Utah: Salt Lake City  
+Washington: Seattle  
 
 South University
 
