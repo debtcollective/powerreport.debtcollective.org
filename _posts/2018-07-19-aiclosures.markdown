@@ -8,7 +8,7 @@ author: The Debt Collective
 sub-title: What Current Students Should Know
 ---
 
-![ami schneider -9f37a6.jpg]()
+![/ami schneider -9f37a6.jpg]()
 
 Debt Collective members who attended Art Institute have been fighting for debt relief. They have been building power against EDMC, the former owners of AI and other schools (including Brown Mackie and Argosy), and pressuring the US Department of Education to cancel their debt.  While we continue to work together to build power on the ground and in the courts, Dream Center (the new owner of AI) announced dozens of campus closures earlier this month.
 
