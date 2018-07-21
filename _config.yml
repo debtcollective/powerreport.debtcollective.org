@@ -32,13 +32,6 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: news_analysis
-  values:
-    layout: news-anlysis
-    strike-title: ''
-    lifted-from: ''
-- scope:
-    path: ''
     type: special_reports
   values:
     layout: special-report
