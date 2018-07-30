@@ -1,9 +1,9 @@
 ---
-title: Banks want to take even more of your money from this headline here
+title: Banks Want to Take Even More of Your Money
 date: 2018-03-15 00:00:00 Z
-author: The Wall Street Journal
 sub-title: Banks Look to Break Government's Hold on Student-Loan Market; Lobbying
   group pushes to limit how much individuals can borrow from federal programs
+author: The Wall Street Journal
 ---
 
 Private lenders are pushing to break up the government's near monopoly in the $100 billion-a-year student-loan market.
