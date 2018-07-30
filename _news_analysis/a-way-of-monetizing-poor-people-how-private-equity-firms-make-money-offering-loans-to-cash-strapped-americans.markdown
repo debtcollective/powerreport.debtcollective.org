@@ -1,9 +1,11 @@
 ---
-title: "'A Way of Monetizing Poor People': How Private Equity Firms Make Money Offering
-  Loans to Cash-Strapped Americans"
+title: 'Evil Rich People Prey on People Struggling to Get By: What Else is New?'
 date: 2018-07-30 11:06:00 Z
 ---
 
+Original Title: 'A Way of Monetizing Poor People': How Private Equity Firms Make Money Offering Loans to Cash-Strapped Americans 
+Author:Peter Whoriskey / The Washington Post
+___
 The check arrived out of the blue, issued in his name for $1,200, a mailing from a consumer finance company. Stephen Huggins eyed it carefully.
 
 A loan, it said. Smaller type said the interest rate would be 33 percent.
