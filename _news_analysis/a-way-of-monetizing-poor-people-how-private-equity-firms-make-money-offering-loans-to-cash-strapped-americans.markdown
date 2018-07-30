@@ -4,7 +4,7 @@ date: 2018-07-30 11:06:00 Z
 ---
 
 Original Title: 'A Way of Monetizing Poor People': How Private Equity Firms Make Money Offering Loans to Cash-Strapped Americans 
-Author:Peter Whoriskey / The Washington Post
+Author:Peter Whoriskey / The Washington Post / July 2018
 ___
 The check arrived out of the blue, issued in his name for $1,200, a mailing from a consumer finance company. Stephen Huggins eyed it carefully.
 
@@ -12,7 +12,7 @@ A loan, it said. Smaller type said the interest rate would be 33 percent.
 
 Way too high, Huggins thought. He put it aside.
 
-A week later, though, his 2005 Chevy pickup was in the shop, and he didn’t have enough to pay for the repairs. He needed the truck to get to work, to get the kids to school. So Huggins, a 56-year-old heavy equipment operator in Nashville, fished the check out that day in April 2017 and cashed it.
+A week later, though, his 2005 Chevy pickup was in the shop, and he didn’t have enough to pay for the repairs. <mark>He needed the truck to get to work, to get the kids to school.</mark> So Huggins, a 56-year-old heavy equipment operator in Nashville, fished the check out that day in April 2017 and cashed it.
 
 Within a year, the company, Mariner Finance, sued Huggins for $3,221.27. That included the original $1,200, plus an additional $800 a company representative later persuaded him to take, plus hundreds of dollars in processing fees, insurance and other items, plus interest. It didn’t matter that he’d made a few payments already.
 
