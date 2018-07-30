@@ -18,25 +18,28 @@ Within a year, the company, Mariner Finance, sued Huggins for $3,221.27. That in
 
 “It would have been cheaper for me to go out and borrow money from the mob,” Huggins said before his first court hearing in April.
 
-As treasury secretary in the Obama administration, Timothy F. Geithner condemned predatory lenders. Now he is president of Warburg Pincus, a New York firm that controls a private equity fund that owns Mariner Finance. 
+<mark>As treasury secretary in the Obama administration, Timothy F. Geithner condemned predatory lenders. Now he is president of Warburg Pincus, a New York firm that controls a private equity fund that owns Mariner Finance.</mark> 
+<aside> Isn't that just perfect? The same dude hired by Obama to help "save" the economy after the 2008 crisis found a way to get even richer by taking advantage of people in debt. </aside>
 
 Most galling, Huggins couldn’t afford a lawyer but was obliged by the loan contract to pay for the company’s. That had added 20 percent — $536.88 — to the size of his bill.
 
 “They really got me,” Huggins said.
 
 **A Growing Market**
-Mass-mailing checks to strangers might seem like risky business, but Mariner Finance occupies a fertile niche in the U.S. economy. The company enables some of the nation’s wealthiest investors and investment funds to make money offering high-interest loans to cash-strapped Americans.
+Mass-mailing checks to strangers might seem like risky business, but Mariner Finance occupies a fertile niche in the U.S. economy. <mark>The company enables some of the nation’s wealthiest investors and investment funds to make money offering high-interest loans to cash-strapped Americans.</mark>
+<aside>This is, in fact, a main point of the Finance industry: making it legal for rich people to screw us.</aside>
 
 Mariner Finance is owned and managed by a $11.2 billion private equity fund controlled by Warburg Pincus, a storied New York firm. The president of Warburg Pincus is Timothy F. Geithner, who, as treasury secretary in the Obama administration, condemned predatory lenders. The firm’s co-chief executives, Charles R. Kaye and Joseph P. Landy, are established figures in New York’s financial world. The minimum investment in the fund is $20 million.
 
 Mariner Finance operates more than 450 branches in 22 states, according to company filings. It is especially active in Virginia, Maryland, Tennessee, Pennsylvania and Florida. Above, a store in District Heights, Md. (Salwan Georges/The Washington Post)
 Dozens of other investment firms bought Mariner bonds last year, allowing the company to raise an additional $550 million. That allowed the lender to make more loans to people like Huggins.
-“It’s basically a way of monetizing poor people,” said John Lafferty, who was a manager trainee at a Mariner Finance branch for four months in 2015 in Nashville. His misgivings about the business echoed those of other former employees contacted by The Washington Post. “Maybe at the beginning, people thought these loans could help people pay their electric bill. But it has become a cash cow.”
+<mark>“It’s basically a way of monetizing poor people,” said John Lafferty,<mark> <aside> You don't say? </aside> who was a manager trainee at a Mariner Finance branch for four months in 2015 in Nashville. His misgivings about the business echoed those of other former employees contacted by The Washington Post. “Maybe at the beginning, people thought these loans could help people pay their electric bill. But it has become a cash cow.”
+
 The market for “consumer installment loans,” which Mariner and its competitors serve, has grown rapidly in recent years, particularly as new federal regulations have curtailed payday lending, according to the Center for Financial Services Innovation, a nonprofit research group. Private equity firms, with billions to invest, have taken significant stakes in the growing field.
 
 Among its rivals, Mariner stands out for the frequent use of mass-mailed checks, which allows customers to accept a high-interest loan on an impulse — just sign the check. It has become a key marketing method.
 
-The company’s other tactics include borrowing money for as little as 4 or 5 percent — thanks to the bond market — and lending at rates as high as 36 percent, a rate that some states consider usurious; making millions of dollars by charging borrowers for insurance policies of questionable value; operating an insurance company in the Turks and Caicos, where regulations are notably lax, to profit further from the insurance policies; and aggressive collection practices that include calling delinquent customers once a day and embarrassing them by calling their friends and relatives, customers said.
+<mark>The company’s other tactics include borrowing money for as little as 4 or 5 percent — thanks to the bond market — and lending at rates as high as 36 percent, a rate that some states consider usurious;<mark> <aside> "Thanks to the bond market" just means that the government lets rich people borrow money at a low rate and then make a killing by lending it to the rest of us at high prices. </aside> making millions of dollars by charging borrowers for insurance policies of questionable value; operating an insurance company in the Turks and Caicos, where regulations are notably lax, to profit further from the insurance policies; and aggressive collection practices that include calling delinquent customers once a day and embarrassing them by calling their friends and relatives, customers said.
 
 Finally, Mariner enforces its collections with a busy legal operation, funded in part by the customers themselves: The fine print in the loan contracts obliges customers to pay as much as an extra 20 percent of the amount owed to cover Mariner’s attorney fees, and this has helped fund legal proceedings that are both voluminous and swift. Last year, in Baltimore alone, Mariner filed nearly 300 lawsuits. In some cases, Mariner has sued customers within five months of the check being cashed.
 
@@ -46,13 +49,13 @@ Mariner Finance officials declined to grant interview requests or provide financ
 
 Company representatives described Mariner as a business that yields reasonable profits while fulfilling an important social need. In states where usury laws cap interest rates, the company lowers its highest rate — 36 percent — to comply.
 
-“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. “We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers. . . . A responsible story on our industry would focus on this reality.”
+“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. <mark>“We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers.<mark> <aside> This is very old and tired defense of screwing struggling people out of every last penny: "we are just competing in the market like any responsible capitalist!" </aside> . . . A responsible story on our industry would focus on this reality.”
 
 Regarding the money that borrowers pay for Mariner’s attorneys, the company representatives noted that those payments go only toward the attorneys it hires, not to Mariner itself.
 
 The company declined to discuss the affiliated offshore company that handles insurance, citing competitive reasons. Mariner sells insurance policies that are supposed to cover a borrower’s loan payments in case of various mishaps — death, accident, unemployment and the like.
 
-“It is not our duty to explain to reporters . . . why companies make decisions to locate entities in different jurisdictions,” Morton wrote.
+<mark>“It is not our duty to explain to reporters . . . why companies make decisions to locate entities in different jurisdictions,” Morton wrote.</mark> <aside> Well let us help you explain! IT'S SO THEY CAN GET AROUND REGULATIONS THAT MIGHT STOP THEM FROM RUINING PEOPLE'S LIVEs. </aside>
 
 Through a Warburg Pincus spokesman, Geithner, the company president, declined to comment. So did other Warburg Pincus officials. Instead, through spokeswoman Mary Armstrong, the firm issued a statement:
 “Mariner Finance delivers a valuable service to hundreds of thousands of Americans who have limited access to consumer credit,” it says. “Mariner is licensed, regulated, and in good standing, in all states in which it operates and its operations are subject to frequent examination by state regulators. Mariner’s products are transparent with clear disclosure and Mariner proactively educates its customers in every step of the process.”
