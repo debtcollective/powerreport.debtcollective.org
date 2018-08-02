@@ -5,30 +5,30 @@ collections:
   artwork:
     title: Artwork
     output: true
-    permalink: "/artwork/:name"
+    permalink: "/artwork/:name/"
   letters:
     title: Letters
     output: true
-    permalink: "/letters/:title"
+    permalink: "/letters/:title/"
   news_analysis:
     title: News Analysis
     output: true
-    permalink: "/news-analysis/:title"
+    permalink: "/news-analysis/:title/"
   posts:
     title: Posts
     output: true
   profiles:
     title: Profiles
     output: true
-    permalink: "/profiles/:title"
+    permalink: "/profiles/:title/"
   special_reports:
     title: Special Reports
     output: true
-    permalink: "/reports/:title"
+    permalink: "/reports/:title/"
   uploads:
     title: Uploads
     output: true
-    permalink: "/:name"
+    permalink: "/uploads/:path"
 defaults:
 - scope:
     path: ''
