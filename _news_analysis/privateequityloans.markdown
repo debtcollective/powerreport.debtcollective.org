@@ -1,5 +1,5 @@
 ---
-title: 'Evil Rich People Prey on People Struggling to Get By: What Else is New?'
+title: 'The Evil Rich Prey on People Struggling to Get By: What Else is New?'
 date: 2018-07-30 11:06:00 Z
 ---
 
