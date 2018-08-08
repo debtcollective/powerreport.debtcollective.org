@@ -26,6 +26,7 @@ Most galling, Huggins couldn’t afford a lawyer but was obliged by the loan con
 “They really got me,” Huggins said.
 
 **A Growing Market**
+
 Mass-mailing checks to strangers might seem like risky business, but Mariner Finance occupies a fertile niche in the U.S. economy. <mark>The company enables some of the nation’s wealthiest investors and investment funds to make money offering high-interest loans to cash-strapped Americans.</mark>
 <aside>This is, in fact, a main point of the Finance industry: making it legal for rich people to screw us.</aside>
 
@@ -55,7 +56,7 @@ Regarding the money that borrowers pay for Mariner’s attorneys, the company re
 
 The company declined to discuss the affiliated offshore company that handles insurance, citing competitive reasons. Mariner sells insurance policies that are supposed to cover a borrower’s loan payments in case of various mishaps — death, accident, unemployment and the like.
 
-<mark>“It is not our duty to explain to reporters . . . why companies make decisions to locate entities in different jurisdictions,” Morton wrote.</mark> <aside> Well let us help you explain! IT'S SO THEY CAN GET AROUND REGULATIONS THAT MIGHT STOP THEM FROM RUINING PEOPLE'S LIVEs. </aside>
+<mark>“It is not our duty to explain to reporters . . . why companies make decisions to locate entities in different jurisdictions,” Morton wrote.</mark> <aside>Well let us help you explain! IT'S SO THEY CAN GET AROUND REGULATIONS THAT MIGHT STOP THEM FROM RUINING PEOPLE'S LIVEs.</aside>
 
 Through a Warburg Pincus spokesman, <mark>Geithner, the company president, declined to comment.</mark> <aside> Of course he did. </aside> So did other Warburg Pincus officials. Instead, through spokeswoman Mary Armstrong, the firm issued a statement:
 “Mariner Finance delivers a valuable service to hundreds of thousands of Americans who have limited access to consumer credit,” it says. “Mariner is licensed, regulated, and in good standing, in all states in which it operates and its operations are subject to frequent examination by state regulators. Mariner’s products are transparent with clear disclosure and Mariner proactively educates its customers in every step of the process.”
