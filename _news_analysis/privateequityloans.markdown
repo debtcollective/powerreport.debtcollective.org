@@ -73,7 +73,7 @@ Today, three of the largest companies in consumer installment lending are owned 
 
 These lending companies have undergone significant growth in recent years. To raise more money to lend, they have sold bonds on Wall Street.
 
-“Some of the largest private equity firms today are supercharging the payday and subprime lending industries,” said Jim Baker of the Private Equity Stakeholder Project, a nonprofit organization that has criticized the industry. In some cases, “you’ve got billionaires extracting wealth from working people.”
+“Some of the largest private equity firms today are supercharging the payday and subprime lending industries,” said Jim Baker of the Private Equity Stakeholder Project, a nonprofit organization that has criticized the industry. In some cases, <mark>“you’ve got billionaires extracting wealth from working people.”</mark> <aside>This is a great definition of capitalism.</aside> 
 
 Exactly how much Mariner Finance and Warburg Pincus are making is difficult to know.
 
@@ -83,7 +83,7 @@ The financial statements obtained by The Post for “Mariner Finance LLC” indi
 
 The “Mariner Finance LLC” documents show a net profit before income taxes of $34 million; retained earnings, which include those of past years, of $145 million; and assets totaling $561 million. Two independent accountants who reviewed the documents said the figures suggest a strong financial performance.
 
-<mark>“They are not hurting at least in terms of their profits,” </mark> <aside> You don't say? </aside>said Kurt Schulzke, a professor of accounting and business law at Kennesaw State University, who reviewed the documents. “They’ve probably been doing pretty well.”
+<mark>“They are not hurting at least in terms of their profits,” </mark> <aside>You don't say?</aside>said Kurt Schulzke, a professor of accounting and business law at Kennesaw State University, who reviewed the documents. “They’ve probably been doing pretty well.”
 
 **New management**
 As treasury secretary, Geithner excoriated predatory lenders and their role in the Wall Street meltdown of 2007. Bonds based on subprime mortgages, he noted at the time, had a role in precipitating the panic.
