@@ -12,7 +12,7 @@ A loan, it said. Smaller type said the interest rate would be 33 percent.
 
 Way too high, Huggins thought. He put it aside.
 
-A week later, though, his 2005 Chevy pickup was in the shop, and he didn’t have enough to pay for the repairs. <mark>He needed the truck to get to work, to get the kids to school.</mark> So Huggins, a 56-year-old heavy equipment operator in Nashville, fished the check out that day in April 2017 and cashed it. <aside> Huggins is an intelligent person. He knew the loan was predatory but he found himself with NO CHOICE if he wanted to feed his family.</aside>
+A week later, though, his 2005 Chevy pickup was in the shop, and he didn’t have enough to pay for the repairs. <mark>He needed the truck to get to work, to get the kids to school.</mark> So Huggins, a 56-year-old heavy equipment operator in Nashville, fished the check out that day in April 2017 and cashed it. <aside>  Huggins is an intelligent person. He knew the loan was predatory but he found himself with NO CHOICE if he wanted to feed his family. </aside>
 
 Within a year, the company, Mariner Finance, sued Huggins for $3,221.27. That included the original $1,200, plus an additional $800 a company representative later persuaded him to take, plus hundreds of dollars in processing fees, insurance and other items, plus interest. It didn’t matter that he’d made a few payments already.
 
