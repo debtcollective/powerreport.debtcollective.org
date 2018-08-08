@@ -49,7 +49,7 @@ Mariner Finance officials declined to grant interview requests or provide financ
 
 Company representatives described Mariner as a business that yields reasonable profits while fulfilling an important social need. In states where usury laws cap interest rates, the company lowers its highest rate — 36 percent — to comply.
 
-“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. <mark>“We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers.<mark> <aside> This is very old and tired defense of screwing struggling people out of every last penny: "we are just competing in the market like any responsible capitalist!" </aside> . . . A responsible story on our industry would focus on this reality.”
+“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. <mark>“We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers.<mark> <aside>This is very old and tired defense of screwing struggling people out of every last penny: "we are just competing in the market like any responsible capitalist!"</aside> . . . A responsible story on our industry would focus on this reality.”
 
 Regarding the money that borrowers pay for Mariner’s attorneys, the company representatives noted that those payments go only toward the attorneys it hires, not to Mariner itself.
 
