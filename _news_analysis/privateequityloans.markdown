@@ -86,6 +86,7 @@ The “Mariner Finance LLC” documents show a net profit before income taxes of
 <mark>“They are not hurting at least in terms of their profits,” </mark> <aside>You don't say?</aside>said Kurt Schulzke, a professor of accounting and business law at Kennesaw State University, who reviewed the documents. “They’ve probably been doing pretty well.”
 
 **New management**
+
 As treasury secretary, Geithner excoriated predatory lenders and their role in the Wall Street meltdown of 2007. Bonds based on subprime mortgages, he noted at the time, had a role in precipitating the panic.
 
 “The financial crisis exposed our system of consumer protection as a dysfunctional mess, leaving ordinary Americans way too vulnerable to fraud and other malfeasance,” Geithner wrote in his memoir, “Stress Test.” “Many borrowers, especially in subprime markets, bit off more than they could chew because they didn’t understand the absurdly complex and opaque terms of their financial arrangements, or were actively channeled into the riskiest deals.”
@@ -99,6 +100,7 @@ When it was purchased, the company operated 57 branches in seven states. It has 
 Twice last year, Mariner Finance raised more money by issuing bonds based on its loans to “subprime” borrowers — that is, people with imperfect credit.
 
 **Ex-workers Share Qualms**
+
 To get a better idea of business practices at this private company, The Post reviewed documents filed for state licensing, insurance company documents, scores of court cases, and analyses of Mariner bond issues by Kroll Bond Rating Agency and S&P Global Ratings; obtained the income statement and balance sheet covering most of last year from a state regulator; and interviewed customers and a dozen people who have worked for the company in its branch locations.
 
 Mariner Finance has about 500,000 active customers, who borrow money to cover medical bills, car and home repairs, and vacations. Their average income is about $50,000. As a group, Mariner’s target customers are risky: They generally rank in the “fair” range of credit scores. About 8 percent of Mariner loans were written off last year, according to a report by S&P Global Ratings, with losses on the mailed loans even higher. By comparison, commercial banks typically have suffered losses of between 1 and 3 percent on consumer loans.
