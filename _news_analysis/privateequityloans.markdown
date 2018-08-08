@@ -163,7 +163,7 @@ Mariner declined to discuss its offshore insurance company. According to a Turks
 
 But numerous business experts have advised U.S. insurers to set up shop in Turks and Caicos to avoid regulation.
 
-“Much of the appeal of an offshore reinsurer is the <mark>modest regulatory climate,”</mark> according to a guidebook published by an insurance consulting agency known as CreditRe. <aside> "Modest regulatory climate means they don't have to follow US laws. </aside> Many such reinsurers “were developed as a legal mechanism to generate potential total income in excess of the [state-mandated] commission caps.”
+“Much of the appeal of an offshore reinsurer is the <mark>modest regulatory climate,”</mark> according to a guidebook published by an insurance consulting agency known as CreditRe. <aside>"Modest regulatory climate means they don't have to follow US laws.</aside> Many such reinsurers “were developed as a legal mechanism to generate potential total income in excess of the [state-mandated] commission caps.”
 
 The trouble with the insurance policies like the ones that Mariner sells to borrowers is that they devote so little money to covering claims, said Birny Birnbaum, executive director of the consumer advocacy organization Center for Economic Justice, which has issued reports on the credit insurance industry. He formerly served as the Texas Department of Insurance’s chief economist.
 
