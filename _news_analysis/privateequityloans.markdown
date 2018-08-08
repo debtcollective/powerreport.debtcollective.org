@@ -62,11 +62,12 @@ Through a Warburg Pincus spokesman, <mark>Geithner, the company president, decli
 “Mariner Finance delivers a valuable service to hundreds of thousands of Americans who have limited access to consumer credit,” it says. “Mariner is licensed, regulated, and in good standing, in all states in which it operates and its operations are subject to frequent examination by state regulators. Mariner’s products are transparent with clear disclosure and Mariner proactively educates its customers in every step of the process.”
 
 **Equity Firms' Stakes**
+
 Over the past decade or so, <mark>private equity firms</mark>, which pool money from investment funds and wealthy individuals to buy up and manage companies for eventual resale, have taken stakes in companies that offer loans to people who lack access to banks and traditional credit cards.
 
 Some <mark>private equity firms</mark> have bought up payday lenders. Today, prominent brands in that field, such as Money Mart, Speedy Cash, ACE Cash Express and the Check Cashing Store, are owned by private equity funds.
 
-Other <mark>private equity firms</mark> have taken stakes in “consumer installment” lenders, such as Mariner, and these offer slightly larger loans — from about $1,000 to more than $25,000 — for longer periods of time. <aside> What is private equity? It is basically a legal way that rich people can get together and act collectively to screw the rest of us.</aside>
+Other <mark>private equity firms</mark> have taken stakes in “consumer installment” lenders, such as Mariner, and these offer slightly larger loans — from about $1,000 to more than $25,000 — for longer periods of time. <aside>What is private equity? It is basically a legal way that rich people can get together and act collectively to screw the rest of us.</aside>
 
 Today, three of the largest companies in consumer installment lending are owned to a significant extent by private equity funds — Mariner is owned by Warburg Pincus; Lendmark Financial Services is held by the Blackstone Group, which is led by billionaire Stephen Schwarzman; and a portion of OneMain Financial is slated to be purchased by Apollo Global, led by billionaire Leon Black, and Varde Partners.
 
