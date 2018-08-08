@@ -19,7 +19,7 @@ Within a year, the company, Mariner Finance, sued Huggins for $3,221.27. That in
 “It would have been cheaper for me to go out and borrow money from the mob,” Huggins said before his first court hearing in April.
 
 <mark>As treasury secretary in the Obama administration, Timothy F. Geithner condemned predatory lenders. Now he is president of Warburg Pincus, a New York firm that controls a private equity fund that owns Mariner Finance.</mark> 
-<aside> Isn't that just perfect? The same dude hired by Obama to help "save" the economy after the 2008 crisis found a way to get even richer by taking advantage of people in debt. </aside>
+<aside>Isn't that just perfect? The same dude hired by Obama to help "save" the economy after the 2008 crisis found a way to get even richer by taking advantage of people in debt.</aside>
 
 Most galling, Huggins couldn’t afford a lawyer but was obliged by the loan contract to pay for the company’s. That had added 20 percent — $536.88 — to the size of his bill.
 
