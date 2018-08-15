@@ -56,7 +56,8 @@ Regarding the money that borrowers pay for Mariner’s attorneys, the company re
 
 The company declined to discuss the affiliated offshore company that handles insurance, citing competitive reasons. Mariner sells insurance policies that are supposed to cover a borrower’s loan payments in case of various mishaps — death, accident, unemployment and the like.
 
-<mark>“It is not our duty to explain to reporters . . . why companies make decisions to locate entities in different jurisdictions,” Morton wrote.</mark> <aside>Well let us help you explain! IT'S SO THEY CAN GET AROUND COMMON SENSE REGULATIONS THAT MIGHT STOP THEM FROM RUINING PEOPLE'S LIVES.</aside>
+<mark>“It is not our duty to explain to reporters . . . why companies make decisions to locate entities in different jurisdictions,” Morton wrote.</mark>
+<aside>Well let us help you explain! IT'S SO THEY CAN GET AROUND COMMON SENSE REGULATIONS THAT MIGHT STOP THEM FROM RUINING PEOPLE'S LIVES.</aside>
 
 Through a Warburg Pincus spokesman, <mark>Geithner, the company president, declined to comment.</mark> <aside>Of course he did.</aside> So did other Warburg Pincus officials. Instead, through spokeswoman Mary Armstrong, the firm issued a statement:
 “Mariner Finance delivers a valuable service to hundreds of thousands of Americans who have limited access to consumer credit,” it says. “Mariner is licensed, regulated, and in good standing, in all states in which it operates and its operations are subject to frequent examination by state regulators. Mariner’s products are transparent with clear disclosure and Mariner proactively educates its customers in every step of the process.”
