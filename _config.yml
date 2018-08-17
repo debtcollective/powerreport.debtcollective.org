@@ -107,6 +107,6 @@ discourse:
     events: "/calendar"
 plugins:
 - jekyll-seo-tag
-markdown: kramdown
+markdown: DebtCollective
 exclude:
 - ".circleci"

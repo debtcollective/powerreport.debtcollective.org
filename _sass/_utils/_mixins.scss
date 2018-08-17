@@ -123,8 +123,13 @@
   }
 
   &.copy {
+    @include page-text;
     p {
       @include page-text;
+    }
+
+    p ~ aside {
+      padding-bottom: 0;
     }
   }
 }

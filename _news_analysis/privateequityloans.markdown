@@ -12,14 +12,14 @@ A loan, it said. Smaller type said the interest rate would be 33 percent.
 
 Way too high, Huggins thought. He put it aside.
 
-A week later, though, his 2005 Chevy pickup was in the shop, and he didn’t have enough to pay for the repairs. <mark>He needed the truck to get to work, to get the kids to school.</mark> So Huggins, a 56-year-old heavy equipment operator in Nashville, fished the check out that day in April 2017 and cashed it. <aside>Huggins is an intelligent person. He knew the loan was predatory but he found himself with NO CHOICE if he wanted to feed his family.</aside>
+A week later, though, his 2005 Chevy pickup was in the shop, and he didn’t have enough to pay for the repairs. <mark>He needed the truck to get to work, to get the kids to school.</mark> So Huggins, a 56-year-old heavy equipment operator in Nashville, fished the check out that day in April 2017 and cashed it. <(Huggins is an intelligent person. He knew the loan was predatory but he found himself with NO CHOICE if he wanted to feed his family.)>
 
 Within a year, the company, Mariner Finance, sued Huggins for $3,221.27. That included the original $1,200, plus an additional $800 a company representative later persuaded him to take, plus hundreds of dollars in processing fees, insurance and other items, plus interest. It didn’t matter that he’d made a few payments already.
 
 “It would have been cheaper for me to go out and borrow money from the mob,” Huggins said before his first court hearing in April.
 
 <mark>As treasury secretary in the Obama administration, Timothy F. Geithner condemned predatory lenders. Now he is president of Warburg Pincus, a New York firm that controls a private equity fund that owns Mariner Finance.</mark> 
-<aside>Isn't that just perfect? The same dude hired by Obama to help "save" the economy after the 2008 crisis found a way to get even richer by taking advantage of people in debt.</aside>
+$$Isn't that just perfect? The same dude hired by Obama to help "save" the economy after the 2008 crisis found a way to get even richer by taking advantage of people in debt.$$
 
 Most galling, Huggins couldn’t afford a lawyer but was obliged by the loan contract to pay for the company’s. That had added 20 percent — $536.88 — to the size of his bill.
 
@@ -40,7 +40,7 @@ The market for “consumer installment loans,” which Mariner and its competito
 
 Among its rivals, Mariner stands out for the frequent use of mass-mailed checks, which allows customers to accept a high-interest loan on an impulse — just sign the check. It has become a key marketing method.
 
-<mark>The company’s other tactics include borrowing money for as little as 4 or 5 percent — thanks to the bond market — and lending at rates as high as 36 percent, a rate that some states consider usurious;<mark> <aside>"Thanks to the bond market" just means that the government lets rich people borrow money at a low rate and then make a killing by lending it to the rest of us at high prices.</aside> making millions of dollars by charging borrowers for insurance policies of questionable value; operating an insurance company in the Turks and Caicos, where regulations are notably lax, to profit further from the insurance policies; and aggressive collection practices that include calling delinquent customers once a day and embarrassing them by calling their friends and relatives, customers said.
+<mark>The company’s other tactics include borrowing money for as little as 4 or 5 percent — thanks to the bond market — and lending at rates as high as 36 percent, a rate that some states consider usurious;<mark> <("Thanks to the bond market" just means that the government lets rich people borrow money at a low rate and then make a killing by lending it to the rest of us at high prices.)> making millions of dollars by charging borrowers for insurance policies of questionable value; operating an insurance company in the Turks and Caicos, where regulations are notably lax, to profit further from the insurance policies; and aggressive collection practices that include calling delinquent customers once a day and embarrassing them by calling their friends and relatives, customers said.
 
 Finally, Mariner enforces its collections with a busy legal operation, funded in part by the customers themselves: The fine print in the loan contracts obliges customers to pay as much as an extra 20 percent of the amount owed to cover Mariner’s attorney fees, and this has helped fund legal proceedings that are both voluminous and swift. Last year, in Baltimore alone, Mariner filed nearly 300 lawsuits. In some cases, Mariner has sued customers within five months of the check being cashed.
 
@@ -50,7 +50,7 @@ Mariner Finance officials declined to grant interview requests or provide financ
 
 Company representatives described Mariner as a business that yields reasonable profits while fulfilling an important social need. In states where usury laws cap interest rates, the company lowers its highest rate — 36 percent — to comply.
 
-“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. <mark>“We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers.<mark> <aside>This is very old and tired defense of screwing struggling people out of every last penny: "we are just competing in the market like any responsible capitalist!"</aside> . . . A responsible story on our industry would focus on this reality.”
+“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. <mark>“We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers.<mark> <(This is very old and tired defense of screwing struggling people out of every last penny: "we are just competing in the market like any responsible capitalist!")> . . . A responsible story on our industry would focus on this reality.”
 
 Regarding the money that borrowers pay for Mariner’s attorneys, the company representatives noted that those payments go only toward the attorneys it hires, not to Mariner itself.
 
@@ -172,7 +172,7 @@ Mariner declined to discuss its offshore insurance company. According to a Turks
 
 But numerous business experts have advised U.S. insurers to set up shop in Turks and Caicos to avoid regulation.
 
-“Much of the appeal of an offshore reinsurer is the <mark>modest regulatory climate,”</mark> according to a guidebook published by an insurance consulting agency known as CreditRe. <aside>"Modest regulatory climate means they don't have to follow US laws.</aside> Many such reinsurers “were developed as a legal mechanism to generate potential total income in excess of the [state-mandated] commission caps.”
+“Much of the appeal of an offshore reinsurer is the <mark>modest regulatory climate,”</mark> according to a guidebook published by an insurance consulting agency known as CreditRe.<aside>"Modest regulatory climate" means they don't have to follow US laws.</aside> Many such reinsurers “were developed as a legal mechanism to generate potential total income in excess of the [state-mandated] commission caps.”
 
 The trouble with the insurance policies like the ones that Mariner sells to borrowers is that they devote so little money to covering claims, said Birny Birnbaum, executive director of the consumer advocacy organization Center for Economic Justice, which has issued reports on the credit insurance industry. He formerly served as the Texas Department of Insurance’s chief economist.
 
