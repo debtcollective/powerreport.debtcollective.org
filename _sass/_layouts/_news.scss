@@ -44,14 +44,18 @@
         transform: translateY(-4rem);
         position: absolute;
         max-width: 20rem;
+        line-height: 1rem;
       }
+
       @include at-least-medium() {
         @include aside-width-pos-l-m();
         left: 50rem;
       }
+
       @include only-medium() {
         @include aside-width-pos-l-m();
-        left: 41rem;
+        left: 40rem;
+        padding-right: 0.25rem;
       }
 
       @include only-less-medium() {
@@ -66,11 +70,15 @@
         position: absolute;
         transform: translateY(-1.5rem);
         padding-left: 1.5rem;
-        content: "DEBT COLLECTIVE";
+        @include only-medium {
+          font-size: 0.75rem;
+        }
+        content: 'DEBT COLLECTIVE';
         color: $dc-red;
         background-image: url($star-url);
         background-repeat: no-repeat;
         white-space: nowrap;
+        line-height: 1.5rem;
       }
     }
   }
