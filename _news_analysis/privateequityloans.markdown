@@ -19,7 +19,7 @@ Within a year, the company, Mariner Finance, sued Huggins for $3,221.27. That in
 “It would have been cheaper for me to go out and borrow money from the mob,” Huggins said before his first court hearing in April.
 
 <mark>As treasury secretary in the Obama administration, Timothy F. Geithner condemned predatory lenders. Now he is president of Warburg Pincus, a New York firm that controls a private equity fund that owns Mariner Finance.</mark> 
-$$Isn't that just perfect? The same dude hired by Obama to help "save" the economy after the 2008 crisis found a way to get even richer by taking advantage of people in debt.$$
+<aside>Isn't that just perfect? The same dude hired by Obama to help "save" the economy after the 2008 crisis found a way to get even richer by taking advantage of people in debt.</aside>
 
 Most galling, Huggins couldn’t afford a lawyer but was obliged by the loan contract to pay for the company’s. That had added 20 percent — $536.88 — to the size of his bill.
 
@@ -50,7 +50,7 @@ Mariner Finance officials declined to grant interview requests or provide financ
 
 Company representatives described Mariner as a business that yields reasonable profits while fulfilling an important social need. In states where usury laws cap interest rates, the company lowers its highest rate — 36 percent — to comply.
 
-“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. <mark>“We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers.<mark> <(This is very old and tired defense of screwing struggling people out of every last penny: "we are just competing in the market like any responsible capitalist!")> . . . A responsible story on our industry would focus on this reality.”
+“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. <mark>“We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers.<mark> <aside>(This is very old and tired defense of screwing struggling people out of every last penny: "we are just competing in the market like any responsible capitalist!")</aside>
 
 Regarding the money that borrowers pay for Mariner’s attorneys, the company representatives noted that those payments go only toward the attorneys it hires, not to Mariner itself.
 
@@ -59,8 +59,7 @@ The company declined to discuss the affiliated offshore company that handles ins
 <mark>“It is not our duty to explain to reporters . . . why companies make decisions to locate entities in different jurisdictions,” Morton wrote.</mark>
 <aside>Well let us help you explain! IT'S SO THEY CAN GET AROUND COMMON SENSE REGULATIONS THAT MIGHT STOP THEM FROM RUINING PEOPLE'S LIVES.</aside>
 
-Through a Warburg Pincus spokesman, <mark>Geithner, the company president, declined to comment.</mark><aside>Of course he did.</aside> So did other Warburg Pincus officials. Instead, through spokeswoman Mary Armstrong, the firm issued a statement:
-“Mariner Finance delivers a valuable service to hundreds of thousands of Americans who have limited access to consumer credit,” it says. “Mariner is licensed, regulated, and in good standing, in all states in which it operates and its operations are subject to frequent examination by state regulators. Mariner’s products are transparent with clear disclosure and Mariner proactively educates its customers in every step of the process.”
+Through a Warburg Pincus spokesman, Geithner, the company president, declined to comment. So did other Warburg Pincus officials. Instead, through spokeswoman Mary Armstrong, the firm issued a statement: “Mariner Finance delivers a valuable service to hundreds of thousands of Americans who have limited access to consumer credit,”<mark>In other words, we fleece poor people</mark>. “Mariner is licensed, regulated, and in good standing, in all states in which it operates and its operations are subject to frequent examination by state regulators. Mariner’s products are transparent with clear disclosure and Mariner proactively educates its customers in every step of the process.” 
 
 **Equity Firms' Stakes**
 
@@ -122,7 +121,7 @@ Ten of the 12 former employees whom The Post contacted, however, expressed qualm
 “Were there a few loans that actually helped people? Yes. Were 80 percent of them predatory? Probably,” said one former branch manager who was at the company in 2016. He spoke on the condition of anonymity, saying he did not want to antagonize his former employer. “I’m still embarrassed by some of the things I did there.”
 “The company is here to make money — I understand that,” said Mauricio Posso, 28, who worked at a Northern Virginia location in 2016 and said he viewed it as valuable work experience. “At the same time, it’s taking advantage of customers. Most customers do not read what they get in the mail. It’s just little tiny type. They just see the $1,200 for you. . . . It can be a win-win. In some situations, it was just a win for us.”
 
-While Mariner and industry advocates note that consumers can simply decline a loan if the terms are onerous, at least some of them may lack the time, English skills or other knowledge to shop around. Some are acutely in need of cash.
+While Mariner and industry advocates note that <mark>consumers can simply decline a loan</mark> if the terms are onerous,<aside> Oh sure some people can just decline to feed their kids or pay the rent. Got it.</aside> at least some of them may lack the time, English skills or other knowledge to shop around. Some are acutely in need of cash.
 
 “I wanted to go to my mother’s funeral — I needed to go to Laos,” Keo Thepmany, a 67-year-old from Laos who is a housekeeper in Northern Virginia, said through an interpreter. To cover costs, she took out a loan from Mariner Finance and then refinanced and took out an additional $1,000. The new loan was at a rate of 33 percent and cost her $390 for insurance and processing fees.
 
