@@ -76,7 +76,7 @@ Today, three of the largest companies in consumer installment lending are owned 
 These lending companies have undergone significant growth in recent years. To raise more money to lend, they have sold bonds on Wall Street.
 
 “Some of the largest private equity firms today are supercharging the payday and subprime lending industries,” said Jim Baker of the Private Equity Stakeholder Project, a nonprofit organization that has criticized the industry. In some cases, <mark>“you’ve got billionaires extracting wealth from working people.”</mark>
-<aside>This is a great definition of capitalism.</aside> 
+<aside>This is a great definition of the debt economy.</aside> 
 
 Exactly how much Mariner Finance and Warburg Pincus are making is difficult to know.
 
