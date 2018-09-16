@@ -5,11 +5,9 @@ tags:
 - Washpo
 sub-title: 'Originally in the Washington Post under the title: "A Way of Monetizing
   Poor People'': How Private Equity Firms Make Money Offering Loans to Cash-Strapped
-  Americans."'
+  Americans." July 2018.'
 ---
 
-Original Title: 'A Way of Monetizing Poor People': How Private Equity Firms Make Money Offering Loans to Cash-Strapped Americans 
-**July 2018 **from The Washington Post
 
 The check arrived out of the blue, issued in his name for $1,200, a mailing from a consumer finance company. Stephen Huggins eyed it carefully.
 
