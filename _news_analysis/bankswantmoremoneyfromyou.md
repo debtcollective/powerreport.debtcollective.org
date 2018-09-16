@@ -3,8 +3,8 @@ title: Banks Want to Take Even More of Your Money
 date: 2018-03-15 00:00:00 Z
 tags:
 - WSJ
-sub-title: Originally in the Wall Street Journal under the title "Banks Look to Break
-  Government's Hold on Student-Loan Market"
+sub-title: 'Originally in the Wall Street Journal under the title: "Banks Look to
+  Break Government''s Hold on Student-Loan Market." May 2018.'
 author: The Wall Street Journal
 ---
 
