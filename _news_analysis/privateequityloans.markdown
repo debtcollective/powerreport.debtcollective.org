@@ -1,6 +1,8 @@
 ---
 title: 'The Evil Rich Prey on People Struggling to Get By: What Else is New?'
 date: 2018-07-30 11:06:00 Z
+tags:
+- Washpo
 ---
 
 Original Title: 'A Way of Monetizing Poor People': How Private Equity Firms Make Money Offering Loans to Cash-Strapped Americans 
