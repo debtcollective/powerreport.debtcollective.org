@@ -4,7 +4,7 @@ date: 2018-04-17 16:44:00 Z
 author: Dan Hong
 sub-title: 'I''m more willing to challenge the system instead of just going along
   with what I''m told to do. '
-interviewee-picture: "/nathan-hornes.jpeg"
+interviewee-picture: "/uploads/nathan-hornes.jpeg"
 layout: profile
 ---
 
