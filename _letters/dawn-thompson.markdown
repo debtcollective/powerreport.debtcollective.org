@@ -1,6 +1,8 @@
 ---
 title: Dawn Thompson
 date: 2018-04-20 17:04:00 Z
+tags:
+- member profile
 author: Dan Hong
 sub-title: '"I think that people have to stick together and continue to fight together,
   lest we be shuffled under the rug and forgotten about. "'
