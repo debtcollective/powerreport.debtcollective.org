@@ -8,7 +8,7 @@ interviewee-picture: "/uploads/makenzie-vasquez.jpeg"
 layout: profile
 ---
 
-Makenzie attended Corinthian College and was a member of the group of original debt strikers, the "Corinthian 15," that demanded debt relief - and won. An interview with her is below:
+Makenzie attended Corinthian College in California. She was a member of the group of original debt strikers, the "Corinthian 15," that demanded debt relief - and won. An interview with her is below:
 
 Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.
 : Ok yeah, I’ve learned quite a bit actually, to be honest. I’ve learned a lot about just how powerful groups of people when they come together, just how powerful they can be. It’s been really nice to experience that, especially coming from a place of feeling really hopeless. And now, I feel like with all of the work that we’ve done and all of the little workshops I’ve been able to go to, I’ve really learned about my debt and ways to go about disputing it. And the way to go about disputing the whole Corinthian thing [debt from Corinthian college] has really left me feeling super empowered, which is a really big deal. I was in a really gnarly state of hopelessness for a while. But yeah, I’ve learned that.  
