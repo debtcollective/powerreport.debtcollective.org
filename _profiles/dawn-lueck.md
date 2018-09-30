@@ -1,13 +1,12 @@
 ---
 title: Dawn Lueck
 date: 2018-04-27 00:00:00 Z
-author: Interviewer Name
-sub-title: This could be a quote or something from the person that goes here, more
-  content
+author: L.H.
+sub-title: '"Who has the power? Who has the money? And who is being oppressed?" '
 youtube-id: L92ucxA492M
-video-description: This would be a short intro blurb description thing for the above
-  video (perhaps). There definitely needs to be at least a bit.
+video-description: 'Dawn Lueck explains why she is an organizer and what fighting
+  back together with other people means to her. '
 layout: profile
 ---
 
-Maybe some extra information here
+Dawn Lueck, New Orleans
