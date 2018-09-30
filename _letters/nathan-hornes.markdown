@@ -8,6 +8,8 @@ interviewee-picture: "/uploads/nathan-hornes.jpeg"
 layout: profile
 ---
 
+Nathan Hornes is from Missouri. He was part of the original group of 15 debt strikers from Corinthian College. A leader of the group, Nathan reflects back on his organizing experience below: 
+
 Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.
 : Looking back I've learned so much as far as being an organizer with Debt Collective and Everest Colleges Avengers. It has truly been some of the most rewarding moments of my life. I have learned how strong willed I am as well as how encouraging others find me to be even when I feel like I may not be the most encouraged myself. I entered the movement as a graduate of a college that was not only ripping 10s of thousands of people off but a person that was and still is determined to get justice and reilef for all. I feel like I have grown so much in the way that I view politics and our government. I'm more willing to challenge the system instead of just going along with what I'm told to do. I feel like today in this moment I'm less susceptible to scare tactics and more headstrong and ready to fight back and demand the right thing be done by our citizens. This is our AMERICA and we want what is constitutionally promised to us!
 
