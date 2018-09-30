@@ -6,6 +6,8 @@ sub-title: My strength comes from staying positive and knowing I can.
 interviewee-picture: "/uploads/deanda-williams.jpeg"
 ---
 
+From Texas, DeAnda Williams was a member of the original group of 15 debt strikers that took on the Department of Education - and won!  Her interview is below: 
+
 Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.
 : What I have learned being an organizer is when it comes to going up against fraud especially when the government is involved such as student loans you have more power in numbers than trying to fight it by yourself. You have to stay consistent. I have learned that our political system is full of fraud which made it an even harder task because so many politicians had their hands in the cookie jar. The fight seemed long and never ending. It was very stressful.
 
