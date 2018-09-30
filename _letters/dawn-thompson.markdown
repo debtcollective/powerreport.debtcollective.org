@@ -2,7 +2,8 @@
 title: Dawn Thompson
 date: 2018-04-20 17:04:00 Z
 author: Dan Hong
-sub-title: an excerpt
+sub-title: '"I think that people have to stick together and continue to fight together,
+  lest we be shuffled under the rug and forgotten about. "'
 interviewee-picture: "/uploads/dawn-thomson.jpeg"
 ---
 
@@ -23,4 +24,4 @@ Tell me what makes you feel strong? What inspires you?
 : Just knowing that I’ve helped somebody. Like in my job right now, when I help people out and there’s something that I don’t know and I figured it out on my own… Just mainly helping out other people, that’s what makes me feel strong.
 
 What are qualities of others that move you or motivate you to continue to work like this? What will it take for you to keep going when it gets tougher and over the years as we expand?
-: Just to have other things to fight for other than student loan debt! I think that there’s a lot of other debt that we just talked about before: there’s medical debt, there’s credit card debt… Like the credit card companies having these high interest rates, where people will never get out of it! Also, having other people who share the same interests as you, that makes me want to keep going. Having gatherings, because I haven’t seen Laura or Ann or anyone else from the Debt Collective in a long time, and I sometimes think that we need to get back together and meet up, talk and figure out what else we can do. Because I sometimes think that if we don’t have the calls like we used to have and we don’t have the meetings that we used to have, people just go on their own, get their own debt discharged, and then forget about everything!
+: Just to have other things to fight for other than student loan debt! I think that there’s a lot of other debt that we just talked about before: there’s medical debt, there’s credit card debt… Like the credit card companies having these high interest rates, where people will never get out of it! Also, having other people who share the same interests as you, that makes me want to keep going. Having gatherings, because I haven’t seen Laura or Ann or anyone else from the Debt Collective in a long time, and I sometimes think that we need to get back together and meet up, talk and figure out what else we can do. 
