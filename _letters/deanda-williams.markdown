@@ -2,7 +2,7 @@
 title: DeAnda Williams
 date: 2018-04-29 17:06:00 Z
 author: Dan Hong
-sub-title: an excerpt
+sub-title: My strength comes from staying positive and knowing I can.
 interviewee-picture: "/uploads/deanda-williams.jpeg"
 ---
 
