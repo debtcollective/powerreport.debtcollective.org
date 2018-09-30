@@ -9,6 +9,9 @@ sub-title: '"I think that people have to stick together and continue to fight to
 interviewee-picture: "/uploads/dawn-thomson.jpeg"
 ---
 
+Dawn joined with other people to declare a debt strike in 2015. She traveled to Washington to rally support for the cause and to convince politicians, including representatives from her home state of Illinois, to meet the group's demands.  Her interview is below:
+
+
 Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.
 : One thing I’ve learned is that it takes a lot of people getting together, protesting and fighting for what we believe in and what’s right, and I think that people have to stick together and continue to fight together, lest we be shuffled under the rug and forgotten about. To get what you want accomplished, you need to stick with it and let these politicians and higher-ups know that you’re not gone, you’re still there and you’re never going to go away.  
 Sometimes I feel like these politicians and higher-ups don’t really care. It took us three years! I was part of the original Corinthian 15 group that went to Washington DC. with the original Defense to Repayment disputes. We met with the Department of Education, and I sometimes think that they just don’t care. We’re just little people out in this big-man world and like, who cares? Sometimes I feel that way, and it took us three years and I still don’t have my discharge! I got a “notification” that it was discharged but it still hasn’t been taken off from my credit report, and I still haven’t gotten an official letter yet.
