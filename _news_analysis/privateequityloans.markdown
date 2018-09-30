@@ -4,7 +4,7 @@ date: 2018-07-30 11:06:00 Z
 tags:
 - Washpo
 sub-title: '"A Way of Monetizing Poor People'': How Private Equity Firms Make Money
-  Offering Loans to Cash-Strapped Americans." Washington Post. July 2018.'
+  Offering Loans to Cash-Strapped Americans." Washington Post. '
 ---
 
 
