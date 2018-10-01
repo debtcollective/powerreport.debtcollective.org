@@ -22,7 +22,7 @@ Her goal? To throw as much money as possible at the college and car loans. “I 
 
 Beranek, 39, makes about $70,000 a year from her various work. 
  
-She’s made retirement a priority, saving $200 a month from her civil engineering job in a Roth IRA and 25 percent of the earnings from her second job, as a data analyst, in a 401(k). She also has <aside>$5,500<aside> in an emergency fund. <aside>All of us are just one slip on a banana peel away from financial ruin. We have to hope we don't get sick or injured. Even a minor medical emergency will wipe out $5,500 in a heartbeat. It doesn't have to be this way. Instead of a privatized health care system that forces people into debt, we could have medicare for all.</aside>
+She’s made retirement a priority, saving $200 a month from her civil engineering job in a Roth IRA and 25 percent of the earnings from her second job, as a data analyst, in a 401(k). She also has <mark>$5,500</mark> in an emergency fund. <aside>All of us are just one slip on a banana peel away from financial ruin. We have to hope we don't get sick or injured. Even a minor medical emergency will wipe out $5,500 in a heartbeat. It doesn't have to be this way. Instead of a privatized health care system that forces people into debt, we could have medicare for all.</aside>
  
 Beranek, who lives in Champaign, Illinois, with her longtime partner, Jason, and their 17-year-old beagle, Tater, chronicled her spending during a recent typical week.
 
