@@ -19,9 +19,9 @@ This is life for Beranek, <mark>who is paying down around $93,000 in student loa
 
 On top of <mark>working two jobs and various side hustles,</mark> she makes <mark>daily decisions</mark> that help her save for retirement and pay extra on her debts. <aside>First of all, one job should be enough. Secondly, The idea that all of this is a result of her personal decisions is simply bullshit. There are large structural forces that pen in her decisions and take her options away from her. But this is exactly what this article will NOT tell you.</aside>
  
-Her goal? To throw as much money as possible at the college and car loans. “I want them gone,” she says. Yes they should be gone, but the idea that people should have to cut to the bone in order to do that is ridiculous. This whole article is absurd. If Shannon didn't have the misfortune of living in the US, she wouldn't have any debt. Another way is possible.
- 
-Beranek, 39, <mark>makes about $70,000 a year</mark> from her various work. <aside>Even people with good jobs and good pay are living like they are poor because of crushing debt for basic needs like education and transportation.</aside>
+Her goal? To throw as much money as possible at the college and car loans. “I want them gone,” she says. 
+
+Beranek, 39, makes about $70,000 a year from her various work. 
  
 She’s made retirement a priority, saving $200 a month from her civil engineering job in a Roth IRA and 25 percent of the earnings from her second job, as a data analyst, in a 401(k). <mark>She also has $5,500<mark> in an emergency fund. <aside> All of us are just one slip on a banana peel away from financial ruin. We have to hope we don't get sick or injured. Even a minor medical emergency will wipe out $5,500 in a heartbeat. It doesn't have to be this way. Instead of a privatized health care system that forces people into debt, we could have medicare for all.</aside>
  
