@@ -3,6 +3,10 @@ title: 'Debt Diary: How an engineer digs out of $100,000 in loans'
 date: 2018-10-01 13:01:00 Z
 sub-title: NerdWallet & the Associated Press
 author: Teddy Nykiel  (with annotations by the Debt Collective)
+summary: Articles like these want us to believe that it is normal for people to struggle
+  like this just to survive. We have to stop pretending this is normal. This is not
+  natural! The system we have is the result of political forces, and we could have
+  a VERY different system if debtors become a political force in their own right.
 ---
 
 Shannon Beranek craved an iced coffee after toiling all morning in 94-degree heat.
