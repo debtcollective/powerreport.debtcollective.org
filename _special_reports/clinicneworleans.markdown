@@ -7,6 +7,8 @@ tags:
 sub-title: But what about when debt is incurred unavoidably, just to stay alive?
 author: Alan F.
 image: "/uploads/unnamed.jpg"
+image-description: 'Debt Collective organizers partnered with activists in New Orleans
+  to host a health fair and clinic to share our debt dispute tools. '
 ---
 
 If debt were just a matter of numbers, of X owes Y Z, it would be simpler to think about. But it isn't. It's a concept laden and confused with the deepest emotional and religious values of the West.
