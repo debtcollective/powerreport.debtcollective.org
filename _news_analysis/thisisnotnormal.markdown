@@ -50,7 +50,7 @@ TIP: To pay off student loans faster, <mark>instruct your student loan servicer 
 DAY 3 (LABOR DAY)
 TOTAL SPENDING: $0
  
-I’m using this holiday to get a full eight hours in of my second job. I’m dreaming about getting a callback for the City of Urbana transportation engineer job that I applied to. Prospects seem really good. That would be an extra $15,000 a year, plus super amazing benefits.
+<mark>I’m using this holiday to get a full eight hours in of my second job.</mark> I’m dreaming about getting a callback for the <aside>Land of the Free</aside> City of Urbana transportation engineer job that I applied to. Prospects seem really good. That would be an extra $15,000 a year, plus super amazing benefits.
  
 I just got a Rover.com dog-sitting booking that will bring in about $100. We use the money we make from Rover to pay for our dog’s health issues. He’s 17, so he’s got old man problems.
  
