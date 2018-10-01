@@ -9,7 +9,7 @@ summary: Articles like these want us to believe that it is normal for people to 
   a VERY different system if debtors become a political force in their own right.
 ---
 
-Shannon Beranek craved an iced coffee after toiling all morning in 94-degree heat.
+Shannon Beranek <mark>craved an iced coffee</mark> after toiling all morning in 94-degree heat.<aside>God forbid someone should want an iced coffee!</aside>
  
 But the civil engineer owes almost six figures in college loans, so she parked outside a Dunkin’ Donuts and watched the clock until the 99-cent drink special kicked in.
  
