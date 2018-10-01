@@ -45,7 +45,7 @@ We also went to the grocery store. If it’s not on sale, we don’t typically b
  
 <mark>I checked my ChangEd app</mark> and I’ve saved $300 toward my student loans. <aside>Silicon Valley isn't going to solve this problem, but they will try to monetize it.</aside> Each debit card transaction I make gets rounded to the next dollar. (The rounded amounts get added to her ChangEd account.) Once it hits $100, they send a check to my student loan provider.
  
-TIP: To pay off student loans faster , instruct your student loan servicer to apply extra payments to the loan balance instead of the next month’s payment.
+TIP: To pay off student loans faster, <mark>instruct your student loan servicer to apply extra payments</mark> to the loan balance instead of the next month’s payment. <aside>Here's a tip: your student loan servicer will often not follow your allocation instructions.</aside>
  
 DAY 3 (LABOR DAY)
 TOTAL SPENDING: $0
