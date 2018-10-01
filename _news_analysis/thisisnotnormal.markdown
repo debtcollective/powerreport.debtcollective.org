@@ -52,7 +52,7 @@ TOTAL SPENDING: $0
  
 <mark>I’m using this holiday to get a full eight hours in of my second job.</mark> I’m dreaming about getting a callback for the <aside>Land of the Free</aside> City of Urbana transportation engineer job that I applied to. Prospects seem really good. That would be an extra $15,000 a year, plus super amazing benefits.
  
-I just got a Rover.com dog-sitting booking that will bring in about $100. We use the money we make from Rover to pay for our dog’s health issues. He’s 17, so he’s got old man problems.
+I just got a Rover.com dog-sitting booking that will bring in about $100. We use the money we make from Rover to <mark>pay for our dog’s health issues.</mark> He’s 17, so he’s got old man problems. <aside>Most of us spend our money to care for those most important to us. We shouldn't be made to feel ashamed about this.</aside>
  
 DAY 4
 TOTAL SPENDING: $995.20 for the Netflix bill, mortgage payment, property taxes and home insurance.
