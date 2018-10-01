@@ -6,7 +6,7 @@ tags:
 - medical debt
 sub-title: 'No one should have to go into debt for good health. '
 author: Thomas G.
-image: "/uploads/M4A-logo-white-on-red-social-1c179d9babd816dd0b938ec150d1665a.png"
+image: "/uploads/m4a-7a38ef.jpg"
 ---
 
 As members of the Debt Collective, It is important for us to clearly articulate what we are for and not just what we are against. People should know that the Debt Collective [our tools](https://debtcollective.org/dispute-tools) can help them dispute their medical debts. The ultimate solution to medical debt, however, is to fundamentally change our healthcare system. The good news is that a movement has formed to do just that by pressuring Congress to make Medicare available to everyone. 
