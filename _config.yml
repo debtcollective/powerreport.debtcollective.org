@@ -39,6 +39,7 @@ defaults:
     author: 
     youtube-id: 
     image: 
+    image-description: 
     summary: 
 - scope:
     path: ''
@@ -49,6 +50,7 @@ defaults:
     author: 
     youtube-id: 
     image: 
+    image-description: 
     summary: 
 - scope:
     path: ''
@@ -59,6 +61,7 @@ defaults:
     sub-title: 
     youtube-id: 
     image: 
+    image-description: 
     summary: 
 - scope:
     path: ''
