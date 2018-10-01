@@ -6,16 +6,15 @@ tags:
 sub-title: NerdWallet & the Associated Press
 author: Teddy Nykiel  (with annotations by the Debt Collective)
 summary: Articles like these want us to believe that it is normal for people to struggle
-  just to survive. We have to stop pretending this is normal. This is not normal!
-  We could have a VERY different system if debtors become a political force in their
-  own right.
+  just to survive. This is not normal! We could have a VERY different system if debtors
+  become a political force in their own right.
 ---
 
 Shannon Beranek <mark>craved an iced coffee<mark> after toiling all morning in 94-degree heat.<aside>God forbid someone should want an iced coffee!</aside>
  
 But the <mark>civil engineer</mark> owes almost six figures in <aside>Even if you do everything right, work hard, go to a good school, study a STEM field, you are still not allowed to be liberated. And if you make just one mistake, or decide to study the liberal arts, it gets even harder.</aside> college loans, so she parked outside a Dunkin’ Donuts and watched the clock until the 99-cent drink special kicked in.
  
-This is life for Beranek, <mark>who is paying down around $93,000 in student loans</mark> from her bachelor’s and master’s degrees, <aside> There is a significant gender gap in student loans. Of the roughly $1.4 trillion in student debt, 2/3 of that belongs to women. But they also get paid less than men. If Shannon were a man, not only would she likely have less debt, but also a larger paycheck.  </aside> plus about $5,000 on her red 2015 Hyundai Elantra. 
+This is life for Beranek, <mark>who is paying down around $93,000 in student loans</mark> from her bachelor’s and master’s degrees, <aside>There is a significant gender gap in student loans. Of the roughly $1.4 trillion in student debt, 2/3 of that belongs to women. But they also get paid less. If Shannon were a man, she would have less debt and a larger paycheck.</aside> plus about $5,000 on her red 2015 Hyundai Elantra. 
 
 On top of <mark>working two jobs and various side hustles,</mark> she makes <mark>daily decisions</mark> that help her save for retirement and pay extra on her debts. <aside>First of all, one job should be enough. Secondly, The idea that all of this is a result of her personal decisions is simply bullshit. There are large structural forces that pen in her decisions and take her options away from her. But this is exactly what this article will NOT tell you.</aside>
  
@@ -23,7 +22,7 @@ Her goal? To throw as much money as possible at the college and car loans. “I 
 
 Beranek, 39, makes about $70,000 a year from her various work. 
  
-She’s made retirement a priority, saving $200 a month from her civil engineering job in a Roth IRA and 25 percent of the earnings from her second job, as a data analyst, in a 401(k). She also has $5,500 in an emergency fund. 
+She’s made retirement a priority, saving $200 a month from her civil engineering job in a Roth IRA and 25 percent of the earnings from her second job, as a data analyst, in a 401(k). She also has <aside>$5,500<aside> in an emergency fund. <aside>All of us are just one slip on a banana peel away from financial ruin. We have to hope we don't get sick or injured. Even a minor medical emergency will wipe out $5,500 in a heartbeat. It doesn't have to be this way. Instead of a privatized health care system that forces people into debt, we could have medicare for all.</aside>
  
 Beranek, who lives in Champaign, Illinois, with her longtime partner, Jason, and their 17-year-old beagle, Tater, chronicled her spending during a recent typical week.
 
