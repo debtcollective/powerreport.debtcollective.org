@@ -11,7 +11,7 @@ summary: Articles like these want us to believe that it is normal for people to 
   own right.
 ---
 
-Shannon Beranek <mark>craved an iced coffee<mark> after toiling all morning in 94-degree heat.<aside>God forbid someone should want an iced coffee!<aside>
+Shannon Beranek <mark>craved an iced coffee<mark> after toiling all morning in 94-degree heat.<aside>God forbid someone should want an iced coffee!</aside>
  
 But the <mark>civil engineer</mark> owes almost six figures in <aside>Even if you do everything right, work hard, go to a good school, study a STEM field, you are still not allowed to be liberated. And if you make just one mistake, or decide to study the liberal arts, it gets even harder.</aside> college loans, so she parked outside a Dunkin’ Donuts and watched the clock until the 99-cent drink special kicked in.
  
