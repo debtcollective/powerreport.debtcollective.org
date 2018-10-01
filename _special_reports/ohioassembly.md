@@ -9,7 +9,6 @@ Student debtors around the country are hosting debt assemblies to kickstart loca
 
 In August, members of the Debt Collective who attended ITT Tech and Corinthian College met in Ohio to host a debt assembly for local residents. Debt Collective organizer, Latonya, led the event as part of the [Black Family Reunion](http://www.myblackfamilyreunion.org/) weekend in Cincinnati. 
 
-![alt](/assets/images/2016/08/panorama_n.jpg)
 
 The assembly brought together a diverse coalition. Participants expressed their anger at how for-profit colleges put profits before people and that higher education should be a right. 
 
