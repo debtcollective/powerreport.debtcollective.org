@@ -17,8 +17,7 @@ This is life for Beranek, <mark>who is paying down around $93,000 in student loa
 
 On top of <mark>working two jobs and various side hustles,</mark> she makes <mark>daily decisions</mark> that help her save for retirement and pay extra on her debts. <aside>First of all, one job should be enough. Secondly, The idea that all of this is a result of her personal decisions is simply bullshit. There are large structural forces that pen in her decisions and take her options away from her. But this is exactly what this article will NOT tell you.</aside>
  
-Her goal? To throw as much money as possible at the college and car loans.
-“I want them gone,” she says.
+<mark>Her goal? To throw as much money as possible at the college and car loans. “I want them gone,”</mark> she says. <aside>Yes they should be gone, but the idea that people should have to cut to the bone in order to do that is ridiculous. This whole article is absurd. If Shannon didn't have the misfortune of living in the US, she wouldn't have any debt. Another way is possible.</aside>
  
 Beranek, 39, makes about $70,000 a year from her various work.
  
