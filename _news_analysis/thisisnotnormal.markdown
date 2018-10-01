@@ -19,7 +19,7 @@ On top of <mark>working two jobs and various side hustles,</mark> she makes <mar
  
 <mark>Her goal? To throw as much money as possible at the college and car loans. “I want them gone,”</mark> she says. <aside>Yes they should be gone, but the idea that people should have to cut to the bone in order to do that is ridiculous. This whole article is absurd. If Shannon didn't have the misfortune of living in the US, she wouldn't have any debt. Another way is possible.</aside>
  
-Beranek, 39, makes about $70,000 a year from her various work.
+Beranek, 39, <mark>makes about $70,000 a year</mark> from her various work. <aside>Even people with good jobs and good pay are living like they are poor because of crushing debt for basic needs like education and transportation.</aside>
  
 She’s made retirement a priority, saving $200 a month from her civil engineering job in a Roth IRA and 25 percent of the earnings from her second job, as a data analyst, in a 401(k). She also has $5,500 in an emergency fund.
  
