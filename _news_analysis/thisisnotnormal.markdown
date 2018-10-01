@@ -13,7 +13,9 @@ Shannon Beranek <mark>craved an iced coffee<mark> after toiling all morning in 9
  
 But the <mark>civil engineer</mark> owes almost six figures in <aside>Even if you do everything right, work hard, go to a good school, study a STEM field, you are still not allowed to be liberated. And if you make just one mistake, or decide to study the liberal arts, it gets even harder.</aside> college loans, so she parked outside a Dunkin’ Donuts and watched the clock until the 99-cent drink special kicked in.
  
-This is life for Beranek, <mark>who is paying down around $93,000 in student loans</mark> from her bachelor’s and master’s degrees, <aside> There is a significant gender gap in student loans. Of the roughly $1.4 trillion in student debt, 2/3 of that belongs to women. But they also get paid less than men. If Shannon were a man, not only would she likely have less debt, but also a larger paycheck.  </aside> plus about $5,000 on her red 2015 Hyundai Elantra. On top of working two jobs and various side hustles, she makes daily decisions that help her save for retirement and pay extra on her debts.
+This is life for Beranek, <mark>who is paying down around $93,000 in student loans</mark> from her bachelor’s and master’s degrees, <aside> There is a significant gender gap in student loans. Of the roughly $1.4 trillion in student debt, 2/3 of that belongs to women. But they also get paid less than men. If Shannon were a man, not only would she likely have less debt, but also a larger paycheck.  </aside> plus about $5,000 on her red 2015 Hyundai Elantra. 
+
+On top of <mark>working two jobs and various side hustles,</mark> she makes <mark>daily decisions</mark> that help her save for retirement and pay extra on her debts. <aside>First of all, one job should be enough. Secondly, The idea that all of this is a result of her personal decisions is simply bullshit. There are large structural forces that pen in her decisions and take her options away from her. But this is exactly what this article will NOT tell you.</aside>
  
 Her goal? To throw as much money as possible at the college and car loans.
 “I want them gone,” she says.
