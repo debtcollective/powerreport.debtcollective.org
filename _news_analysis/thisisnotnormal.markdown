@@ -26,6 +26,7 @@ Beranek, 39, makes about $70,000 a year from her various work.
 She’s made retirement a priority, saving $200 a month from her civil engineering job in a Roth IRA and 25 percent of the earnings from her second job, as a data analyst, in a 401(k). She also has $5,500 in an emergency fund. 
  
 Beranek, who lives in Champaign, Illinois, with her longtime partner, Jason, and their 17-year-old beagle, Tater, chronicled her spending during a recent typical week.
+
 Here are her entries, plus tips for others who are digging out of debt.
  
 DIARY ENTRIES HAVE BEEN EDITED FOR CLARITY AND LENGTH.
