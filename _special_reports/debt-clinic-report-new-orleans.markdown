@@ -1,5 +1,5 @@
 ---
-title: 'Debt Clinic Report: New Orleans'
+title: 'Medical Debt Clinic Report: New Orleans'
 date: 2018-10-01 12:42:00 Z
 sub-title: But what about when debt is incurred unavoidably, just to stay alive?
 author: Alan F.
