@@ -3,7 +3,7 @@ title: 'Medical Debt Clinic Report: New Orleans'
 date: 2018-10-01 12:42:00 Z
 sub-title: But what about when debt is incurred unavoidably, just to stay alive?
 author: Alan F.
-image: "/uploads/m4a.jpg"
+image: "/uploads/unnamed.jpg"
 ---
 
 If debt were just a matter of numbers, of X owes Y Z, it would be simpler to think about. But it isn't. It's a concept laden and confused with the deepest emotional and religious values of the West.
