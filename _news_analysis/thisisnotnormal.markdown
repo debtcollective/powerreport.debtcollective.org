@@ -39,12 +39,11 @@ Today was also “rent check” day, when Jason gives me his half of all the bil
  
 DAY 2
  
-TOTAL SPENDING: $65.63 for groceries, dog food and two shirts for work
-We went to the outlet mall. I had a $5 coupon for one of the discount clothes stores, so I used that on two shirts I needed for work.
+TOTAL SPENDING: $65.63 for groceries, dog food and two shirts for work. We went to the outlet mall. I had a $5 coupon for one of the discount clothes stores, so I used that on two shirts I needed for work.
  
 We also went to the grocery store. If it’s not on sale, we don’t typically buy it. We buy sale meat in bulk — $5 for ugly pork chops, $10 for more than six pounds of chicken — and vegetables on sale. We had a coupon for five free Cesar wet dog food trays and saved about $5.
  
-I checked my ChangEd app and I’ve saved $300 toward my student loans. Each debit card transaction I make gets rounded to the next dollar. (The rounded amounts get added to her ChangEd account.) Once it hits $100, they send a check to my student loan provider.
+<mark>I checked my ChangEd app</mark> and I’ve saved $300 toward my student loans. <aside>Silicon Valley isn't going to solve this problem, but they will try to monetize it.</aside> Each debit card transaction I make gets rounded to the next dollar. (The rounded amounts get added to her ChangEd account.) Once it hits $100, they send a check to my student loan provider.
  
 TIP: To pay off student loans faster , instruct your student loan servicer to apply extra payments to the loan balance instead of the next month’s payment.
  
