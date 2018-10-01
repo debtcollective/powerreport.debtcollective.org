@@ -64,8 +64,7 @@ TIP: Prioritizing high-interest loans first will slash debt fastest, but tackle 
 DAY 5
 TOTAL SPENDING: $29.89 for gas and iced coffee, plus tax.
  
-Today I had to get gas in the car. It came out at $28.81, (less than) I was expecting.
-I splurged a little and got myself a Dunkin’ Donuts iced coffee. I got there at 12:55 p.m. and sat in my car until 1 p.m. so I could get the 99-cent deal. It was totally worth it.
+Today I had to get gas in the car. It came out at $28.81, (less than) I was expecting. I <mark>splurged</mark> a little and got myself a Dunkin’ Donuts iced coffee. <aside>Splurge = $1.09 on something that is not absolutely necessary.</aside> I got there at 12:55 p.m. and sat in my car until 1 p.m. so I could get the 99-cent deal. It was totally worth it.
 Still waiting to hear back about the city engineer job.
  
 DAY 6
