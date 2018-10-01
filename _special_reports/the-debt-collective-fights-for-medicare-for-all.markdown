@@ -1,6 +1,9 @@
 ---
 title: The Debt Collective Fights for Medicare For All
 date: 2018-10-01 11:41:00 Z
+tags:
+- medicare for all
+- medical debt
 sub-title: 'No one should have to go into debt for good health. '
 author: Thomas G.
 image: "/uploads/M4A-logo-white-on-red-social-1c179d9babd816dd0b938ec150d1665a.png"
