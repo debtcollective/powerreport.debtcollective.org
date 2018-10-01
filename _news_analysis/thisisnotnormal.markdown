@@ -1,6 +1,8 @@
 ---
 title: 'Debt Diary: How an engineer digs out of $100,000 in loans'
 date: 2018-10-01 13:01:00 Z
+tags:
+- news analysis
 sub-title: NerdWallet & the Associated Press
 author: Teddy Nykiel  (with annotations by the Debt Collective)
 summary: Articles like these want us to believe that it is normal for people to struggle
