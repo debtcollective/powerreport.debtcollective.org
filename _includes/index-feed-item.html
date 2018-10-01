@@ -5,10 +5,14 @@
     <h3 class="Feed__Posts-latest-title">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h3>
-    {% if post.summary %}
+    {% if post.summary or post.sub-title%}
       <div class="Feed__Posts-latest-summary">
         <p>
-          {{ post.summary | truncatewords: 30 }}
+          {% if post.summary %}
+            {{ post.summary | truncatewords: 30 }}
+          {% elsif post.sub-title %}
+            {{ post.sub-title | trunactewords: 30 }}
+          {% endif %}
         </p>
       </div>
     {% endif %}

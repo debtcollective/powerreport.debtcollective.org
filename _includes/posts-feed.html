@@ -9,14 +9,13 @@
   
   <hr class="mt-0">
 
-  {% assign is_latest = false %}
   {% assign reports = site.special_reports | reverse %}
   {% for post in reports %}
     {% case forloop.index %}
       {% when 1 or 2 or 3 %}
         <div class="row">
           <div class="col-12">
-            {% include posts-feed-item.html %}
+            {% include posts-feed-item.html is_latest=true %}
           </div>
         </div>
     {% endcase %}

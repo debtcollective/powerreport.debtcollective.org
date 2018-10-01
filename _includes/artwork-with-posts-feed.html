@@ -1,8 +1,7 @@
 <div class="ArtworkWithPosts container">
   <div class="row">
     <div class="col-lg-6 mt-5">
-      {% assign is_latest = true %}
-      {% include posts-feed.html %}
+      {% include posts-feed.html is_latest=true %}
     </div>
     <div class="col-lg-6 mt-5">
       <div class="container">
