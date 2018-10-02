@@ -70,7 +70,7 @@ Debt Collective members distributed red squares with a link to our website.
 Since it was July in New Orleans, we handed out fans to hot NASFAA parade attendees. The fans included information about how easy and affordable it would be to end student debt and provide free higher education to all. 
 
 ![alt](/assets/images/2015/07/kimtran.jpg)
-Debt Collective member Kim Tran showing off props used in the Direct Action. 
+Debt Collective member Kim showing off props used in the Direct Action. 
 
 The Debt Collective action in New Orleans was a big success. We were able to persuade many of the NASFAA attendees to think more critically about their industry’s role in promoting debt traps instead of real solutions. 
 
