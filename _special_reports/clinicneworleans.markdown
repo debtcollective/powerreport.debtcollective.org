@@ -1,6 +1,6 @@
 ---
 title: 'Medical Debt Clinic Report: New Orleans'
-date: 2018-10-01 12:42:00 Z
+date: 2018-09-12 12:42:00 Z
 tags:
 - medical debt
 - new orleans
