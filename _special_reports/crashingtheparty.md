@@ -69,6 +69,7 @@ Debt Collective members distributed red squares with a link to our website.
 Since it was July in New Orleans, we handed out fans to hot NASFAA parade attendees. The fans included information about how easy and affordable it would be to end student debt and provide free higher education to all. 
 
 ![alt](/assets/images/2015/07/kimtran.jpg)
+Debt Collective member Kim Tran showing off props used in the Direct Action. 
 
 The Debt Collective action in New Orleans was a big success. We were able to persuade many of the NASFAA attendees to think more critically about their industry’s role in promoting debt traps instead of real solutions. 
 
@@ -78,6 +79,7 @@ We were also able to influence the conversation in the media. Our action in New 
 The day after the parade, Debt Collective organizers and for-profit college students stayed in town to hold a series of workshops and strategy sessions to plan the next phase of the student strike movement.
 
 ![alt](/assets/images/2015/07/table-pic.jpg)
+Celebrating a successful direct action. 
  
 Corinthian students and students from ITT Tech and Arts Institutes are joining together to demand debt cancellation and free education. The movement is growing. This is just the beginning.
 
