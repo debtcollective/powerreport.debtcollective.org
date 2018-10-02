@@ -18,9 +18,8 @@ NASFAA is the professional organization for the financial aid industry. In addit
  
 Using a series of creative tactics, for-profit college students and Debt Collective organizers reminded industry professionals that student loans are not “aid.” We asked why NASFAA isn't considering the simplest and most affordable solution to the problem of student debt: [free tuition at all public 2- and 4-year colleges](http://howfartofree.org/).
 
-Here is a group of student debt strikers explaining to a reporter why their debts should be cancelled. 
-
 ![alt](/assets/images/2015/07/hollie.jpg)
+A group of student debt strikers explaining to a reporter why their debts should be cancelled. 
  
 To get the word out about how easy and affordable it would be to provide free higher education to all, the Debt Collective team designed a social media hoax.
  
@@ -30,9 +29,9 @@ We used the official NASFAA logo to create a fake Twitter account where we annou
  
 Throughout the day, we asked NASFAA to consider our proposal using the official conference hashtag, #NASFAA2015.
 
-Here is the Debt Collective social media team in action in New Orleans. 
 
 ![alt](/assets/images/2015/07/SocialMediaGroundTeam-1-.jpg)
+The Debt Collective social media team in action in New Orleans. 
  
 By the afternoon, student strikers and supporters had completely taken over the online conversation, prompting NASFAA to issue a statement that the Debt Collective had not, in fact, won the Big Idea award.
 
@@ -41,9 +40,6 @@ By the afternoon, student strikers and supporters had completely taken over the 
 Two days later, our NASFAA Twitter account was finally suspended. By then, however, it was too late. The [news](http://howfartofree.org/) was already out that free higher education would cost less than 1% of the federal budget and less than we spend on tax breaks for just 20 corporations.
 
 ![alt](/assets/images/2015/07/Screen-Shot-2015-07-22-at-12-32-05-PM.png)
-
- 
-Read our full proposal, "How Far To Free," [here](http://howfartogfree.org). 
  
 Our protest of the financial aid industry did not end there. As is the custom in New Orleans, the NASFAA conference included a parade (yes, you read that right: *a parade of financial aid administrators*).
  
@@ -67,9 +63,8 @@ Here is one Debt Collective organizer with her son in the pile of fake bills.
 
 ![alt](/assets/images/2015/07/DC15_MomSon-DebtDollars-1-.jpg)
 
-We also distributed red squares with a link to the Debt Collective website. 
-
 ![alt](/assets/images/2015/07/howfar1.jpg)
+Debt Collective members distributed red squares with a link to our website. 
 
 Since it was July in New Orleans, we handed out fans to hot NASFAA parade attendees. The fans included information about how easy and affordable it would be to end student debt and provide free higher education to all. 
 
@@ -83,8 +78,6 @@ We were also able to influence the conversation in the media. Our action in New 
 The day after the parade, Debt Collective organizers and for-profit college students stayed in town to hold a series of workshops and strategy sessions to plan the next phase of the student strike movement.
 
 ![alt](/assets/images/2015/07/table-pic.jpg)
- 
-In the coming days, students will share further updates about the NASFAA protest as well as reflections on their experience in New Orleans.
  
 Corinthian students and students from ITT Tech and Arts Institutes are joining together to demand debt cancellation and free education. The movement is growing. This is just the beginning.
 
