@@ -52,7 +52,7 @@ With obnoxious music blaring, the screens advertised a fake company that promise
 The float was led by two people in alligator suits and by two student strikers posing as representatives from the fake company.
  
 ![alt](/assets/images/2015/07/mallory-with-croc.jpg)
-Debt Collective member Mallory and local artist. 
+Mallory and local artist. 
 
 The float, which had been designed by local New Orleans artists, stopped the NASFAA parade in its tracks. Several NASFAA members chanted "No cuts, no fees! Education should be free!" along with student protesters, and along the route others privately expressed their support for free higher education and an end to student debt.
  
