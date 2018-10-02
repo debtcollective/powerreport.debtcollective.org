@@ -1,9 +1,18 @@
 .PageImage {
   @include page-margins;
 
+  &__description {
+    margin-top: 0.5rem;
+  }
+
+  & ~ .copy {
+    margin-top: 1.5rem;
+  }
+
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 
   img {
     max-width: 100%;

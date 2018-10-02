@@ -1,5 +1,10 @@
 {% if page.image %}
   <div class="PageImage">
     <img src="{{ page.image }}" alt="{{ page.image-description }}" />
+    {% if page.image-description %}
+    <div class="PageImage__description">
+      {{ page.image-description }}
+    </div>
+    {% endif %}
   </div>
 {% endif %}
