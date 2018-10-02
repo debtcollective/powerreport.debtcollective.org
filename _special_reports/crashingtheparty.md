@@ -16,7 +16,7 @@ The National Association of Financial Aid Administrators held their [national co
  
 NASFAA is the professional organization for the financial aid industry. In addition to providing a forum for campus officials to discuss the latest developments in student loan delivery and collection, the conference featured panels and exhibits by student debt profiteers such as Sallie Mae, debt collection companies like ECMC, and lenders like Wells Fargo.
  
-Using a series of creative tactics, for-profit college students and Debt Collective organizers reminded industry professionals that student loans are not “aid.” We asked why NASFAA isn't considering the simplest and most affordable solution to the problem of student debt: [free tuition at all public 2- and 4-year colleges](http://howfartofree.org/).
+Using a series of creative tactics, for-profit college students and Debt Collective organizers reminded industry professionals that student loans are not “aid.” We asked why NASFAA isn't considering the simplest and most affordable solution to the problem of student debt: free tuition at all public 2- and 4-year colleges. 
 
 ![alt](/assets/images/2015/07/hollie.jpg)
 A group of student debt strikers explaining to a reporter why their debts should be cancelled. 
