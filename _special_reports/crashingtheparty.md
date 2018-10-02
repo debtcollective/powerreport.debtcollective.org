@@ -9,7 +9,9 @@ Hi Everyone,
 Last week, Debt Collective organizers and students from Corinthian, ITT Tech and Art Institutes were on location in New Orleans.
 
 ![alt](/assets/images/2015/07/grouppic1-1.jpg)
+The Debt Collective team in New Orleans. 
  
+
 The National Association of Financial Aid Administrators held their [national conference](http://www.nasfaa.org/conference) in the Big Easy. And we came to pay them a visit!
  
 NASFAA is the professional organization for the financial aid industry. In addition to providing a forum for campus officials to discuss the latest developments in student loan delivery and collection, the conference featured panels and exhibits by student debt profiteers such as Sallie Mae, debt collection companies like ECMC, and lenders like Wells Fargo.
