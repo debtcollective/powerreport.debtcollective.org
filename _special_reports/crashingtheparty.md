@@ -2,8 +2,6 @@
 title: Debt Collective Crashes Financial Aid Industry's Biggest Party
 date: 2015-07-29 00:00:00 Z
 youtube-id: J3fvv2z2W64
-image-description: 'Debt Collective organizers in New Orleans after crashing the financial
-  aid industry''s street party. '
 ---
 
 Hi Everyone,
