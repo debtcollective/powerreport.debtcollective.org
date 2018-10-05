@@ -4,16 +4,21 @@ date: 2018-06-09 14:23:00 Z
 preview: https://s3.amazonaws.com/tds-static/artwork/PUBLICBANKx0.25.jpg
 src: https://s3.amazonaws.com/tds-static/artwork/PUBLICBANK.jpg
 artist: Haley Hughes
-artist-website: https://haleyhughespaintings.blogspot.com/
 featured: false
 description: Public Bank
+artist-website: https://haleyhughespaintings.blogspot.com/
 ---
 
-Looking back, can you talk a little bit about what you have learned as an organizer over the last few years? You could talk about what you've learned about yourself, how you have grown or struggled personally or what you learned about our political system while campaigning.  
-: Looking back I've learned so much as far as being an organizer with Debt Collective and Everest Colleges Avengers. It has truly been some of the most rewarding moments of my life. I have learned how strong willed I am as well as how encouraging others find me to be even when I feel like I may not be the most encouraged myself. I entered the movement as a graduate of a college that was not only ripping 10s of thousands of people off but a person that was and still is determined to get justice and reilef for all. I feel like I have grown so much in the way that I view politics and our government. I'm more willing to challenge the system instead of just going along with what I'm told to do. I feel like today in this moment I'm less susceptible to scare tactics and more headstrong and ready to fight back and demand the right thing be done by our citizens. This is our AMERICA and we want what is constitutionally promised to us!
+**Statement by the Artist**
 
-What does your family think about the organizing work you have done to help win over $600 million in relief for people across the US.?  
-: My parents (Kimberly Hornes, Troy Sublett) are extremely proud of the work that I've done with Debt Collective. From the beginning they have made it a point to tell me to do the right thing and fight for those who felt as if they didn't have a voice. It's crazy because I don't think any of us really pay attention to the number but $600 million is a huge number. Granted that we are Trillions of dollars in debt it's still a number to be proud of and to know that we are working towards an even bigger goal is what makes it all worth it.
+If the status quo is not challenged by the masses, what is considered possible will remain defined by those in power. I believe organizing around debt is an important and necessary part of transforming the current power structure; by putting that power back in the hands of THE PEOPLE to decide what is possible, what is needed and what is acceptable.
 
-Please tell me about what being an leader and activist has meant to you?  
-: I never really considered myself a "leader" in the sense that I've always been a person who values his privacy and alone time. I never thought of myself as a person to set any trends and be an inspiration or influencer to others. It wasn't until I got with my former classmates & starting meeting with students hearing their stories and putting it out there on social media that I saw how I could be a leader and inspire change. It truly means the world to me that I have been a part of any type of change or shift in someone's thinking so that they get up and fight for themselves. It has been amazing to have people tell me the work that we have done is helping them in any way big or small. I'm truly honored and privileged to be in the place that I am and I really owe it all to God and the people that have been placed in my life to help me get thus far. Debt collective has given me a platform to help grow a cause that has been near and dear to my heart & I wouldn't be the person I am today without the help of them, so thank you all! (seen and unseen).
+We live in a time with no real representation and mounting deregulation; our tax dollars largely go to the military industrial complex, tax incentives for fossil fuel extraction and the privatization and sale of public spaces. The corporate welfare state is continuing to balloon with endless mega tax breaks for the super rich on the backs of the underserved. Through collective action we can force the hand of the oppressors (or 1%, or oligarchs?) and flip the paradigm. In reality the employer/ corporation/ government needs the worker, the tax payer, not the other way around and in realizing that, we find where the collective power resides.
+
+For me painting is an important tool that seeks to hold the afflicted in love and testimony and shows those of privilege and power their own culpability big or small by addressing the problems of our uncivilized society of so called progress.
+
+This painting for the Debt Collective (yet to be named) is an epic that lays out multiple and intersectional forms of egregious abuse. The intention of this work is to expose economists, corporations, paid politicians, lobbyists, international special interest groups, lenders, traders, debt collectors and human relics from the history of global neoliberal capitalism living and dead and then literally surround them with prime examples of the economically oppressive and ultimately enslaving institutions that they personally profit from. The water is rising along with the indelibleness of the repercussions of their policies. We get a sense of what will and might happen if we are left to their callous neglect. Encapsulating the whole of the painting are various forms of protest, collective action, strike, dissent and struggle.
+
+The people are rising too, they are not afraid anymore because they have nothing to loose.
+
+-- Haley Hughes
