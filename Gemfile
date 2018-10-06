@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.1"
+gem "jekyll", "~> 3.8.4"
 gem "redcarpet", "~> 3.2.2"
 
 # If you have any plugins, put them here!
