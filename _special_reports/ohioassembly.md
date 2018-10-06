@@ -2,6 +2,8 @@
 title: Ohio Debt Assembly Participants Talk Economics, Race, and the Struggle for
   Debt Cancellation
 date: 2016-08-31 00:00:00 Z
+sub-title: 'Debt Collective members meet in Cincinnati to discuss how people of color
+  are disproportionately affected by debt.  '
 ---
 
 Student debtors around the country are hosting debt assemblies to kickstart local organizing against predatory lenders and to push for free, quality higher education for all. The movement is being led by for-profit college students who were scammed by their schools. 
@@ -33,7 +35,7 @@ Finally, Debt Collective members capped off a busy weekend at the Black Family R
 
 ![alt](/assets/images/2016/08/booth.jpg)
 
-The organizing weekend in Cincinnati was a big success. Organizers spread the word that by standing together we can end student debt and other forms of predatory lending. The movement is just getting started. For more information about hosting your own debt assembly, go [here](http://blog.debtcollective.org/how-to-get-organized-host-a-local-debt-assembly/). 
+The organizing weekend in Cincinnati was a big success. Organizers spread the word that by standing together we can end student debt and other forms of predatory lending. The movement is just getting started. 
 
 
 
