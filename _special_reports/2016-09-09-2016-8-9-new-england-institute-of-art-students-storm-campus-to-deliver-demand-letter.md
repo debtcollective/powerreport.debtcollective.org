@@ -1,6 +1,7 @@
 ---
 title: New England Institute of Art Students Storm Campus to Deliver Demand Letter
 date: 2016-09-09 00:00:00 Z
+sub-title: 'For-profit borrowers demand to have their debts relieved. '
 youtube-id: SdCUr1TdF-M
 ---
 
