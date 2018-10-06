@@ -109,16 +109,17 @@ discourse:
     collectives: "/collectives"
     events: "/calendar"
   roles:
-    base: 'trust_level_0'
+    base: trust_level_0
 tools:
-   endpoint: https://tools.debtsyndicate.org
-   paths:
-     dispute-your-debt: "/dispute-tools"
-     my-disputes: "/disputes/my"
+  endpoint: https://tools.debtsyndicate.org
+  paths:
+    dispute-your-debt: "/dispute-tools"
+    my-disputes: "/disputes/my"
 plugins:
 - jekyll-seo-tag
 markdown: DebtCollective
 exclude:
 - ".circleci"
 redcarpet:
-  extensions: ["highlight"]
+  extensions:
+  - highlight

@@ -7,7 +7,6 @@ sub-title: '"A Way of Monetizing Poor People'': How Private Equity Firms Make Mo
   Offering Loans to Cash-Strapped Americans." Washington Post. '
 ---
 
-
 The check arrived out of the blue, issued in his name for $1,200, a mailing from a consumer finance company. Stephen Huggins eyed it carefully.
 
 A loan, it said. Smaller type said the interest rate would be 33 percent.

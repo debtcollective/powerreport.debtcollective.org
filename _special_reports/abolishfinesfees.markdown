@@ -1,6 +1,8 @@
 ---
 title: Fines, Fees, Bail and Jail – Toward Abolition
 date: 2018-10-05 11:27:00 Z
+sub-title: 'The Debt Collective joins a coalition to fight for an end to fines and
+  fees in California. '
 image: "/uploads/CA%20bail%20coalition.jpg"
 image-description: 'Flier for the LA-area event demanding amnesty for all fines and
   fees debtors. '
