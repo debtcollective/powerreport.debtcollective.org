@@ -1,14 +1,18 @@
 {% assign paths = site.discourse.paths %}
 {% assign endpoint = site.discourse.endpoint %}
+{% assign toolsEndpoint = site.tools.endpoint %}
+{% assign toolsPaths = site.tools.paths %}
 
 <div id="debt-collective-header"></div>
 <script>;Vue.component(DebtCollectiveHeader.name,DebtCollectiveHeader);new Vue({el:'#debt-collective-header',render:function(h){return h('debt-collective-header',{attrs:{
           'header-links': [
             { href: '{{ endpoint | append: paths.collectives }}', text: 'Collectives' },
             { href: '{{ endpoint | append: paths.campaigns }}', text: 'Campaigns' },
-            { href: '{{ endpoint | append: paths.events }}', text: 'Events' },
-          ],
-          'dropdown-links': [
             { href: '{{ endpoint | append: paths.events }}', text: 'Events' }
           ],
-          'discourse-endpoint': '{{ endpoint }}'}})}});</script>
+          'dropdown-links': [
+            { href: '{{ toolsEndpoint | append: toolsPaths.dispute-your-debt }}', text: 'Dispute Your Debt' },
+            { href: '{{ toolsEndpoint | append: toolsPaths.my-disputes }}', text: 'My Disputes', roles: ['{{ site.discourse.roles.base }}'] }
+          ],
+          'discourse-endpoint': '{{ endpoint }}',
+          'tools-endpoint': '{{ toolsEndpoint }}'}})}});</script>
