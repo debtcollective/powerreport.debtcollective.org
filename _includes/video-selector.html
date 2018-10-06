@@ -35,7 +35,7 @@
       <h4 class="VideoSelector__title">More Video Profiles</h3>
       {% for video in videos %}
         {% if forloop.index != 1 %}
-          <li class="VideoSelector__list-item">
+          <a href="{{ video.url | relative_url }}" class="nostyle VideoSelector__list-item">
             <div class="VideoSelector__list-item-picture float-left" style="background-image: url('https://img.youtube.com/vi/{{video.youtube-id}}/hqdefault.jpg');">
             </div>
             <div class="">
@@ -43,10 +43,10 @@
                 <a class="nostyle" href="{{ video.url | relative_url }}">{{video.title}}</a>
               </h6>
               <div class="VideoSelector__list-item-sub-title">
-                {{video.sub-title}}
+                <a class="nostyle" href="{{ video.url | relative_url }}">{{video.sub-title}}</a>
               </div>
             </div>
-          </li>
+          </a>
         {% endif %}
       {% endfor %}
     </div>
