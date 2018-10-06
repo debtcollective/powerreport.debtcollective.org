@@ -10,19 +10,19 @@ summary: Articles like these want us to believe that it is normal for people to 
   become a political force in their own right.
 ---
 
-Shannon Beranek <mark>craved an iced coffee<mark> after toiling all morning in 94-degree heat.<aside>God forbid someone should want an iced coffee!</aside>
+Shannon Beranek ==craved an iced coffee== after toiling all morning in 94-degree heat.<(God forbid someone should want an iced coffee!)>
  
-But the <mark>civil engineer</mark> owes almost six figures in <aside>Even if you do everything right, work hard, go to a good school, study a STEM field, you are still not allowed to be liberated. And if you make just one mistake, or decide to study the liberal arts, it gets even harder.</aside> college loans, so she parked outside a Dunkin’ Donuts and watched the clock until the 99-cent drink special kicked in.
+But the ==civil engineer== owes almost six figures in <(Even if you do everything right, work hard, go to a good school, study a STEM field, you are still not allowed to be liberated. And if you make just one mistake, or decide to study the liberal arts, it gets even harder.)> college loans, so she parked outside a Dunkin’ Donuts and watched the clock until the 99-cent drink special kicked in.
  
-This is life for Beranek, <mark>who is paying down around $93,000 in student loans</mark> from her bachelor’s and master’s degrees, <aside>There is a significant gender gap in student loans. Of the roughly $1.4 trillion in student debt, 2/3 of that belongs to women. But they also get paid less. If Shannon were a man, she would have less debt and a larger paycheck.</aside> plus about $5,000 on her red 2015 Hyundai Elantra. 
+This is life for Beranek, ==who is paying down around $93,000 in student loans== from her bachelor’s and master’s degrees, <(There is a significant gender gap in student loans. Of the roughly $1.4 trillion in student debt, 2/3 of that belongs to women. But they also get paid less. If Shannon were a man, she would have less debt and a larger paycheck.)> plus about $5,000 on her red 2015 Hyundai Elantra. 
 
-On top of <mark>working two jobs and various side hustles,</mark> she makes <mark>daily decisions</mark> that help her save for retirement and pay extra on her debts. <aside>First of all, one job should be enough. Secondly, The idea that all of this is a result of her personal decisions is simply bullshit. There are large structural forces that pen in her decisions and take her options away from her. But this is exactly what this article will NOT tell you.</aside>
+On top of ==working two jobs and various side hustles,== she makes ==daily decisions== that help her save for retirement and pay extra on her debts. <(First of all, one job should be enough. Secondly, The idea that all of this is a result of her personal decisions is simply bullshit. There are large structural forces that pen in her decisions and take her options away from her. But this is exactly what this article will NOT tell you.)>
  
 Her goal? To throw as much money as possible at the college and car loans. “I want them gone,” she says. 
 
 Beranek, 39, makes about $70,000 a year from her various work. 
  
-She’s made retirement a priority, saving $200 a month from her civil engineering job in a Roth IRA and 25 percent of the earnings from her second job, as a data analyst, in a 401(k). She also has <mark>$5,500</mark> in an emergency fund. <aside>All of us are just one slip on a banana peel away from financial ruin. We have to hope we don't get sick or injured. Even a minor medical emergency will wipe out $5,500 in a heartbeat. It doesn't have to be this way. Instead of a privatized health care system that forces people into debt, we could have medicare for all.</aside>
+She’s made retirement a priority, saving $200 a month from her civil engineering job in a Roth IRA and 25 percent of the earnings from her second job, as a data analyst, in a 401(k). She also has ==$5,500== in an emergency fund. <(All of us are just one slip on a banana peel away from financial ruin. We have to hope we don't get sick or injured. Even a minor medical emergency will wipe out $5,500 in a heartbeat. It doesn't have to be this way. Instead of a privatized health care system that forces people into debt, we could have medicare for all.)>
  
 Beranek, who lives in Champaign, Illinois, with her longtime partner, Jason, and their 17-year-old beagle, Tater, chronicled her spending during a recent typical week.
 
@@ -45,16 +45,16 @@ TOTAL SPENDING: $65.63 for groceries, dog food and two shirts for work. We went 
  
 We also went to the grocery store. If it’s not on sale, we don’t typically buy it. We buy sale meat in bulk — $5 for ugly pork chops, $10 for more than six pounds of chicken — and vegetables on sale. We had a coupon for five free Cesar wet dog food trays and saved about $5.
  
-<mark>I checked my ChangEd app</mark> and I’ve saved $300 toward my student loans. <aside>Silicon Valley isn't going to solve this problem, but they will try to monetize it.</aside> Each debit card transaction I make gets rounded to the next dollar. (The rounded amounts get added to her ChangEd account.) Once it hits $100, they send a check to my student loan provider.
+==I checked my ChangEd app== and I’ve saved $300 toward my student loans. <(Silicon Valley isn't going to solve this problem, but they will try to monetize it.)> Each debit card transaction I make gets rounded to the next dollar. (The rounded amounts get added to her ChangEd account.) Once it hits $100, they send a check to my student loan provider.
  
-TIP: To pay off student loans faster, <mark>instruct your student loan servicer to apply extra payments</mark> to the loan balance instead of the next month’s payment. <aside>Here's a tip: your student loan servicer will often not follow your allocation instructions.</aside>
+TIP: To pay off student loans faster, ==instruct your student loan servicer to apply extra payments== to the loan balance instead of the next month’s payment. <(Here's a tip: your student loan servicer will often not follow your allocation instructions.)>
  
 DAY 3 (LABOR DAY)
 TOTAL SPENDING: $0
  
-<mark>I’m using this holiday to get a full eight hours in of my second job.</mark> I’m dreaming about getting a callback for the <aside>Land of the Free</aside> City of Urbana transportation engineer job that I applied to. Prospects seem really good. That would be an extra $15,000 a year, plus super amazing benefits.
+==I’m using this holiday to get a full eight hours in of my second job.== I’m dreaming about getting a callback for the <(Land of the Free)> City of Urbana transportation engineer job that I applied to. Prospects seem really good. That would be an extra $15,000 a year, plus super amazing benefits.
  
-I just got a Rover.com dog-sitting booking that will bring in about $100. We use the money we make from Rover to <mark>pay for our dog’s health issues.</mark> He’s 17, so he’s got old man problems. <aside>Most of us spend our money to care for those most important to us. We shouldn't be made to feel ashamed about this.</aside>
+I just got a Rover.com dog-sitting booking that will bring in about $100. We use the money we make from Rover to ==pay for our dog’s health issues.== He’s 17, so he’s got old man problems. <(Most of us spend our money to care for those most important to us. We shouldn't be made to feel ashamed about this.)>
  
 DAY 4
 TOTAL SPENDING: $995.20 for the Netflix bill, mortgage payment, property taxes and home insurance.
@@ -66,7 +66,7 @@ TIP: Prioritizing high-interest loans first will slash debt fastest, but tackle 
 DAY 5
 TOTAL SPENDING: $29.89 for gas and iced coffee, plus tax.
  
-Today I had to get gas in the car. It came out at $28.81, (less than) I was expecting. I <mark>splurged</mark> a little and got myself a Dunkin’ Donuts iced coffee. <aside>Splurge = $1.09 on something that is not absolutely necessary.</aside> I got there at 12:55 p.m. and sat in my car until 1 p.m. so I could get the 99-cent deal. It was totally worth it.
+Today I had to get gas in the car. It came out at $28.81, (less than) I was expecting. I ==splurged== a little and got myself a Dunkin’ Donuts iced coffee. <(Splurge = $1.09 on something that is not absolutely necessary.)> I got there at 12:55 p.m. and sat in my car until 1 p.m. so I could get the 99-cent deal. It was totally worth it.
 Still waiting to hear back about the city engineer job.
  
 DAY 6
@@ -84,4 +84,4 @@ TOTAL SPENDING: $357.43 for a car payment (about $100 more than the minimum paym
 I’m super anxious to hear back about my new possible job. They’ve checked a ton of references so I want to believe this isn’t something they do just for fun.
 I realized I only had some pork chops and tomatoes in the fridge so I ended up getting Chinese takeout for lunch. There’s a local place I like that does it on the cheap, so it was only $7.43.
  
-<mark>“Editor’s epilogue: Shannon was offered the new job — another engineering role that pays more and has better benefits — a week after her final debt diary entry, and will start in October. She plans to continue working her second job until she pays off all her debt,</mark> which she estimates will take about five years on her new salary.” <aside>For women in the engineering field, the gender pay gap actually INCREASES as they gain more experience and get promoted. If Shannon were a man she would have about $3,000 more a year and be debt free 9 months sooner.</aside>
+==“Editor’s epilogue: Shannon was offered the new job — another engineering role that pays more and has better benefits — a week after her final debt diary entry, and will start in October. She plans to continue working her second job until she pays off all her debt,== which she estimates will take about five years on her new salary.” <(For women in the engineering field, the gender pay gap actually INCREASES as they gain more experience and get promoted. If Shannon were a man she would have about $3,000 more a year and be debt free 9 months sooner.)>

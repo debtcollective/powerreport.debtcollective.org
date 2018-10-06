@@ -14,14 +14,14 @@ A loan, it said. Smaller type said the interest rate would be 33 percent.
 
 Way too high, Huggins thought. He put it aside.
 
-A week later, though, his 2005 Chevy pickup was in the shop, and he didn’t have enough to pay for the repairs. <mark>He needed the truck to get to work, to get the kids to school.</mark> So Huggins, a 56-year-old heavy equipment operator in Nashville, fished the check out that day in April 2017 and cashed it. <(Huggins is an intelligent person. He knew the loan was predatory but he found himself with NO CHOICE if he wanted to feed his family.)>
+A week later, though, his 2005 Chevy pickup was in the shop, and he didn’t have enough to pay for the repairs. ==He needed the truck to get to work, to get the kids to school.== So Huggins, a 56-year-old heavy equipment operator in Nashville, fished the check out that day in April 2017 and cashed it. <(Huggins is an intelligent person. He knew the loan was predatory but he found himself with NO CHOICE if he wanted to feed his family.)>
 
 Within a year, the company, Mariner Finance, sued Huggins for $3,221.27. That included the original $1,200, plus an additional $800 a company representative later persuaded him to take, plus hundreds of dollars in processing fees, insurance and other items, plus interest. It didn’t matter that he’d made a few payments already.
 
 “It would have been cheaper for me to go out and borrow money from the mob,” Huggins said before his first court hearing in April.
 
-<mark>As treasury secretary in the Obama administration, Timothy F. Geithner condemned predatory lenders. Now he is president of Warburg Pincus, a New York firm that controls a private equity fund that owns Mariner Finance.</mark> 
-<aside>Isn't that just perfect? The same dude hired by Obama to help "save" the economy after the 2008 crisis found a way to get even richer by taking advantage of people in debt.</aside>
+==As treasury secretary in the Obama administration, Timothy F. Geithner condemned predatory lenders. Now he is president of Warburg Pincus, a New York firm that controls a private equity fund that owns Mariner Finance.== 
+<(Isn't that just perfect? The same dude hired by Obama to help "save" the economy after the 2008 crisis found a way to get even richer by taking advantage of people in debt.)>
 
 Most galling, Huggins couldn’t afford a lawyer but was obliged by the loan contract to pay for the company’s. That had added 20 percent — $536.88 — to the size of his bill.
 
@@ -29,20 +29,20 @@ Most galling, Huggins couldn’t afford a lawyer but was obliged by the loan con
 
 **A Growing Market**
 
-Mass-mailing checks to strangers might seem like risky business, but Mariner Finance occupies a fertile niche in the U.S. economy. <mark>The company enables some of the nation’s wealthiest investors and investment funds to make money offering high-interest loans to cash-strapped Americans.</mark>
-<aside>This is, in fact, a main point of the Finance industry: making it legal for rich people to screw us.</aside>
+Mass-mailing checks to strangers might seem like risky business, but Mariner Finance occupies a fertile niche in the U.S. economy. ==The company enables some of the nation’s wealthiest investors and investment funds to make money offering high-interest loans to cash-strapped Americans.==
+<(This is, in fact, a main point of the Finance industry: making it legal for rich people to screw us.)>
 
 Mariner Finance is owned and managed by a $11.2 billion private equity fund controlled by Warburg Pincus, a storied New York firm. The president of Warburg Pincus is Timothy F. Geithner, who, as treasury secretary in the Obama administration, condemned predatory lenders. The firm’s co-chief executives, Charles R. Kaye and Joseph P. Landy, are established figures in New York’s financial world. The minimum investment in the fund is $20 million.
 
 Mariner Finance operates more than 450 branches in 22 states, according to company filings. It is especially active in Virginia, Maryland, Tennessee, Pennsylvania and Florida. Above, a store in District Heights, Md. (Salwan Georges/The Washington Post)
 Dozens of other investment firms bought Mariner bonds last year, allowing the company to raise an additional $550 million. That allowed the lender to make more loans to people like Huggins.
-<mark>“It’s basically a way of monetizing poor people,” said John Lafferty,<mark><aside>You don't say?</aside>who was a manager trainee at a Mariner Finance branch for four months in 2015 in Nashville. His misgivings about the business echoed those of other former employees contacted by The Washington Post. “Maybe at the beginning, people thought these loans could help people pay their electric bill. But it has become a cash cow.”
+==“It’s basically a way of monetizing poor people,” said John Lafferty,==<(You don't say?)>who was a manager trainee at a Mariner Finance branch for four months in 2015 in Nashville. His misgivings about the business echoed those of other former employees contacted by The Washington Post. “Maybe at the beginning, people thought these loans could help people pay their electric bill. But it has become a cash cow.”
 
 The market for “consumer installment loans,” which Mariner and its competitors serve, has grown rapidly in recent years, particularly as new federal regulations have curtailed payday lending, according to the Center for Financial Services Innovation, a nonprofit research group. Private equity firms, with billions to invest, have taken significant stakes in the growing field.
 
 Among its rivals, Mariner stands out for the frequent use of mass-mailed checks, which allows customers to accept a high-interest loan on an impulse — just sign the check. It has become a key marketing method.
 
-<mark>The company’s other tactics include borrowing money for as little as 4 or 5 percent — thanks to the bond market — and lending at rates as high as 36 percent, a rate that some states consider usurious;<mark> <("Thanks to the bond market" just means that the government lets rich people borrow money at a low rate and then make a killing by lending it to the rest of us at high prices.)> making millions of dollars by charging borrowers for insurance policies of questionable value; operating an insurance company in the Turks and Caicos, where regulations are notably lax, to profit further from the insurance policies; and aggressive collection practices that include calling delinquent customers once a day and embarrassing them by calling their friends and relatives, customers said.
+==The company’s other tactics include borrowing money for as little as 4 or 5 percent — thanks to the bond market — and lending at rates as high as 36 percent, a rate that some states consider usurious;== <("Thanks to the bond market" just means that the government lets rich people borrow money at a low rate and then make a killing by lending it to the rest of us at high prices.)> making millions of dollars by charging borrowers for insurance policies of questionable value; operating an insurance company in the Turks and Caicos, where regulations are notably lax, to profit further from the insurance policies; and aggressive collection practices that include calling delinquent customers once a day and embarrassing them by calling their friends and relatives, customers said.
 
 Finally, Mariner enforces its collections with a busy legal operation, funded in part by the customers themselves: The fine print in the loan contracts obliges customers to pay as much as an extra 20 percent of the amount owed to cover Mariner’s attorney fees, and this has helped fund legal proceedings that are both voluminous and swift. Last year, in Baltimore alone, Mariner filed nearly 300 lawsuits. In some cases, Mariner has sued customers within five months of the check being cashed.
 
@@ -52,31 +52,31 @@ Mariner Finance officials declined to grant interview requests or provide financ
 
 Company representatives described Mariner as a business that yields reasonable profits while fulfilling an important social need. In states where usury laws cap interest rates, the company lowers its highest rate — 36 percent — to comply.
 
-“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. <mark>“We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers.<mark> <aside>(This is very old and tired defense of screwing struggling people out of every last penny: "we are just competing in the market like any responsible capitalist!")</aside>
+“The installment lending industry provides an important service to tens of millions of Americans who might otherwise not have safe, responsible access to credit,” John C. Morton, the company’s general counsel, wrote. ==“We operate in a competitive environment on narrow margins, and are driven by that competition to offer exceptional service to our customers.== <((This is very old and tired defense of screwing struggling people out of every last penny: "we are just competing in the market like any responsible capitalist!"))>
 
 Regarding the money that borrowers pay for Mariner’s attorneys, the company representatives noted that those payments go only toward the attorneys it hires, not to Mariner itself.
 
 The company declined to discuss the affiliated offshore company that handles insurance, citing competitive reasons. Mariner sells insurance policies that are supposed to cover a borrower’s loan payments in case of various mishaps — death, accident, unemployment and the like.
 
-<mark>“It is not our duty to explain to reporters . . . why companies make decisions to locate entities in different jurisdictions,” Morton wrote.</mark>
-<aside>Well let us help you explain! IT'S SO THEY CAN GET AROUND COMMON SENSE REGULATIONS THAT MIGHT STOP THEM FROM RUINING PEOPLE'S LIVES.</aside>
+==“It is not our duty to explain to reporters . . . why companies make decisions to locate entities in different jurisdictions,” Morton wrote.==
+<(Well let us help you explain! IT'S SO THEY CAN GET AROUND COMMON SENSE REGULATIONS THAT MIGHT STOP THEM FROM RUINING PEOPLE'S LIVES.)>
 
-Through a Warburg Pincus spokesman, Geithner, the company president, declined to comment. So did other Warburg Pincus officials. Instead, through spokeswoman Mary Armstrong, the firm issued a statement: “Mariner Finance delivers a valuable service to hundreds of thousands of Americans who have limited access to consumer credit,” <aside>In other words, we fleece poor people</aside>. “Mariner is licensed, regulated, and in good standing, in all states in which it operates and its operations are subject to frequent examination by state regulators. Mariner’s products are transparent with clear disclosure and Mariner proactively educates its customers in every step of the process.” 
+Through a Warburg Pincus spokesman, Geithner, the company president, declined to comment. So did other Warburg Pincus officials. Instead, through spokeswoman Mary Armstrong, the firm issued a statement: “Mariner Finance delivers a valuable service to hundreds of thousands of Americans who have limited access to consumer credit,” <(In other words, we fleece poor people)>. “Mariner is licensed, regulated, and in good standing, in all states in which it operates and its operations are subject to frequent examination by state regulators. Mariner’s products are transparent with clear disclosure and Mariner proactively educates its customers in every step of the process.” 
 
 **Equity Firms' Stakes**
 
-Over the past decade or so, <mark>private equity firms</mark>, which pool money from investment funds and wealthy individuals to buy up and manage companies for eventual resale, have taken stakes in companies that offer loans to people who lack access to banks and traditional credit cards.
+Over the past decade or so, ==private equity firms==, which pool money from investment funds and wealthy individuals to buy up and manage companies for eventual resale, have taken stakes in companies that offer loans to people who lack access to banks and traditional credit cards.
 
-Some <mark>private equity firms</mark> have bought up payday lenders. Today, prominent brands in that field, such as Money Mart, Speedy Cash, ACE Cash Express and the Check Cashing Store, are owned by private equity funds.
+Some ==private equity firms== have bought up payday lenders. Today, prominent brands in that field, such as Money Mart, Speedy Cash, ACE Cash Express and the Check Cashing Store, are owned by private equity funds.
 
-Other <mark>private equity firms</mark> have taken stakes in “consumer installment” lenders, such as Mariner, and these offer slightly larger loans — from about $1,000 to more than $25,000 — for longer periods of time. <aside>What is private equity? It is basically a legal way that rich people can get together and act collectively to screw the rest of us.</aside>
+Other ==private equity firms== have taken stakes in “consumer installment” lenders, such as Mariner, and these offer slightly larger loans — from about $1,000 to more than $25,000 — for longer periods of time. <(What is private equity? It is basically a legal way that rich people can get together and act collectively to screw the rest of us.)>
 
 Today, three of the largest companies in consumer installment lending are owned to a significant extent by private equity funds — Mariner is owned by Warburg Pincus; Lendmark Financial Services is held by the Blackstone Group, which is led by billionaire Stephen Schwarzman; and a portion of OneMain Financial is slated to be purchased by Apollo Global, led by billionaire Leon Black, and Varde Partners.
 
 These lending companies have undergone significant growth in recent years. To raise more money to lend, they have sold bonds on Wall Street.
 
-“Some of the largest private equity firms today are supercharging the payday and subprime lending industries,” said Jim Baker of the Private Equity Stakeholder Project, a nonprofit organization that has criticized the industry. In some cases, <mark>“you’ve got billionaires extracting wealth from working people.”</mark>
-<aside>This is a great definition of the debt economy.</aside> 
+“Some of the largest private equity firms today are supercharging the payday and subprime lending industries,” said Jim Baker of the Private Equity Stakeholder Project, a nonprofit organization that has criticized the industry. In some cases, ==“you’ve got billionaires extracting wealth from working people.”==
+<(This is a great definition of the debt economy.)> 
 
 Exactly how much Mariner Finance and Warburg Pincus are making is difficult to know.
 
@@ -86,9 +86,9 @@ The financial statements obtained by The Post for “Mariner Finance LLC” indi
 
 The “Mariner Finance LLC” documents show a net profit before income taxes of $34 million; retained earnings, which include those of past years, of $145 million; and assets totaling $561 million. Two independent accountants who reviewed the documents said the figures suggest a strong financial performance.
 
-<mark>“They are not hurting at least in terms of their profits,” </mark> said Kurt Schulzke, a professor of accounting and business law at Kennesaw State University, who reviewed the documents. “They’ve probably been doing pretty well.”
+==“They are not hurting at least in terms of their profits,”== said Kurt Schulzke, a professor of accounting and business law at Kennesaw State University, who reviewed the documents. “They’ve probably been doing pretty well.”
 
-<aside>You don't say?</aside>
+<(You don't say?)>
 
 **New management**
 
@@ -117,19 +117,19 @@ Mariner generally targets people who have imperfect credit scores, according to 
 “Our customer satisfaction rates with this product are exceptional,” wrote Morton, the company’s general counsel. He said that only about .02 percent of the mailed loan accounts lead to complaints.
 Ten of the 12 former employees whom The Post contacted, however, expressed qualms about the company’s sales practices, describing an environment where meeting monthly goals seemed at times to rely on customer ignorance or distress. Those interviewed worked in branches across five states where Mariner is especially active: Virginia, Maryland, Tennessee, Pennsylvania and Florida.
 
-“I didn’t like the idea of dragging people down into debt — they really make it a big deal to call and collect and not take no for an answer,” said Asha Kabirou, 28, a former customer service representative in two Maryland locations in 2014. <mark>“If someone started to fall behind on their payments — which happened a lot — they would say, ‘Why don’t we offer you another $200?’</mark> But they wouldn’t have the money the next month, either.”
-<aside> This is disgusting. </aside>
+“I didn’t like the idea of dragging people down into debt — they really make it a big deal to call and collect and not take no for an answer,” said Asha Kabirou, 28, a former customer service representative in two Maryland locations in 2014. ==“If someone started to fall behind on their payments — which happened a lot — they would say, ‘Why don’t we offer you another $200?’== But they wouldn’t have the money the next month, either.”
+<( This is disgusting. )>
 
 “Were there a few loans that actually helped people? Yes. Were 80 percent of them predatory? Probably,” said one former branch manager who was at the company in 2016. He spoke on the condition of anonymity, saying he did not want to antagonize his former employer. “I’m still embarrassed by some of the things I did there.”
 “The company is here to make money — I understand that,” said Mauricio Posso, 28, who worked at a Northern Virginia location in 2016 and said he viewed it as valuable work experience. “At the same time, it’s taking advantage of customers. Most customers do not read what they get in the mail. It’s just little tiny type. They just see the $1,200 for you. . . . It can be a win-win. In some situations, it was just a win for us.”
 
-While Mariner and industry advocates note that <mark>consumers can simply decline a loan</mark> if the terms are onerous,<aside> Oh sure some people can just decline to feed their kids or pay the rent. Got it.</aside> at least some of them may lack the time, English skills or other knowledge to shop around. Some are acutely in need of cash.
+While Mariner and industry advocates note that ==consumers can simply decline a loan== if the terms are onerous,<( Oh sure some people can just decline to feed their kids or pay the rent. Got it.)> at least some of them may lack the time, English skills or other knowledge to shop around. Some are acutely in need of cash.
 
 “I wanted to go to my mother’s funeral — I needed to go to Laos,” Keo Thepmany, a 67-year-old from Laos who is a housekeeper in Northern Virginia, said through an interpreter. To cover costs, she took out a loan from Mariner Finance and then refinanced and took out an additional $1,000. The new loan was at a rate of 33 percent and cost her $390 for insurance and processing fees.
 
 She fell behind, and Mariner filed suit against her last year for $4,200, including $703 for attorney fees. The company also sought a court order to take out money from her wages.
 
-Barbara Williams, 72, a retired school custodian from Prince William County, in Northern Virginia, said she cashed a Mariner loan check for $2,539 because “I wanted to get my teeth fixed. And <mark>I wanted to pay my hospital bills.”</mark> <aside>God forbid a person should be able to get health care without going into debt! Medicare for All! </aside>
+Barbara Williams, 72, a retired school custodian from Prince William County, in Northern Virginia, said she cashed a Mariner loan check for $2,539 because “I wanted to get my teeth fixed. And ==I wanted to pay my hospital bills.”== <(God forbid a person should be able to get health care without going into debt! Medicare for All! )>
 
 She’d been in the hospital with three mini-strokes and pneumonia, she said. Within a few months, Mariner suggested she borrow another $500, and she did. She paid more than $350 for fees and insurance on the loan, according to the loan documents. The interest rate was 30 percent.
 
@@ -154,7 +154,7 @@ When Mariner salesmen were closing a loan and “went to print out the loan cont
 
 In response, the company said steps are taken to make sure that customers understand that the insurance is optional.
 
-<mark>The company has “numerous safeguards in place to make sure that all of our products are sold in a responsible manner.</mark> . . . <aside> The company has "numerous safeguards in place to make sure it extracts as much money from people in as many ways as possible. </aside> Our audit teams regularly visit branch locations and monitor loan closings to ensure that our employees are explaining all products correctly. And we call a randomly selected subset of new customers every day to make sure they understand the terms of the loans.”
+==The company has “numerous safeguards in place to make sure that all of our products are sold in a responsible manner.== . . . <( The company has "numerous safeguards in place to make sure it extracts as much money from people in as many ways as possible. )> Our audit teams regularly visit branch locations and monitor loan closings to ensure that our employees are explaining all products correctly. And we call a randomly selected subset of new customers every day to make sure they understand the terms of the loans.”
 
 Mariner makes money from the insurance sales in two ways.
 First, Mariner gets a commission from the insurance companies for selling the policies.
@@ -173,7 +173,7 @@ Mariner declined to discuss its offshore insurance company. According to a Turks
 
 But numerous business experts have advised U.S. insurers to set up shop in Turks and Caicos to avoid regulation.
 
-“Much of the appeal of an offshore reinsurer is the <mark>modest regulatory climate,”</mark> according to a guidebook published by an insurance consulting agency known as CreditRe.<aside>"Modest regulatory climate" means they don't have to follow US laws.</aside> Many such reinsurers “were developed as a legal mechanism to generate potential total income in excess of the [state-mandated] commission caps.”
+“Much of the appeal of an offshore reinsurer is the ==modest regulatory climate,”== according to a guidebook published by an insurance consulting agency known as CreditRe.<("Modest regulatory climate" means they don't have to follow US laws.)> Many such reinsurers “were developed as a legal mechanism to generate potential total income in excess of the [state-mandated] commission caps.”
 
 The trouble with the insurance policies like the ones that Mariner sells to borrowers is that they devote so little money to covering claims, said Birny Birnbaum, executive director of the consumer advocacy organization Center for Economic Justice, which has issued reports on the credit insurance industry. He formerly served as the Texas Department of Insurance’s chief economist.
 
@@ -189,4 +189,4 @@ So far, Huggins’s unemployment policy hasn’t done him much good. He thought 
 
 Huggins said he’s worried about how disruptive the court case may be. He’s lost a day or two from work. More ominously, while he had hoped to raise his credit score enough to buy a house, a legal judgment against him could undo those plans. He and his stepkids are renting a place from a friend for now.
 
-“Who sends someone $1,200 in the mail that they don’t know nothing about except maybe their credit score?” he said. “It was postdated, good for a month. I guess they give you a month to sit around and look at it and everything else until you just convince yourself you really need that money. . . . “You think they’re helping you out — and what they’re doing is they’re sinking you further down,” he said. “They’re actually digging the hole deeper and pushing you further down.” <aside>Debtors can't rely on "help" from the finance industry. We need to get organized and fight back while helping ourselves and each other.</aside> 
+“Who sends someone $1,200 in the mail that they don’t know nothing about except maybe their credit score?” he said. “It was postdated, good for a month. I guess they give you a month to sit around and look at it and everything else until you just convince yourself you really need that money. . . . “You think they’re helping you out — and what they’re doing is they’re sinking you further down,” he said. “They’re actually digging the hole deeper and pushing you further down.” <(Debtors can't rely on "help" from the finance industry. We need to get organized and fight back while helping ourselves and each other.)> 

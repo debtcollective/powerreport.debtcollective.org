@@ -120,3 +120,5 @@ plugins:
 markdown: DebtCollective
 exclude:
 - ".circleci"
+redcarpet:
+  extensions: ["highlight"]

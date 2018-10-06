@@ -1,15 +1,16 @@
 class Jekyll::Converters::Markdown::DebtCollective
   def initialize(config)
-    require 'kramdown'
+    require 'redcarpet'
     @config = config
+    @markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, highlight: true, autolink: true)
   rescue LoadError
     STDERR.puts 'You are missing a library required for Markdown. Please run:'
-    STDERR.puts '  $ [sudo] gem install kramdown'
-    raise FatalException.new("Missing dependency: kramdown")
+    STDERR.puts '  $ [sudo] gem install redcarpet'
+    raise FatalException.new("Missing dependency: redcarpet")
   end
 
   def convert(content)
-    html = Kramdown::Document.new(content).to_html
+    html = @markdown.render(content)
 
     # This is obviously a hack, but it's the best way to make
     # sure the organizers don't have to worry about dumb
