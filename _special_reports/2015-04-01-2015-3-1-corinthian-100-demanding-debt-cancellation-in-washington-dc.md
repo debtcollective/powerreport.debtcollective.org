@@ -1,6 +1,8 @@
 ---
 title: Corinthian Strike Team Demands Debt Cancellation in Washington DC
 date: 2015-04-01 00:00:00 Z
+sub-title: 'In a historic meeting, for-profit borrowers met with officials from the
+  Department of Education and other agencies to demand debt relief. '
 ---
 
 ![alt](/assets/images/2015/04/group.jpg)
