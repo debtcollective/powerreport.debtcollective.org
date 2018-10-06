@@ -1,6 +1,8 @@
 ---
 title: Debt Collective Crashes Financial Aid Industry's Biggest Party
 date: 2015-07-29 00:00:00 Z
+sub-title: 'Student debt strikers disrupt the NASFAA conference parade to draw attention
+  to their demands. '
 youtube-id: J3fvv2z2W64
 ---
 
