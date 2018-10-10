@@ -103,7 +103,7 @@ description: The Debt Collective Power Report — Member Profiles, News Analysis
   on our work
 rss: rss
 discourse:
-  endpoint: https://community.debtsyndicate.org
+  endpoint: https://community.debtcollective.org
   paths:
     campaigns: "/campaigns"
     collectives: "/collectives"
@@ -111,7 +111,7 @@ discourse:
   roles:
     base: trust_level_0
 tools:
-  endpoint: https://tools.debtsyndicate.org
+  endpoint: https://tools.debtcollective.org
   paths:
     dispute-your-debt: "/dispute-tools"
     my-disputes: "/disputes/my"
