@@ -1,6 +1,6 @@
----
 title: The Debt Collective
 timezone: UTC
+favicon: https://s3.amazonaws.com/tds-static/img/debtcollective/0.0.1/favicon.png
 collections:
   artwork:
     title: Artwork
@@ -30,76 +30,77 @@ collections:
     output: true
     permalink: "/uploads/:path"
 defaults:
-- scope:
-    path: ''
-    type: special_reports
-  values:
-    layout: special-report
-    sub-title: 
-    author: 
-    youtube-id: 
-    image: 
-    image-description: 
-    summary: 
-- scope:
-    path: ''
-    type: news_analysis
-  values:
-    layout: news-analysis
-    sub-title: 
-    author: 
-    youtube-id: 
-    image: 
-    image-description: 
-    summary: 
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    author: 
-    sub-title: 
-    youtube-id: 
-    image: 
-    image-description: 
-    summary: 
-- scope:
-    path: ''
-    type: artwork
-  values:
-    layout: artwork
-    preview: link to a smaller version of the image to serve as fast loading preview
-    src: link to the full version of the image
-    artist: the artist's name
-    featured: false
-    description: A brief description to accompany the artwork and assist screen-readers
-- scope:
-    path: ''
-    type: letters
-  values:
-    layout: letter
-    author: 
-    sub-title: 
-    interviewee-picture: 
-- scope:
-    path: ''
-    type: profiles
-  values:
-    layout: profile
-    author: 
-    sub-title: 
-    interviewee-picture: 
-    youtube-id: 
-    video-description: 
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
+  - scope:
+      path: ""
+      type: special_reports
+    values:
+      layout: special-report
+      ? sub-title
+      ? author
+      ? youtube-id
+      ? image
+      ? image-description
+      ? summary
+  - scope:
+      path: ""
+      type: news_analysis
+    values:
+      layout: news-analysis
+      ? sub-title
+      ? author
+      ? youtube-id
+      ? image
+      ? image-description
+      ? summary
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      ? author
+      ? sub-title
+      ? youtube-id
+      ? image
+      ? image-description
+      ? summary
+  - scope:
+      path: ""
+      type: artwork
+    values:
+      layout: artwork
+      preview: link to a smaller version of the image to serve as fast loading preview
+      src: link to the full version of the image
+      artist: the artist's name
+      featured: false
+      description: A brief description to accompany the artwork and assist screen-readers
+  - scope:
+      path: ""
+      type: letters
+    values:
+      layout: letter
+      ? author
+      ? sub-title
+      ? interviewee-picture
+  - scope:
+      path: ""
+      type: profiles
+    values:
+      layout: profile
+      ? author
+      ? sub-title
+      ? interviewee-picture
+      ? youtube-id
+      ? video-description
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
 permalink: pretty
 author: The Debt Collective
 email: organizers@debtcollective.org
-description: The Debt Collective Power Report — Member Profiles, News Analysis, Updates
+description:
+  The Debt Collective Power Report — Member Profiles, News Analysis, Updates
   on our work
 rss: rss
 discourse:
@@ -116,10 +117,10 @@ tools:
     dispute-your-debt: "/dispute-tools"
     my-disputes: "/disputes/my"
 plugins:
-- jekyll-seo-tag
+  - jekyll-seo-tag
 markdown: DebtCollective
 exclude:
-- ".circleci"
+  - ".circleci"
 redcarpet:
   extensions:
-  - highlight
+    - highlight
