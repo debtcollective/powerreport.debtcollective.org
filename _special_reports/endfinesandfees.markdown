@@ -1,6 +1,6 @@
 ---
-title: Debt Collective participates in statewide campaign to eliminate fines, fees
-  and bail in California
+title: Debt Collective joins statewide campaign to eliminate fines, fees and bail
+  in California
 date: 2018-10-31 17:55:00 Z
 sub-title: 'The launch event was held at Chuco’s Justice Center in Inglewood, CA '
 image: "/uploads/fines%20and%20fees%201.JPG"
