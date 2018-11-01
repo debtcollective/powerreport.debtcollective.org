@@ -17,7 +17,7 @@ People exiting the criminal justice system are often charged thousands of dollar
 
 Many people can’t get their records cleared or access stable jobs and housing until this debt is paid, which can take years. Court debt, or what we prefer to call **human caging system debt**, drives whole families to spend years trying to dig themselves out from under mountains of bills. 
 
-These fees shackle people with debt well after they’ve served their time.
+These fees shackle people with debt well after they’ve served their time. They should be eliminated across the board. 
 
 **What Happened at the Event**
 
