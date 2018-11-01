@@ -48,7 +48,7 @@ A memorial to Kalief Browder who committed suicide after being incarcerated.
 
 All those targeted by the human caging system described wanting to make a life with little support. Many were dealing with the shame and anger that comes from struggling with multiple kinds of debt, including medical debt, housing debt, predatory payday loans, subprime auto loans, and defaulted credit card debt. 
 
-We even met one woman who went to for-profit Everest College which, as Debt Collective members know, had a long history of scamming students. This former Corinthian had yet to learn about [Defense To Repayment](https://tools.debtcollective.org/defense-to-repayment), the law that says you have a right to debt relief if your school defrauded you. Debt Collective organizers shared that information to get her on the path to disputing her federal student loans. 
+Debt Collective even met one woman who went to for-profit Everest College which, as our members know, had a long history of scamming students. This former Corinthian had yet to learn about [Defense To Repayment](https://tools.debtcollective.org/defense-to-repayment), the law that says you have a right to debt relief if your school defrauded you. Debt Collective organizers shared that information to get her on the path to disputing her federal student loans. 
 
 The convening featured a “living library” where people shared stories of how human caging system debt had impacted them and their families, panel discussions on bail debt and fines and fees, and a participatory activity around jail abolition vs. jail reform. During this part of the event the Debt Collective and several pro bono lawyers worked with individuals to help them join [our new online platform](debtcollective.org) and begin the process of disputing their bail debts and all the other debts that make their lives impossible to live. 
 
@@ -59,5 +59,5 @@ People affected by the human caging system attend a Board of Supervisors meeting
 
 At the meeting both young people and adults testified to the board of supervisors on how their families had to choose between medical care, a roof over their heads or human caging system debt. One person testified that getting already-poor people to pay these debts was like “squeezing blood from a turnip.” 
 
-The campaign for abolishing fines and fees and bail in California continues, and the Debt Collective is proud to be part of the coalition. 
+The campaign for abolishing fines and fees and bail in California continues. We know we can win state-wide elimination of fines and fees because, in 2018, San Francisco became the first place in the country to completely eliminate these debts. By working with our allies, we can end fines and fees across the state - and more. 
 
