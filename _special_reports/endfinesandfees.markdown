@@ -8,7 +8,8 @@ image-description: 'Formerly incarcerated people and their families told stories
   enduring ongoing harassment by the courts in the form of fines and fees. '
 ---
 
-On October 29th and 30th The Debt Collective partnered with activist groups in Los Angeles including [Youth Justice Coalition](http://www.youth4justice.org/), [All of Us or None](https://www.prisonerswithchildren.org/our-projects/allofus-or-none/), [Homeboy Industries](https://www.homeboyindustries.org/), A [New Way of Life Reentry Project,](http://anewwayoflife.org/) [Community Coalition ](http://cocosouthla.org/)and more to launch a statewide campaign to eliminate fines, fees and bail in California. 
+On October 29th and 30th The Debt Collective partnered with activist groups in Los Angeles including [Youth Justice Coalition](http://www.youth4justice.org/), [All of Us or None](https://www.prisonerswithchildren.org/our-projects/allofus-or-none/), [Homeboy Industries](https://www.homeboyindustries.org/), 
+[A New Way of Life Reentry Project,](http://anewwayoflife.org/) [Community Coalition ](http://cocosouthla.org/)and more to launch a statewide campaign to eliminate fines, fees and bail in California. 
 
 With rallying cries of Freedom Should Be Free, and Debt Free Justice, the event was held at Chuco’s Justice Center in Inglewood, CA. Most organizers and participants--young and old--were people whose lives have been deeply affected by the human caging system and who are now dealing with often insurmountable debts. 
 
