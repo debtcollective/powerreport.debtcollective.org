@@ -19,15 +19,6 @@ Many people can’t get their records cleared or access stable jobs and housing 
 
 These fees shackle people with debt well after they’ve served their time.
 
->Human Caging Debt By the Numbers
->•	Probation fees for a 5-year term of probation: $9,300
->•	Pre-sentence report fee: $696
->•	Late payment fee (civil assessment): $300
->•	Installment plan fee: $30
->•	Public defender and investigator fees for a felony plea 
-        bargain: $305 - $2,3991. 
-
-
 **What Happened at the Event**
 
 The Debt Collective helped organize the campaign launch event. With rallying cries of 'Freedom Should Be Free' and 'Debt Free Justice,' the event was held at Chuco’s Justice Center in Inglewood, CA. Most organizers and participants--young and old--were people whose lives have been deeply affected by the human caging system and who are now dealing with often insurmountable debts. 
