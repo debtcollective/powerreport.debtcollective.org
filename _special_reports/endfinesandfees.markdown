@@ -42,7 +42,7 @@ One young woman’s mother was sick when her daughter got in trouble with the sy
 Everyone explained how they experienced the criminalization of poverty: when you get out, you have debt and you can’t get a job because no one will hire people just getting out of jail. Often your driver license is also suspended. Many people talked about feeling like the fines and fees and their inability to get jobs together pushed them back to the streets to find money by any means necessary. 
 
 ![Kalief Browder Memorial](/uploads/fines%20and%20fees%204.JPG)
-A memorial to Kalief Browder who committed suicide after being incarcerated on Rikers Island. 
+A memorial to Kalief Browder who committed suicide after being incarcerated. 
 
 All those targeted by the human caging system described wanting to make a life with little support. Many were dealing with the shame and anger that comes from struggling with multiple kinds of debt, including medical debt, housing debt, predatory payday loans, subprime auto loans, and defaulted credit card debt. 
 
