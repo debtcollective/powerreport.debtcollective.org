@@ -16,6 +16,7 @@ With rallying cries of 'Freedom Should Be Free,' and 'Debt Free Justice,' the ev
 Young people shared stories of their parents being charged thousands of dollars for mandated ankle bracelets and community service (yes, paying for community service). Most families did not have thousands of dollars available. They often borrowed money in an effort to pay or continued to endure ongoing harassment by the courts in the form of fines and fees as well as late fees and penalties. 
 
 ![Artwork at launch event](/uploads/fines%20and%20fees%207.JPG)
+Artwork at the launch event. 
 
 One young woman’s mother was sick when her daughter got in trouble with the system. She simply could not afford her own medical care and her daughter’s fines and fees at the same time. Another man who had been incarcerated for fifteen years recounted that his fines and fees while inside caused his mother to lose their family home. Still others told stories about how the system steals both freedom and money from impoverished, mostly black and brown communities: people are paying fees and fines not only to the court system (the state) but also to immigrant detention facilities (usually privately run, for-profit companies). 
 
