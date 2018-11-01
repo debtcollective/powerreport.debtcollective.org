@@ -25,7 +25,7 @@ These fees shackle people with debt well after they’ve served their time.
 •	Late payment fee (civil assessment): **$300**
 •	Installment plan fee: **$30**
 •	Public defender and investigator fees for a felony plea 
-        bargain: $305 - $2,3991. </div>
+        bargain: **$305 - $2,3991**. </div>
 
 
 **What Happened at the Event**
