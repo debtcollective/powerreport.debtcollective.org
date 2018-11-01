@@ -13,7 +13,7 @@ On October 29th and 30th The Debt Collective partnered with activist groups in L
 
 With rallying cries of 'Freedom Should Be Free,' and 'Debt Free Justice,' the event was held at Chuco’s Justice Center in Inglewood, CA. Most organizers and participants--young and old--were people whose lives have been deeply affected by the human caging system and who are now dealing with often insurmountable debts. 
 
-![speak outs at launch event](/uploads/fines%20and%20fees%207.JPG)
+![Artwork at launch event](/uploads/fines%20and%20fees%207.JPG)
 
 Young people shared stories of their parents being charged thousands of dollars for mandated ankle bracelets and community service (yes, paying for community service). Most families did not have thousands of dollars available. They often borrowed money in an effort to pay or continued to endure ongoing harassment by the courts in the form of fines and fees as well as late fees and penalties. 
 
@@ -21,7 +21,7 @@ One young woman’s mother was sick when her daughter got in trouble with the sy
 
 Everyone explained how they experienced the criminalization of poverty: when you get out, you have debt and you can’t get a job because no one will hire people just getting out of jail. Often your driver license is also suspended. Many people talked about feeling like the fines and fees and their inability to get jobs together pushed them back to the streets to find money by any means necessary. 
 
-![art at launch event](/uploads/fines%20and%20fees%204.JPG)
+![Kalief Browder Memorial](/uploads/fines%20and%20fees%204.JPG)
 
 All those targeted by the human caging system described wanting to make a life and few had the support and the ability to do so. Many were dealing with the shame and anger that comes from struggling with multiple kinds of debt, including medical debt, housing debt, predatory payday loans, subprime auto loans, and defaulted credit card debt. 
 
