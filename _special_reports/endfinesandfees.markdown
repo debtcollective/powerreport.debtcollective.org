@@ -22,6 +22,7 @@ One young woman’s mother was sick when her daughter got in trouble with the sy
 Everyone explained how they experienced the criminalization of poverty: when you get out, you have debt and you can’t get a job because no one will hire people just getting out of jail. Often your driver license is also suspended. Many people talked about feeling like the fines and fees and their inability to get jobs together pushed them back to the streets to find money by any means necessary. 
 
 ![Kalief Browder Memorial](/uploads/fines%20and%20fees%204.JPG)
+A memorial to Kalief Browder who committed suicide after being incarcerated on Rikers Island. 
 
 All those targeted by the human caging system described wanting to make a life and few had the support and the ability to do so. Many were dealing with the shame and anger that comes from struggling with multiple kinds of debt, including medical debt, housing debt, predatory payday loans, subprime auto loans, and defaulted credit card debt. 
 
@@ -32,6 +33,7 @@ The convening featured a “living library” where people shared stories of how
 The day ended with action planning for a press conference the next day as well as a public comment period at the LA Board of Supervisors meeting. 
 
 ![Board of Supervisors meeting](/uploads/fines%20and%20fees%203.JPG)
+People affected by the human caging system attend a Board of Supervisors meeting. 
 
 At the meeting both young people and adults testified to the board of supervisors on how their families had to choose between medical care and human caging system debt, a roof over their heads and human caging system debt. One person testified that getting already-poor people to pay these debts was like “squeezing blood from a turnip.” 
 The campaign for abolishing fines and fees and bail in California continues, and the Debt Collective is proud to be part of the coalition. 
