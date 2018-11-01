@@ -36,6 +36,7 @@ The day ended with action planning for a press conference the next day as well a
 ![Board of Supervisors meeting](/uploads/fines%20and%20fees%203.JPG)
 People affected by the human caging system attend a Board of Supervisors meeting. 
 
-At the meeting both young people and adults testified to the board of supervisors on how their families had to choose between medical care and human caging system debt, a roof over their heads and human caging system debt. One person testified that getting already-poor people to pay these debts was like “squeezing blood from a turnip.” 
+At the meeting both young people and adults testified to the board of supervisors on how their families had to choose between medical care, a roof over their heads or human caging system debt. One person testified that getting already-poor people to pay these debts was like “squeezing blood from a turnip.” 
+
 The campaign for abolishing fines and fees and bail in California continues, and the Debt Collective is proud to be part of the coalition. 
 
