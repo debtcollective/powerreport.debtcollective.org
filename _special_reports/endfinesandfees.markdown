@@ -18,13 +18,14 @@ Many people can’t get their records cleared or access stable jobs and housing 
 
 These fees shackle people with debt well after they’ve served their time.
 
-##  * By the Numbers*
+<div class="boxBorder">
+**Human Caging Debt By the Numbers**
 •	Probation fees for a 5-year term of probation: **$9,300**
 •	Pre-sentence report fee: **$696**
 •	Late payment fee (civil assessment): **$300**
 •	Installment plan fee: **$30**
 •	Public defender and investigator fees for a felony plea 
-        bargain: $305 - $2,3991.** ##
+        bargain: $305 - $2,3991. </div>
 
 
 **What Happened at the Event**
