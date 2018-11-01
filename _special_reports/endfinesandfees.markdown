@@ -4,8 +4,7 @@ title: Debt Collective joins statewide campaign to eliminate fines, fees and bai
 date: 2018-10-31 17:55:00 Z
 sub-title: 'The launch event was held at Chuco’s Justice Center in Inglewood, CA '
 image: "/uploads/fines%20and%20fees%201.JPG"
-image-description: 'Formerly incarcerated people and their families tell stories of
-  enduring ongoing harassment by the courts in the form of fines and fees. '
+image-description: People impacted by human caging debt tell their stories.
 ---
 
 On October 29th and 30th the Debt Collective partnered with activist groups in Los Angeles including [Youth Justice Coalition](http://www.youth4justice.org/), [All of Us or None](https://www.prisonerswithchildren.org/our-projects/allofus-or-none/), [Homeboy Industries](https://www.homeboyindustries.org/), 
