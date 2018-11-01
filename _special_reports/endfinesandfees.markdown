@@ -13,7 +13,7 @@ On October 29th and 30th the Debt Collective partnered with activist groups in L
 
 **Why Fight Back Against Court Debt and Bail?**
 
-People exiting the criminal justice system are often charged thousands of dollars in administrative “fees.” The goal of these fees is to raise revenue, not to punish, since people have already served time, paid fines, or faced other consequences. But the vast majority of those charged these fees can’t afford to pay them.
+People exiting the criminal justice system are often charged thousands of dollars in administrative fees which are really just predatory debts. The goal of such fees is to raise revenue, not to punish, since people have already served time, paid fines, or faced other consequences. But the vast majority of those charged these fees can’t afford to pay them.
 
 Many people can’t get their records cleared or access stable jobs and housing until this debt is paid, which can take years. Court debt, or what we prefer to call human caging system debt, drives whole families to spend years trying to dig themselves out from under mountains of bills. 
 
