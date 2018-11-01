@@ -25,7 +25,7 @@ Everyone explained how they experienced the criminalization of poverty: when you
 ![Kalief Browder Memorial](/uploads/fines%20and%20fees%204.JPG)
 A memorial to Kalief Browder who committed suicide after being incarcerated on Rikers Island. 
 
-All those targeted by the human caging system described wanting to make a life and few had the support and the ability to do so. Many were dealing with the shame and anger that comes from struggling with multiple kinds of debt, including medical debt, housing debt, predatory payday loans, subprime auto loans, and defaulted credit card debt. 
+All those targeted by the human caging system described wanting to make a life with little support. Many were dealing with the shame and anger that comes from struggling with multiple kinds of debt, including medical debt, housing debt, predatory payday loans, subprime auto loans, and defaulted credit card debt. 
 
 We even met one woman who went to for-profit Everest College which, as Debt Collective members know, had a long history of scamming students. This former Corinthian had yet to learn about [Defense To Repayment](https://tools.debtcollective.org/defense-to-repayment), the law that says you have a right to debt relief if your school defrauded you. Debt Collective organizers shared that information with her to get her on the path to disputing her federal student loans. 
 
