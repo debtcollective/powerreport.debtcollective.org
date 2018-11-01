@@ -12,7 +12,7 @@ On October 29th and 30th The Debt Collective partnered with activist groups in L
 
 With rallying cries of Freedom Should Be Free, and Debt Free Justice, the event was held at Chuco’s Justice Center in Inglewood, CA. Most organizers and participants--young and old--were people whose lives have been deeply affected by the human caging system and who are now dealing with often insurmountable debts. 
 
-[fines and fees 7.JPG](/uploads/fines%20and%20fees%207.JPG)
+![speak outs at launch event](/uploads/fines%20and%20fees%207.JPG)
 
 Young people shared stories of their parents being charged thousands of dollars for mandated ankle bracelets and community service (yes, paying for community service). Most families did not have thousands of dollars available and often borrowed money in an effort to pay or continue to endure ongoing harassment by the courts in the form of fines and fees as well as late fees and penalties. 
 
