@@ -8,16 +8,25 @@ image-description: 'Formerly incarcerated people and their families told stories
   enduring ongoing harassment by the courts in the form of fines and fees. '
 ---
 
-On October 29th and 30th The Debt Collective partnered with activist groups in Los Angeles including [Youth Justice Coalition](http://www.youth4justice.org/), [All of Us or None](https://www.prisonerswithchildren.org/our-projects/allofus-or-none/), [Homeboy Industries](https://www.homeboyindustries.org/), 
+On October 29th and 30th the Debt Collective partnered with activist groups in Los Angeles including [Youth Justice Coalition](http://www.youth4justice.org/), [All of Us or None](https://www.prisonerswithchildren.org/our-projects/allofus-or-none/), [Homeboy Industries](https://www.homeboyindustries.org/), 
 [A New Way of Life Reentry Project,](http://anewwayoflife.org/) [Community Coalition ](http://cocosouthla.org/)and more to launch a statewide campaign to eliminate fines, fees and bail in California. 
 
-With rallying cries of 'Freedom Should Be Free' and 'Debt Free Justice,' the event was held at Chuco’s Justice Center in Inglewood, CA. Most organizers and participants--young and old--were people whose lives have been deeply affected by the human caging system and who are now dealing with often insurmountable debts. 
+**Why Fight Back Against Court Debt and Bail?**
+People exiting the criminal justice system are often charged thousands of dollars in administrative “fees.” The goal of these fees is to raise revenue, not to punish, since people have already served time, paid fines, or faced other consequences. But the vast majority of those charged these fees can’t afford to pay them.
+
+Many people can’t get their records cleared or access stable jobs and housing until this debt is paid, which can take years. Court debt, or what we prefer to call human caging system debt, drives whole families to spend years trying to dig themselves out from under mountains of bills. 
+
+These fees shackle people with debt well after they’ve served their time.
+
+**What Happened at the Event**
+The Debt Collective helped organize the campaign launch event. With rallying cries of 'Freedom Should Be Free' and 'Debt Free Justice,' the event was held at Chuco’s Justice Center in Inglewood, CA. Most organizers and participants--young and old--were people whose lives have been deeply affected by the human caging system and who are now dealing with often insurmountable debts. 
 
 Young people shared stories of their parents being charged thousands of dollars for mandated ankle bracelets and community service (yes, paying for community service). Most families did not have thousands of dollars available. They often borrowed money in an effort to pay or continued to endure ongoing harassment by the courts in the form of fines and fees as well as late fees and penalties. 
 
 ![Artwork at launch event](/uploads/fines%20and%20fees%207.JPG)
 Artwork at the launch event. 
 
+**Stories of Unjust Debts and the Criminalization of Poverty**
 One young woman’s mother was sick when her daughter got in trouble with the system. She simply could not afford her own medical care and her daughter’s fines and fees at the same time. Another man who had been incarcerated for fifteen years recounted that his fines and fees while inside caused his mother to lose their family home. Still others told stories about how the system steals both freedom and money from impoverished, mostly black and brown communities: people are paying fees and fines not only to the court system (the state) but also to immigrant detention facilities (usually privately run, for-profit companies). 
 
 Everyone explained how they experienced the criminalization of poverty: when you get out, you have debt and you can’t get a job because no one will hire people just getting out of jail. Often your driver license is also suspended. Many people talked about feeling like the fines and fees and their inability to get jobs together pushed them back to the streets to find money by any means necessary. 
