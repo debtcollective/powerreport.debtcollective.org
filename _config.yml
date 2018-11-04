@@ -99,7 +99,7 @@ defaults:
 favicon: https://s3.amazonaws.com/tds-static/img/debtcollective/0.0.1/favicon.png
 permalink: pretty
 author: The Debt Collective
-email: organizers@debtcollective.org
+email: admin@debtcollective.org
 description: The Debt Collective Power Report — Member Profiles, News Analysis, Updates
   on our work
 rss: rss
