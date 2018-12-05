@@ -4,7 +4,7 @@ date: 2018-12-05 12:52:00 Z
 author: Debt Collective
 sub-title: 'Debtor organizing  leads to cancellation of millions in "temporary credits"
   owed to the school. '
-image: "/uploads/ITT-banner.jpg"
+image: "/uploads/Warriors_logo.png"
 image-description: 'Former ITT Tech students have been on strike since 2016. '
 ---
 
