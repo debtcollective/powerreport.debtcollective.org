@@ -8,6 +8,7 @@ image: "/uploads/image.jpg"
 image-description: 'Former ITT Tech students have been on strike since 2016. '
 ---
 
+![ITT-banner-ef2f54.jpg](/uploads/ITT-banner-ef2f54.jpg)
 A federal judge has approved a settlement confirming that 750,000 former students were cheated by the company and canceling every dollar of student debt held by the for-profit-school. This is a **huge** victory. It means that 750,000 students who will not have to pay unpaid tuition. 
 
 **What does this mean for former ITT students?**
