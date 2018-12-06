@@ -40,7 +40,7 @@ Private loans are different than the “temporary credits” because they are no
 
 There will continue to be legal cases related to ITT and borrower defense to repayment. Like the ITT bankruptcy procedure itself, these cases will take a long time to work their way through the courts and the results are never assured.
 
-In the meantime the Debt Collective is organizing with state attorneys general to file class wide discharges. [You can join that campaign here](https://community.debtcollective.org/t/national-attorney-general-action/1738/25).
+In the meantime the Debt Collective is organizing with state attorneys general to file class wide discharges. Step on is to make an account on [our platform](debtcollective.org) listing for-profit college debt as a type of debt that you have. Once you have an account, you will be able to access the AG campaign on our community page. 
 
 It is important to remember that people used to laugh when we said we wanted to organize a student debt strike to abolish all student debt. They aren’t laughing anymore.There are now members of congress elected on an explicit platform of student debt cancellation. We have come so far. There is still a long ways to go and there will be many victories to celebrate along the way. These victories are sweet and we should celebrate them. Now go tell your friends to dispute their debts and get involved!
 
