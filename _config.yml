@@ -6,6 +6,9 @@ collections:
     title: Artwork
     output: true
     permalink: "/artwork/:name/"
+  current-actions:
+    title: Current Actions
+    output: true
   letters:
     title: Letters
     output: true
