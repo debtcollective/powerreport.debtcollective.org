@@ -4,16 +4,8 @@
       <div class="Footer__list col-lg-2 col-md-3 col-sm-6 col-6">
         <h6 class="Footer__list-head">Organize</h6>
         <div class="Footer__list-item">
-          <a href="{{ endpoint | append: paths.collectives }}">Collectives</a>
+          <a href="{{ endpoint }}">Community</a>
         </div>
-        <div class="Footer__list-item">
-          <a href="{{ endpoint | append: paths.campaigns }}">Campaigns</a>
-        </div>
-        <!-- uncomment when the debt map is ready! https://github.com/debtcollective/parent/issues/155#issuecomment-396116381
-        <div class="Footer__list-item">
-          <a href="#debt-map">Debt Map</a>
-        </div>
-        -->
       </div>
       <div class="Footer__list col-lg-2 col-md-3 col-sm-6 col-6">
         <h6 class="Footer__list-head">Take Action</h6>
@@ -21,22 +13,17 @@
           <a href="{{ endpoint | append: paths.events }}">Events</a>
         </div>
         <div class="Footer__list-item">
-          <a href="https://tools.debtcollective.org/dispute-tools">Dispute your Debt</a>
-        </div>
-        <div class="Footer__list-item">
-          <a href="{{ endpoint | append: paths.campaigns }}">Campaigns</a>
+          <a href="https://tools.debtcollective.org/dispute-tools"
+            >Dispute your Debt</a
+          >
         </div>
       </div>
       <div class="Footer__list col-lg-2 col-md-3 col-sm-6 col-6">
         <h6 class="Footer__list-head">Learn</h6>
+        <div class="Footer__list-item"><a href="/">The Power Report</a></div>
+        <div class="Footer__list-item"><a href="/about">About Us</a></div>
         <div class="Footer__list-item">
-          <a href="/">The Power Report</a>
-        </div>
-        <div class="Footer__list-item">
-          <a href="/about">About Us</a>
-        </div>
-        <div class="Footer__list-item">
-          <a href="https://wiki.debtcollective.org">Community Wiki</a>
+          <a href="https://wiki.debtcollective.org">Wiki</a>
         </div>
       </div>
       <div class="Footer__list col-lg-2 col-md-3 col-sm-6 col-6">
@@ -58,13 +45,17 @@
     <div class="row">
       <div class="col-lg-2 col-md-3 col-sm-12 col-12 Footer__brand-logo">
         <a href="/">
-          <img src="https://s3.amazonaws.com/tds-static/img/debtcollective/0.0.1/DC-logo_FULL_DARK_CUTOUTfoot_@3x.png" alt="The Debt Collective"
+          <img
+            src="https://s3.amazonaws.com/tds-static/img/debtcollective/0.0.1/DC-logo_FULL_DARK_CUTOUTfoot_@3x.png"
+            alt="The Debt Collective"
           />
         </a>
       </div>
-      <div class="col-lg-10 col-md-9 col-sm-12 col-12 pt-3 Footer__brand-copy-and-tos">
+      <div
+        class="col-lg-10 col-md-9 col-sm-12 col-12 pt-3 Footer__brand-copy-and-tos"
+      >
         <div class="Footer__brand-copyright">
-          Copyright {{ 'now' | date: "%Y" }}
+          Copyright {{ "now" | date: "%Y" }}
         </div>
         <div class="Footer__brand-tos">
           <a href="/tos">Terms and Conditions</a>

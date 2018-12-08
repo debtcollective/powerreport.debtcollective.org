@@ -1,27 +1,36 @@
-{% assign paths = site.discourse.paths %}
-{% assign endpoint = site.discourse.endpoint %}
-{% assign toolsEndpoint = site.tools.endpoint %}
-{% assign toolsPaths = site.tools.paths %}
+{% assign paths = site.discourse.paths %} {% assign endpoint =
+site.discourse.endpoint %} {% assign toolsEndpoint = site.tools.endpoint %} {%
+assign toolsPaths = site.tools.paths %}
 
 <div id="debt-collective-header"></div>
-<script>; Vue.component(DebtCollectiveHeader.name, DebtCollectiveHeader); new Vue({
-    el: '#debt-collective-header', render: function (h) {
-      return h('debt-collective-header', {
+<script>
+  Vue.component(DebtCollectiveHeader.name, DebtCollectiveHeader);
+  new Vue({
+    el: "#debt-collective-header",
+    render: function(h) {
+      return h("debt-collective-header", {
         attrs: {
-          'header-links': [
-            { href: '{{ toolsEndpoint | append: toolsPaths.dispute-your-debt }}', text: 'Dispute Your Debt' },
-            { href: '{{ endpoint }}', text: 'Campaigns' },
-            { href: '{{ endpoint | append: paths.events }}', text: 'Events' },
-            { href: '{{ toolsEndpoint | append: toolsPaths.my-disputes }}', text: 'My Disputes', roles: ['{{ site.discourse.roles.base }}'] }
+          "header-links": [
+            {
+              href:
+                "{{ toolsEndpoint | append: toolsPaths.dispute-your-debt }}",
+              text: "Dispute Your Debt"
+            },
+            { href: "{{ endpoint }}", text: "Community" },
+            { href: "{{ endpoint | append: paths.events }}", text: "Events" }
           ],
-          'dropdown-links': [
-            { href: '/', text: 'The Power Report' },
-            { href: 'http://wiki.debtcollective.org/', text: 'Community Wiki' },
-            { href: 'https://debtcollective.org#about', text: 'About the Debt Collective' },
+          "dropdown-links": [
+            { href: "/", text: "The Power Report" },
+            { href: "http://wiki.debtcollective.org/", text: "Wiki" },
+            {
+              href: "https://debtcollective.org#about",
+              text: "About the Debt Collective"
+            }
           ],
-          'discourse-endpoint': '{{ endpoint }}',
-          'tools-endpoint': '{{ toolsEndpoint }}'
+          "discourse-endpoint": "{{ endpoint }}",
+          "tools-endpoint": "{{ toolsEndpoint }}"
         }
-      })
+      });
     }
-  });</script>
+  });
+</script>
