@@ -7,3 +7,12 @@ p.nav-item-wrapper {
 .Header {
   z-index: 3 !important;
 }
+
+// Bootstrap is leaking styles to the header
+.Header__link-list {
+  margin-bottom: 0;
+
+  .nav-link {
+    padding: 0;
+  }
+}
