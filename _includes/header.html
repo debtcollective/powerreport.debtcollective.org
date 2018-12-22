@@ -17,11 +17,11 @@ assign toolsPaths = site.tools.paths %}
               text: "Dispute Your Debt"
             },
             { href: "{{ endpoint }}", text: "Community" },
-            { href: "{{ endpoint | append: paths.events }}", text: "Events" }
+            { href: "{{ endpoint | append: paths.events }}", text: "Events" },
+            { href: "/", text: "The Power Report" },
+            { href: "http://tools.debtcollective.org/donate", text: "Donate" }
           ],
           "dropdown-links": [
-            { href: "/", text: "The Power Report" },
-            { href: "http://wiki.debtcollective.org/", text: "Wiki" },
             {
               href: "https://debtcollective.org#about",
               text: "About the Debt Collective"
