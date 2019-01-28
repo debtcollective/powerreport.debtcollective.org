@@ -1,5 +1,6 @@
 ---
-title: Debt Collective Participates in Celebration of the Life of MLK
+title: Debt Collective Participates in Celebration of the Life of Dr. Martin Luther
+  King, Jr.
 date: 2019-01-28 17:52:00 Z
 ---
 
