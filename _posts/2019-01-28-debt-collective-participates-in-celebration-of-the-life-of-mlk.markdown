@@ -7,7 +7,7 @@ date: 2019-01-28 17:52:00 Z
 In celebration of the life and work of Dr. Martin Luther King Jr., local community organizations, artists, radio stations and groups like the Debt Collective joined together in Leimert Park Village in Los Angeles at the 2019 Freedom Festival. The event was hosted by Council member Marqueece Harris-Dawson office of the City of Los Angeles.  
 
 ![you are not a loan.jpg](/uploads/debt%20collective%20mlk%20day.jpg)
-Standing as a beacon of truth to fellow debtors stopping by to learn more on how to fight back.
+Helping fellow debtors learn more about how to fight back.
 
 The day was filled with warm weather and music. Friends and family walked around the park to greet and speak with different vendors. Those that stopped at the Debt Collective booth learned how to access free tools for disputing debts that are in collection and errors on credit reports. They also learned how to get support on questions related to student debt. Many passersby gave a warm smile when they read our sign: “You are not a loan”.
 
