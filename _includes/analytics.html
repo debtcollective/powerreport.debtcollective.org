@@ -1,0 +1,18 @@
+{% assign gaUA = site.google_analytics_ua %}
+
+<!-- analytics.js-->
+<script>
+  window.ga =
+    window.ga ||
+    function() {
+      (ga.q = ga.q || []).push(arguments);
+    };
+  ga.l = +new Date();
+  ga("create", "{{gaUA}}", "auto");
+  ga("send", "pageview");
+</script>
+
+<script
+  async="async"
+  src="https://www.google-analytics.com/analytics.js"
+></script>
