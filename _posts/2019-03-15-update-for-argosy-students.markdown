@@ -1,6 +1,7 @@
 ---
 title: Update for Argosy Students
 date: 2019-03-15 17:18:00 Z
+sub-title: How to Preserve Your Right to a Closed School Discharge.
 ---
 
 
@@ -21,3 +22,4 @@ Be aware that in the past we have seen many scammers who try to get former for-p
 Finally, until your school appears [as an officially closed school on the DOE website](https://www2.ed.gov/offices/OSFAP/PEPS/closedschools.html), you can’t apply for a closed school discharge. 
 
 The Debt Collective is in solidarity with all former Dream Center students. We will fight, collectively, for debt relief for everyone. Join our platform to share your story and learn more. 
+__________________________________________________
