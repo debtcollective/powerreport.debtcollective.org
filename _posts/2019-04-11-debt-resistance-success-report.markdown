@@ -26,6 +26,7 @@ With Nadine’s help, the Debt Collective wrote a letter to Congress’s Educati
 The following week, Rep. Levin of MI referenced Nadine’s story during a Congressional hearing in which Education Sec. Betsy Devos was grilled over her blatant disregard for borrowers’ rights.
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/GOSrVmbmQ6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(The relevant clip is at 4 hours and 26 min.)
  
 The next day, Nadine received a letter from Navient confirming that her loans would be placed in forbearance. She is finally safe from collections – for now.
  
