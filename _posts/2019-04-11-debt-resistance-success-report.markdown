@@ -1,6 +1,8 @@
 ---
 title: Debt Resistance Success Report
 date: 2019-04-11 15:56:00 Z
+tags:
+- success
 ---
 
 It’s important to celebrate the individual victories while we fight for debt relief for everyone.
