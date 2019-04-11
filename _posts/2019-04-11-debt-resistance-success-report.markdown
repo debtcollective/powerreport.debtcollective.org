@@ -21,8 +21,7 @@ The good news is that Nadine fought back and won.
  
 With Nadine’s help, the Debt Collective wrote a letter to Congress’s Education and Labor committee outline Nadine’s case (among those of other Debt Collective members). Nadine received a refund of her garnished wages almost immediately after this letter was submitted. 
  
-![Refund for wage garnishment.jpg](/uploads/Refund%20for%20wage%20garnishment.jpg)
-Hooray!
+![Refund for wage garnishment2.jpg](/uploads/Refund%20for%20wage%20garnishment2.jpg)
  
 The following week, Rep. Levin of MI referenced Nadine’s story during a Congressional hearing in which Education Sec. Betsy Devos was grilled over her blatant disregard for borrowers’ rights.
 
