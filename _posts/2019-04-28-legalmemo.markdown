@@ -34,19 +34,19 @@ Two separate statutes—each with implementing regulations—set out the obligat
 
 **a.	Federal Claims Collection Act of 1966, as amended by the Debt Collection Improvement Act, 31 U.S.C. 3701 et seq.**
 
-§ 3701 Definitions: 
+**§ 3701 Definitions: **
 
 “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation, funds owed on account of loans made, insured, or guaranteed by the Government[.] 
 
 Federal student loan = claim of the United States.
 
-§ 3711 Collection and Compromise: 
+**§ 3711 Collection and Compromise: **
 
 The head of an executive, judicial, or legislative agency 
 
 may compromise a claim of the Government of not more than $100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe that has not been referred to another executive or legislative agency for further collection action[.] (a)(2)
 
-Each agency has complete authority to cancel a claim if it is under $100,000. But the agency can’t cancel a debt if it has been referred to another part of the government (like DOJ for litigation, or Treasury for offset) for collection.
+**Each agency has complete authority to cancel a claim if it is under $100,000. But the agency can’t cancel a debt if it has been referred to another part of the government (like DOJ for litigation, or Treasury for offset) for collection.**
 
 may suspend or end collection action on a claim referred to in clause (2) of this subsection when it appears that no person liable on the claim has the present or prospective ability to pay a significant amount of the claim or the cost of collecting the claim is likely to be more than the amount recovered. (a)(3)
 
@@ -63,37 +63,37 @@ Compromise is final but can be undone. Agency decision makers are not liable for
 
 **b.	Federal Claims Collection Standards (FCCS) (regulations of Department of Treasury & Department of Justice/Attorney General issued pursuant to 31 U.S.C. § 3711(d)(2))**
 
-§900.1 Prescription of Standards:
+**§900.1 Prescription of Standards:**
 
 Regulations prescribe standards for Federal agency use in the administrative collection, offset, compromise, and the suspension or termination of collection activity for civil claims…unless specific Federal agency statutes or regulations apply to such activities[.] (a)
 
 If there is a more specific agency statute or regulation on point, it controls the actions of that agency.
-
-§ 900.4 Compromise, waiver, or disposition under other statutes not precluded:
+**
+§ 900.4 Compromise, waiver, or disposition under other statutes not precluded:**
 
 Nothing precludes agency disposition of any claim under statutes and implementing regulations. The laws and regulations that are specifically applicable to claims collection activities of a particular agency generally take precedence over the FCCS.
 
 Same.
 
-§ 900.6 Subdivision of claims not authorized:
+**§ 900.6 Subdivision of claims not authorized:**
 
 Debts may not be subdivided to avoid the monetary ceiling. A debtor’s liability arising from a particular transaction or contract shall be considered a single debt in determining whether the debt is one of less than $100,000 (excluding interest, penalties, and administrative costs). 
 
 Multiple loans made under the same master promissory note would be treated as a single debt.
 
-§ 900.8 No private rights created:
+**§ 900.8 No private rights created:**
 	
 The FCCS do not create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, its officers, or any other person. Failure of agency to comply with FCCS is not a defense to a debt.
 
 Private citizens can’t sue the government for not following these regulations. 
 
-§ 902.1 Scope and Application (Standards for the Compromise of Claims):
+**§ 902.1 Scope and Application (Standards for the Compromise of Claims):**
 
 Any agency may exercise such compromise authority for debts arising out of activities of, or referred or transferred for collection services to, that agency when the amount of the debt then due, exclusive of interest, penalties, and administrative costs, does not exceed $100,000 or any higher amount authorized by the Attorney General. 
 
 Treasury and DOJ can compromise federal student loan debts if the Department has referred the account for collection/litigation, up to $100,000.
 
-§ 902.2 Bases for compromise:
+**§ 902.2 Bases for compromise:**
 
 Agencies may compromise a debt if the Government cannot collect the full amount because…the debtor is unable to pay the full amount in a reasonable time, as verified through credit reports or other financial information (a)(1)…the cost of collecting the debt does not justify the enforced collection of the full amount (a)(3), or there is significant doubt concerning the Government’s ability to prove its case in court (a)(4).
 
@@ -102,14 +102,14 @@ If there is significant doubt concerning the Government’s ability to prove its
 The “significant doubt” basis is the closest fit to borrower defense, although the language of (d) implies that compromise occurs in a litigation context.  
 
 
-§ 902.3 Enforcement policy:
+**§ 902.3 Enforcement policy:**
 
 Agencies may compromise statutory penalties, forfeitures, or claims established as an aid to enforcement and to compel compliance, if the agency’s enforcement policy in terms of deterrence and securing compliance, present and future, will be adequately served by the agency’s acceptance of the sum to be agreed upon.
 
 An empirical study of agency behavior in compromising/not pursuing statutory penalties it obtained in its enforcement activities shows that agencies do not collect these penalties. In the higher education context, the Department is authorized to levy fines and penalties on participating institutions for violating Department regulations (e.g., Corinthian was fined $15 million for misrepresentation). It’s interesting to put fines and penalties on the same plane as student loans and compare the Department’s actions. 
 
-
-§ 903.2 Suspension of Collection activity:
+**
+§ 903.2 Suspension of Collection activity:**
 
 Agencies may suspend collection activity on a debt when…the debtor has requested a waiver or review of the debt. (a)(3)
 
@@ -121,7 +121,7 @@ If the statute does not prohibit collection activity pending consideration of th
 
 The Department claims discretion to suspend collection while a borrower defense claim is pending. However, its imposition of a statute of limitations on refunds of amounts paid by a borrower who later establishes a borrower defense, means that it should not collect while a borrower defense application is pending. The Department’s continued collection implicitly suggests that it views borrower defense applications as frivolous. 
 
-§ 903.3 Termination of collection activity:
+**§ 903.3 Termination of collection activity:**
 
 Agencies may terminate collection activity when the costs of collection are anticipated to exceed the amount recoverable (a)(3), the debt is legally without merit or enforcement of the debt is barred by any applicable statute of limitations (a)(4), or the debt cannot be substantiated (a)(5).
 
@@ -129,7 +129,7 @@ Substantiation does not include resolution of affirmative defenses.
 
 § 3711 requires agencies to sell a delinquent nontax debt upon termination of collection if such a sale is in the best interests of the United States.
 
-§ 904.1 Prompt referral:
+**§ 904.1 Prompt referral:**
 
 Agencies shall promptly refer to the Department of Justice for litigation debts on which aggressive collection activity has been taken and that cannot be compromised, or on which collection activity cannot be suspended or terminated. Preferably within one year. (a)
 
@@ -138,9 +138,9 @@ DOJ has exclusive jurisdiction over the debts referred to it. The referring agen
 The Department’s PCA manuals address its parameters for referring student loan debts to DOJ for litigation, but it is only available in redacted form. However, publicly available information shows that less than 1000 student loan collection actions are initiated every year. A recent review of such complaints shows that they largely seek to collect defaulted FFEL consolidation loans. I have no idea what this means, but one way of reading it is as an acknowledgment that student loan debts can be compromised. 
 
 
-c.	Higher Education Act
+**c.	Higher Education Act**
 
-§ 1082 Legal powers and responsibilities:
+**§ 1082 Legal powers and responsibilities:**
 
 The Secretary may enforce, pay compromise, waive, or release any right, title, claim, lien, or demand, however acquired, including any equity or any right of redemption. (a)(6) (Part B, FFEL)
 
@@ -164,6 +164,7 @@ The Department’s compromise authority is not cabined to claims/debts under a c
 **e.	Common law
 **
 Even absent the statutory and regulatory authority identified above, the government has (and has always had) the authority to settle and compromise claims and debts.  Intuitively, the power to create debt includes the power to cancel it. However, there has been some question over the years as to which part of the government is authorized to exercise this power. On some theories, the Constitution gives to Congress the power to dispose of the property of the United States.  Article IV, section 3 provides that Congress “shall have power to dispose of and make all needful rules and regulations respecting the territory or other property belonging to the United States[.]”  This provision means that “[p]ower to release or otherwise dispose of the rights and property of the United States is lodged in Congress,” and thus “[s]ubordinate officers of the United States are without that power, save only as it has been conferred upon them by an Act of Congress or is to be implied from other powers.” Royal Indemnity Co. v. United States, 313 U.S. 289, 294 (1941).  The creation of the Attorney General by act of Congress has long been read to encompass the power to compromise claims of the United States, so much so that 
+
 “argument would seem to be unnecessary to prove his authority to dispose of…cases[.]” Confiscation Cases, 74 U.S. 454, 458 (1868); id. at 457 (“Under the rules of the common law it must be conceded that the prosecuting party may relinquish his suit at any stage of it….”).  
 
 Within the administrative state, agencies considered themselves powerless to compromise claims of the United States absent a specific congressional directive authorizing them to do so. Prior to the enactment of the Federal Claims Collections Act in 1966: 
