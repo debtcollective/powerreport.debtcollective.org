@@ -46,7 +46,7 @@ The head of an executive, judicial, or legislative agency
 
 may compromise a claim of the Government of not more than $100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe that has not been referred to another executive or legislative agency for further collection action[.] (a)(2)
 
-**Each agency has complete authority to cancel a claim if it is under $100,000. But the agency can’t cancel a debt if it has been referred to another part of the government (like DOJ for litigation, or Treasury for offset) for collection.**
+Each agency has complete authority to cancel a claim if it is under $100,000. But the agency can’t cancel a debt if it has been referred to another part of the government (like DOJ for litigation, or Treasury for offset) for collection.
 
 may suspend or end collection action on a claim referred to in clause (2) of this subsection when it appears that no person liable on the claim has the present or prospective ability to pay a significant amount of the claim or the cost of collecting the claim is likely to be more than the amount recovered. (a)(3)
 
