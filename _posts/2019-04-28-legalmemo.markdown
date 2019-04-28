@@ -10,7 +10,7 @@ date: 2019-04-28 18:45:00 Z
 April 28, 2019
 
 Re: Student Loan Cancellation
-From: Laura Hanna and Ann Larson, Co-directors and co-founders 
+From: Laura Hanna and Ann Larson, Co-directors and Co-founders 
 
 
 We believe it is time that the Department of Education use its authority to stop collections on federal student loans. Nothing in the law prevents the Secretary of Education from doing so.  
