@@ -9,17 +9,16 @@ date: 2019-04-28 18:45:00 Z
 
 April 28, 2019
 
+Re: Student Loan Cancellation
+From: Laura Hanna and Ann Larson, Co-directors and co-founders 
+
+
 We believe it is time that the Department of Education use its authority to stop collections on federal student loans. Nothing in the law prevents the Secretary of Education from doing so.  
 
 When it was first given the power to issue and collect student loans in 1958, the U.S. Department of Education also received the power to “compromise, waive, or release any right” to collect on them. This power is called “Compromise and Settlement” authority. When the Higher Education Act of 1965 made student loan authorities permanent, it solidified their power to compromise. Just as the Securities and Exchange Commission can cut low-dollar deals with banks that break the law, for example, the Secretary can settle with debtors for a fraction of what they owe or suspend the collection of student debt altogether. 
 
 Below you will find a detailed memo about this legal authority developed by the Debt Collective in collaboration with attorneys at the Project on Predatory Student Lending at the Legal Services Center at Harvard Law School. 
 
-
-Sincerely,
-Laura Hanna & Ann Larson
-Co-executive Directors and Co-founders
-Debtcollective.org
 
 
 **Compromise and Settlement of Student Loans**
