@@ -16,15 +16,13 @@ When it was first given the power to issue and collect student loans in 1958, th
 Below you will find a detailed memo about this legal authority developed by the Debt Collective in collaboration with attorneys at the Project on Predatory Student Lending at the Legal Services Center at Harvard Law School. 
 
 
-Sincerely, 
+Sincerely,
 Laura Hanna & Ann Larson
 Co-executive Directors and Co-founders
 Debtcollective.org
 
 
-
-
-**	Compromise and Settlement of Student Loans**
+**Compromise and Settlement of Student Loans**
 
 
 This memo addresses (I) the sources of authority for the federal government to cancel existing student loan debts; (II) identifies useful interpretive materials; (III) provides examples of student debt cancellation; and (IV) identifies possible arguments against the cancellation of student loans. 
