@@ -147,7 +147,7 @@ The Secretary may enforce, pay compromise, waive, or release any right, title, c
 This provision was added by the 1986 amendments to the HEA and was inserted in the FFEL section of the statute, but is read to apply to Direct Loans as well, as reflected in Department regulations.
 
 
-d.	Department of Education regulations
+**d.	Department of Education regulations**
 
 34 C.F.R. § 30.70 How Does the Secretary exercise discretion to compromise a debt or to suspend or terminate collection of a debt?
 
@@ -161,8 +161,8 @@ For non-student loan debts, the Secretary uses the standards of the FCCS. (a)-(c
 The Department’s compromise authority is not cabined to claims/debts under a certain amount, although the Department would ask DOJ’s view of a compromise/suspension/termination of a claim over $1,000,000. The Department does not look to FCCS for standards when it comes to student loan debts. Those are just entirely within its discretion (except if it has referred the debt to a different agency for litigation/collection).
 
 
-e.	Common law
-
+**e.	Common law
+**
 Even absent the statutory and regulatory authority identified above, the government has (and has always had) the authority to settle and compromise claims and debts.  Intuitively, the power to create debt includes the power to cancel it. However, there has been some question over the years as to which part of the government is authorized to exercise this power. On some theories, the Constitution gives to Congress the power to dispose of the property of the United States.  Article IV, section 3 provides that Congress “shall have power to dispose of and make all needful rules and regulations respecting the territory or other property belonging to the United States[.]”  This provision means that “[p]ower to release or otherwise dispose of the rights and property of the United States is lodged in Congress,” and thus “[s]ubordinate officers of the United States are without that power, save only as it has been conferred upon them by an Act of Congress or is to be implied from other powers.” Royal Indemnity Co. v. United States, 313 U.S. 289, 294 (1941).  The creation of the Attorney General by act of Congress has long been read to encompass the power to compromise claims of the United States, so much so that 
 “argument would seem to be unnecessary to prove his authority to dispose of…cases[.]” Confiscation Cases, 74 U.S. 454, 458 (1868); id. at 457 (“Under the rules of the common law it must be conceded that the prosecuting party may relinquish his suit at any stage of it….”).  
 
@@ -174,8 +174,8 @@ Within the administrative state, agencies considered themselves powerless to com
 
 
 **II.	Interpretive Materials**
-
-a.	United States Department of Justice, Justice Manual
+**
+a.	United States Department of Justice, Justice Manual**
 
 Read in conjunction with 28 C.F.R. §§ 0.160-0.17, Authority to Compromise and Close Civil Claims and Responsibility for Judgments, Fines, Penalties, and Forfeitures, which delimit the authority of Assistant Attorneys General to accept settlement offers.  Per these regs and the Justice Manual, 4-3.110, AAgs can accept compromises in civil cases where the difference between the gross amount of the original claim and the proposed settlement does not exceed $10 million or 15% of the original claim, whichever is greater. 
 
@@ -193,7 +193,7 @@ OMB is responsible for monitoring agency conformance with FCRA; reviewing agency
 Departments and agencies shall manage credit programs and all non-tax receivables in accordance with their statutory authorities and the provisions of this Circular to protect the Government’s assets and to minimize losses in relation to social benefits provided. 
 
 
-d.	Other Secondary Sources
+**d.	Other Secondary Sources**
 
 Colin S. Diver, The Assessment and Mitigation of Civil Money Penalties by Federal Administrative Agencies, 79 Colum. L. Rev. 1435, 1443–44 (1979)
 
@@ -203,7 +203,7 @@ Mitigation clauses are found in conjunction with all types of statutes. The func
 Even in the absence of an express mitigation power, agencies have a general authority to compromise civil money penalty claims under the Federal Claims Collection Act of 1966,51 which authorizes the “head of an agency” to “compromise ... claims of the United States for money or property arising out of the activities of, or referred to, his agency.”52 This authority is more limited, however, than that arising from an express mitigation clause. First, there are several exclusions from the Act.53 Moreover, an express mitigation clause appears to confer a broader range of discretion to settle cases; the grounds upon which an agency may compromise a claim under the Claims Collection Act are implicitly limited to issues relating to the collectibility of the claim.54 A mitigation authority, by contrast, *1445 permits the agency to reduce the penalty for other reasons, such as the gravity of the offense or the culpability of the violator.
 
 
-III.	Examples
+**III.	Examples**
 a.	Borrower Defense memos (redacted)
 i.	Line from ITT memo makes it seem as though Department may be viewing borrower defense discharge as an exercise of its compromise and settlement authority in that it weighs the likely outcome of litigation:
 
@@ -216,7 +216,8 @@ b.	IRS Rev Procs on 1099 issue around 1) Corinthian and 2) ACI might contain inf
 c.	Is Public Service Loan Forgiveness an exercise of compromise, a specific authorization to Secretary of Education for compromise, or an allocation of funding by Congress? Same question regarding income driven repayment plans, Elizabeth Warren’s proposal.
 
 
-d.	DMS (Treasury) annual report to congress on debt collection activities of agencies FY 17 https://www.fiscal.treasury.gov/files/dms/debt17.pdf
+d.	DMS (Treasury) annual report to congress on debt collection activities of agencies FY 17 
+https://www.fiscal.treasury.gov/files/dms/debt17.pdf
 i.	Department of Education had $1,183.3 (billion) out of $1,519.6 (billion) total government outstanding non-tax receivables (highest)
 ii.	Department of Education collected $102.3 (billion) out of $337.4 (billion) total receivables
 iii.	Department of Education had 81.3% of delinquent debt owed to US (non-tax) ($150.4 (billion) out of $185.0 (billion) total)
@@ -227,14 +228,16 @@ v.	Department of Education wrote off and “closed out” (meaning all debt coll
 1.	See OMB Circular A-129 for write-off requirements
 vi.	Department of Education only referred 44.2% of delinquent “eligible” accounts to Treasury for TOP (11,137,699 out of 25,171,655)
 1.	This compliance reporting is required by the Digital Accountability and Transparency Act of 2014
-IV.	Anticipated Arguments
-a.	Antideficiency Act
+
+**IV.	Anticipated Arguments**
+
+**a.	Antideficiency Act**
 
 The Antideficiency Act prohibits federal employees and agencies from obligating or expending federal funds in advance or in excess of an appropriation. 
 
 31 U.S.C. § 3711 states that “an accountable official not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.” 31 U.S.C. § 3527 and § 3528 authorize the Comptroller General to relieve accountable officials and agents from liability for the physical loss or deficiency of public money in certain circumstances, which do not seem applicable to a deliberate act of compromise.  31 U.S.C. § 3529 allows the head of an agency to request a decision from the Comptroller General on a question involving a “payment” or “voucher,” and it is not clear whether this would apply to a decision to compromise. 
 
-b.	Cost 
+**b.	Cost **
 i.	Stephanie Kelton, Macro Effects of Student Debt Cancellation
 (next section coming soon)
 
