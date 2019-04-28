@@ -18,7 +18,7 @@ Below you will find a detailed memo about this legal authority developed by the 
 
 Sincerely, 
 Laura Hanna & Ann Larson
-Co-Executive Directors and Co-Founders
+Co-executive Directors and Co-founders
 Debtcollective.org
 
 
