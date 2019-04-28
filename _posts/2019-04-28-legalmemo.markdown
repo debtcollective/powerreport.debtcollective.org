@@ -32,7 +32,7 @@ This memo addresses (I) the sources of authority for the federal government to c
 Two separate statutes—each with implementing regulations—set out the obligation of the federal government to collect debt owed to the United States, and specify the circumstances in which collection may be suspended and/or the debt cancelled.  First, the Federal Claims Collection Act establishes general standards applicable across the government and confers responsibility on Treasury and the Department of Justice for overseeing the process.   Second, the Higher Education imposes duties on the Secretary of Education with respect to the collection and compromise of federal student loans. The relevant sections of these statutes and regulations are excerpted below, with annotations in italics.
 
 
-a.	Federal Claims Collection Act of 1966, as amended by the Debt Collection Improvement Act, 31 U.S.C. 3701 et seq.
+**a.	Federal Claims Collection Act of 1966, as amended by the Debt Collection Improvement Act, 31 U.S.C. 3701 et seq.**
 
 § 3701 Definitions: 
 
@@ -61,7 +61,7 @@ A compromise under this section is final and conclusive unless gotten by fraud, 
 Compromise is final but can be undone. Agency decision makers are not liable for their decisions to compromise debts.
 
 
-b.	Federal Claims Collection Standards (FCCS) (regulations of Department of Treasury & Department of Justice/Attorney General issued pursuant to 31 U.S.C. § 3711(d)(2))
+**b.	Federal Claims Collection Standards (FCCS) (regulations of Department of Treasury & Department of Justice/Attorney General issued pursuant to 31 U.S.C. § 3711(d)(2))**
 
 §900.1 Prescription of Standards:
 
