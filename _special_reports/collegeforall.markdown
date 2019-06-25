@@ -17,7 +17,9 @@ On Monday, Senator Bernie Sanders (VT) and Representatives Ilhan Omar (D-MN) and
 
 Debt Collective members were present in Washington DC at a press event announcing the bill. 
 
-One of the first student debt strikers, Pamela Hunt, a single mother who owes over $200,000 in student loans, spoke in favor of the bill. “I came to Washington D.C. in 2015 as one of the first student debt strikers in U.S. history. We organized for years and, as a result, some debtors won relief although I haven’t,” she explained. “I lost my home and nearly lost my life in a fight against cancer. But you know what I haven’t lost? These illegitimate and immoral student loans that are still haunting me. You know what else I also haven’t lost? I haven’t lost myself or my desire to fight.”
+One of the first student debt strikers, Pamela Hunt, a single mother who owes over $200,000 in student loans, spoke in favor of the bill. “We organized for years and, as a result, some debtors won relief although I haven’t,” she explained. “I lost my home and nearly lost my life in a fight against cancer. But you know what I haven’t lost? These illegitimate and immoral student loans that are still haunting me. You know what else I also haven’t lost? I haven’t lost myself or my desire to fight.”
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hUf91H4kQpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Debt Collective organizer Thomas Gokey said, “When people get sick, we owe them healthcare; if they are homeless, they deserve shelter; if they want to learn, they should be able to go to school without being weighed down by unpayable loans at usurious rates. These are the moral debts we are currently defaulting on and that we should pay by expanding public services.”
 
