@@ -23,6 +23,8 @@ One of the first student debt strikers, Pamela Hunt, a single mother who owes ov
 
 Debt Collective organizer Thomas Gokey said, “When people get sick, we owe them healthcare; if they are homeless, they deserve shelter; if they want to learn, they should be able to go to school without being weighed down by unpayable loans at usurious rates. These are the moral debts we are currently defaulting on and that we should pay by expanding public services.”
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DTmjZ0mIBa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Robbie Tribble explained: “I started organizing against student debt because my wife fell victim to the for-profit education sector. In 2011 she was working at Taco Bell and wanted to get ahead, better her life. We got married in 2015 and had a son Brayden. When he was 2 months old, we had our tax refund check stolen by the Department of Education, on behalf of this predatory school. We have had our Borrowers Defense application ignored by the Department of Education for years now, and every time they take our money my blood pressure goes up. We must cancel student debt now.”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mgrxuivyO8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
