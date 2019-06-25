@@ -2,6 +2,7 @@
 title: Debt Collective Members Join Members of Congress in Washington to Endorse the
   College for All Act
 date: 2019-06-25 20:20:00 Z
+Key: 
 ---
 
 This is an historic week for organizers and others who have been fighting for years for debt relief and free public college. Since 2014 members of the Debt Collective have been pushing for relief. Now their demands have gone from the margins to the mainstream. 
