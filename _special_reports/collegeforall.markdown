@@ -13,7 +13,7 @@ First they laugh at you.
 Then they fight you.
 Then you win. 
 
-Today, we got a little bit closer to winning.  
+This week, we got a little bit closer to winning.  
 
 On Monday, Senator Bernie Sanders (VT) and Representatives Ilhan Omar (D-MN) and Pramila Jayapal (D-WA) introduced the College for All Act that if passed would eliminate all $1.6 trillion in student loans currently on the books. The bill would also make public college free.
 
