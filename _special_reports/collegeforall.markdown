@@ -37,4 +37,7 @@ Members of the Debt Collective know how hard we have worked to get this far. And
 
 Join the movement. 
 
+Watch the whole press conference here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SwluLhWxoVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
