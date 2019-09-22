@@ -10,11 +10,13 @@ The following is a report from Elia who used our debt dispute tools during recen
 
 
 ![Tabling at the clinic](/uploads/debt clinic-369554.JPG)
+Tabling at the Clinic
 
 
 Hello! Our event was a smash hit. Our main organizer, Paige, is a major badass so we had tons of community partners/resources there. So, in addition to the debt clinic, we had free food, health screenings, Medicaid sign-up, housing information, etc.
 
 ![Our clinic offered free health care](/uploads/debt%20clinic%204.JPG)
+Our clinic also offered free health care
 
 
 I took the lead on the Debt Clinic and had tons of support from Thomas (I’d @ him but I don’t know his username). I directly helped one woman fight two of her debts which were, of course, incurred by people taking advantage/charging huge interest rates.
@@ -24,8 +26,10 @@ Beyond that, I had several productive conversations with people about their debt
 At the event, I had several people ask if I could come, just me, to their community space/church to help folks out with debt relief. I told them we’d be doing the event bi-monthly but I also gave them my contact information, and I’m hoping to build some more contacts/do smaller debt clinics throughout Detroit.
 
 ![Our team.jpg](/uploads/debt%20clinic2.JPG)
+Our team
 
 Honestly, this was one of my proudest moments as an activist. The event was well-planned, well-attended and actually served the community in a meaningful way. I’m looking forward to continuing my work with the Debt Collective. Thank you so much for this tool and this community.
 
 ![Building a movement one person at a time.jpg](/uploads/debt%20clinic%203.JPG)
+Building a movement one person at a time
 
