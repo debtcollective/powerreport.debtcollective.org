@@ -12,6 +12,7 @@ The following is a report from Elia who used our debt dispute tools during recen
 
 Hello! Our event was a smash hit. Our main organizer, Paige, is a major badass so we had tons of community partners/resources there. So, in addition to the debt clinic, we had free food, health screenings, Medicaid sign-up, housing information, etc.
 
+![Our clinic offered free health care](/uploads/debt%20clinic%204.JPG)
 
 
 I took the lead on the Debt Clinic and had tons of support from Thomas (I’d @ him but I don’t know his username). I directly helped one woman fight two of her debts which were, of course, incurred by people taking advantage/charging huge interest rates.
