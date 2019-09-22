@@ -19,7 +19,7 @@ Hello! Our event was a smash hit. Our main organizer, Paige, is a major badass s
 Our clinic also offered free health care
 
 
-I took the lead on the Debt Clinic and had tons of support from Thomas (I’d @ him but I don’t know his username). I directly helped one woman fight two of her debts which were, of course, incurred by people taking advantage/charging huge interest rates.
+I took the lead on the Debt Clinic and had tons of support from Debt Collective organizer, Thomas. I directly helped one woman fight two of her debts which were, of course, incurred by people taking advantage/charging huge interest rates.
 
 Beyond that, I had several productive conversations with people about their debt and walked them through our process/what they had to do to follow-up. It was a little disheartening at first because people are so used to being swindled they asked things like: “What’s the catch?” or “What does this service cost?” I’d keep having to say: “Nothing! We’re socialists and we think these financial institutions are evil. We want to use their own language against them to benefit working people.” Once I explained, the conversation definitely took a more positive turn. One couple even said: “I guess we’re socialists, too.”
 
