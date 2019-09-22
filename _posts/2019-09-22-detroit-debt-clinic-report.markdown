@@ -1,12 +1,15 @@
 ---
 title: Detroit Debt Clinic Report
 date: 2019-09-22 11:39:00 Z
+image: "/uploads/debt%20clinic-3f142d.JPG"
 ---
 
-The folllowing is a report from Elia who used our debt dispute tools during recent a debt clinic in Detroit. MI. 
+The following is a report from Elia who used our debt dispute tools during recent a debt clinic in Detroit. MI.  If you would like to host a debt clinic, [get in touch](https://community.debtcollective.org/t/organizers-tips-questions-and-brainstorms-for-local-debt-clinics/2674) so we can support you. 
 
 
 Hello! Our event was a smash hit. Our main organizer, Paige, is a major badass so we had tons of community partners/resources there. So, in addition to the debt clinic, we had free food, health screenings, Medicaid sign-up, housing information, etc.
+
+
 
 I took the lead on the Debt Clinic and had tons of support from Thomas (I’d @ him but I don’t know his username). I directly helped one woman fight two of her debts which were, of course, incurred by people taking advantage/charging huge interest rates.
 
@@ -16,5 +19,4 @@ At the event, I had several people ask if I could come, just me, to their commun
 
 Honestly, this was one of my proudest moments as an activist. The event was well-planned, well-attended and actually served the community in a meaningful way. I’m looking forward to continuing my work with the Debt Collective. Thank you so much for this tool and this community.
 
-I’ve also attached some pictures from the event, please see below!
-[debt clinic-369554.JPG](/uploads/debt%20clinic-369554.JPG)[debt clinic2.JPG](/uploads/debt%20clinic2.JPG)[debt clinic 4.JPG](/uploads/debt%20clinic%204.JPG)
+I’ve also included some pictures from the event, please see below!
