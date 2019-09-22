@@ -1,6 +1,7 @@
 ---
 title: Detroit Debt Clinic Report
 date: 2019-09-22 11:39:00 Z
+sub-title: '"This was one of my proudest moments as an activist"'
 image: "/uploads/debt%20clinic-3f142d.JPG"
 ---
 
