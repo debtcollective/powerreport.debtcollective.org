@@ -25,5 +25,5 @@ At the event, I had several people ask if I could come, just me, to their commun
 
 Honestly, this was one of my proudest moments as an activist. The event was well-planned, well-attended and actually served the community in a meaningful way. I’m looking forward to continuing my work with the Debt Collective. Thank you so much for this tool and this community.
 
-![Helping people with debt.jpg](/uploads/debt%20clinic%203.JPG)
+![Building a movement one person at a time.jpg](/uploads/debt%20clinic%203.JPG)
 
