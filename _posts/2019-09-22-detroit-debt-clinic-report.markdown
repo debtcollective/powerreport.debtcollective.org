@@ -3,6 +3,7 @@ title: Detroit Debt Clinic Report
 date: 2019-09-22 11:39:00 Z
 sub-title: '"This was one of my proudest moments as an activist"'
 image: "/uploads/debt%20clinic-3f142d.JPG"
+image-description: 'Tabling at our clinic. '
 ---
 
 The following is a report from Elia who used our debt dispute tools during recent a debt clinic in Detroit. MI.  If you would like to host a debt clinic, [get in touch](https://community.debtcollective.org/t/organizers-tips-questions-and-brainstorms-for-local-debt-clinics/2674) so we can support you.
