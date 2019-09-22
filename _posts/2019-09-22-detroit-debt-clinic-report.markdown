@@ -20,6 +20,8 @@ Beyond that, I had several productive conversations with people about their debt
 
 At the event, I had several people ask if I could come, just me, to their community space/church to help folks out with debt relief. I told them we’d be doing the event bi-monthly but I also gave them my contact information, and I’m hoping to build some more contacts/do smaller debt clinics throughout Detroit.
 
+![Our team.jpg](/uploads/debt%20clinic2.JPG)
+
 Honestly, this was one of my proudest moments as an activist. The event was well-planned, well-attended and actually served the community in a meaningful way. I’m looking forward to continuing my work with the Debt Collective. Thank you so much for this tool and this community.
 
 I’ve also included some pictures from the event, please see below!
