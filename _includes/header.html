@@ -12,6 +12,10 @@ assign toolsPaths = site.tools.paths %}
         attrs: {
           'header-links': [
             {
+              href: '{{ site.strike.endpoint }}',
+              text: 'Student Debt Strike'
+            },
+            {
               href:
                 '{{ toolsEndpoint | append: toolsPaths.dispute-your-debt }}',
               text: 'Dispute Your Debt'
