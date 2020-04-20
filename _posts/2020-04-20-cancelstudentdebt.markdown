@@ -7,8 +7,7 @@ By Astra Taylor, Debt Collective
 
 [This article originally appeared in the Guardian on Apr 7, 2020](https://www.theguardian.com/commentisfree/2020/apr/07/cancel-student-debt-coronavirus)
 
-*With a global pandemic and economic depression looming, we can’t settle for half-measures. Cancel all student debt.
-*
+With a global pandemic and economic depression looming, we can’t settle for half-measures. Cancel all student debt.
 
 ![squad-f21014.jpg](/uploads/squad-f21014.jpg)
 
