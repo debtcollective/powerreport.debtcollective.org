@@ -1,6 +1,7 @@
 ---
 title: Cancelling student debt was always the right thing to do. Now it's imperative.
 date: 2020-04-20 20:28:00 Z
+image: "/uploads/squad-b35153.jpg"
 ---
 
 By Astra Taylor, Debt Collective
