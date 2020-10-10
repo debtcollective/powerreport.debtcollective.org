@@ -1,10 +1,11 @@
 {% assign paths = site.discourse.paths %} {% assign endpoint =
 site.discourse.endpoint %} {% assign toolsEndpoint = site.tools.endpoint %} {%
-assign toolsPaths = site.tools.paths %}
+assign toolsPaths = site.tools.paths %} {% assign headerLinks =
+site.header_links%}
 
 <dc-header
   logo="https://cdn.jsdelivr.net/npm/@debtcollective/dc-header-component/dist/header/assets/logo.png"
   logosmall="https://cdn.jsdelivr.net/npm/@debtcollective/dc-header-component/dist/header/assets/logo-small"
-  links='[{"href":"https://debtcollective.org/debt-union","text":"Join the Union"},{"href":"https://community.debtcollective.org/","text":"Community","target":"_blank"},{"href":"https://teespring.com/stores/debt-collective","text":"Store","target":"_blank"}]'
-  ,
+  donateurl="https://debtcollective.org/donate"
+  links="{{headerLinks | jsonify | escape}}"
 ></dc-header>
