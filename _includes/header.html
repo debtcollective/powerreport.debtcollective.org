@@ -2,39 +2,9 @@
 site.discourse.endpoint %} {% assign toolsEndpoint = site.tools.endpoint %} {%
 assign toolsPaths = site.tools.paths %}
 
-<div id="debt-collective-header"></div>
-<script>
-  Vue.component(DebtCollectiveHeader.name, DebtCollectiveHeader)
-  new Vue({
-    el: '#debt-collective-header',
-    render: function(h) {
-      return h('debt-collective-header', {
-        attrs: {
-          'header-links': [
-            {
-              href: '{{ site.strike.endpoint }}',
-              text: 'Student Debt Strike'
-            },
-            {
-              href:
-                '{{ toolsEndpoint | append: toolsPaths.dispute-your-debt }}',
-              text: 'Dispute Your Debt'
-            },
-            { href: '{{ endpoint }}', text: 'Community' },
-            { href: '{{ endpoint | append: paths.events }}', text: 'Events' },
-            { href: '/', text: 'The Power Report' },
-            { href: 'http://membership.debtcollective.org', text: 'Donate' }
-          ],
-          'dropdown-links': [
-            {
-              href: 'https://debtcollective.org#about',
-              text: 'About the Debt Collective'
-            }
-          ],
-          'discourse-endpoint': '{{ endpoint }}',
-          'tools-endpoint': '{{ toolsEndpoint }}'
-        }
-      })
-    }
-  })
-</script>
+<dc-header
+  logo="https://cdn.jsdelivr.net/npm/@debtcollective/dc-header-component/dist/header/assets/logo.png"
+  logosmall="https://cdn.jsdelivr.net/npm/@debtcollective/dc-header-component/dist/header/assets/logo-small"
+  links='[{"href":"https://debtcollective.org/debt-union","text":"Join the Union"},{"href":"https://community.debtcollective.org/","text":"Community","target":"_blank"},{"href":"https://teespring.com/stores/debt-collective","text":"Store","target":"_blank"}]'
+  ,
+></dc-header>
