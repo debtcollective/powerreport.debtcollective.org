@@ -5,135 +5,134 @@ collections:
   artwork:
     title: Artwork
     output: true
-    permalink: '/artwork/:name/'
+    permalink: "/artwork/:name/"
   letters:
     title: Letters
     output: true
-    permalink: '/letters/:title/'
+    permalink: "/letters/:title/"
   news_analysis:
     title: News Analysis
     output: true
-    permalink: '/news-analysis/:title/'
+    permalink: "/news-analysis/:title/"
   posts:
     title: Posts
     output: true
   profiles:
     title: Profiles
     output: true
-    permalink: '/profiles/:title/'
+    permalink: "/profiles/:title/"
   special_reports:
     title: Special Reports
     output: true
-    permalink: '/reports/:title/'
+    permalink: "/reports/:title/"
   uploads:
     title: Uploads
     output: true
-    permalink: '/uploads/:path'
+    permalink: "/uploads/:path"
 defaults:
-  - scope:
-      path: ''
-      type: special_reports
-    values:
-      layout: special-report
-      sub-title:
-      author:
-      youtube-id:
-      image:
-      image-description:
-      summary:
-  - scope:
-      path: ''
-      type: news_analysis
-    values:
-      layout: news-analysis
-      sub-title:
-      author:
-      youtube-id:
-      image:
-      image-description:
-      summary:
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: post
-      author:
-      sub-title:
-      youtube-id:
-      image:
-      image-description:
-      summary:
-  - scope:
-      path: ''
-      type: artwork
-    values:
-      layout: artwork
-      preview: link to a smaller version of the image to serve as fast loading preview
-      src: link to the full version of the image
-      artist: the artist's name
-      featured: false
-      description: A brief description to accompany the artwork and assist screen-readers
-  - scope:
-      path: ''
-      type: letters
-    values:
-      layout: letter
-      author:
-      sub-title:
-      interviewee-picture:
-  - scope:
-      path: ''
-      type: profiles
-    values:
-      layout: profile
-      author:
-      sub-title:
-      interviewee-picture:
-      youtube-id:
-      video-description:
-  - scope:
-      path: ''
-      type: pages
-    values:
-      layout: page
+- scope:
+    path: ''
+    type: special_reports
+  values:
+    layout: special-report
+    sub-title: 
+    author: 
+    youtube-id: 
+    image: 
+    image-description: 
+    summary: 
+- scope:
+    path: ''
+    type: news_analysis
+  values:
+    layout: news-analysis
+    sub-title: 
+    author: 
+    youtube-id: 
+    image: 
+    image-description: 
+    summary: 
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: 
+    sub-title: 
+    youtube-id: 
+    image: 
+    image-description: 
+    summary: 
+- scope:
+    path: ''
+    type: artwork
+  values:
+    layout: artwork
+    preview: link to a smaller version of the image to serve as fast loading preview
+    src: link to the full version of the image
+    artist: the artist's name
+    featured: false
+    description: A brief description to accompany the artwork and assist screen-readers
+- scope:
+    path: ''
+    type: letters
+  values:
+    layout: letter
+    author: 
+    sub-title: 
+    interviewee-picture: 
+- scope:
+    path: ''
+    type: profiles
+  values:
+    layout: profile
+    author: 
+    sub-title: 
+    interviewee-picture: 
+    youtube-id: 
+    video-description: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 favicon: https://s3.amazonaws.com/tds-static/img/debtcollective/0.0.1/favicon.png
 permalink: pretty
 author: The Debt Collective
 email: admin@debtcollective.org
-description:
-  The Debt Collective Power Report — Member Profiles, News Analysis, Updates
+description: The Debt Collective Power Report — Member Profiles, News Analysis, Updates
   on our work
 rss: rss
 google_analytics_ua: UA-54926002-3
 discourse:
   endpoint: https://community.debtcollective.org
   paths:
-    campaigns: '/campaigns'
-    collectives: '/collectives'
-    events: '/calendar'
+    campaigns: "/campaigns"
+    collectives: "/collectives"
+    events: "/calendar"
   roles:
     base: trust_level_0
 tools:
   endpoint: https://tools.debtcollective.org
   paths:
-    dispute-your-debt: '/dispute-tools'
-    my-disputes: '/disputes/my'
+    dispute-your-debt: "/dispute-tools"
+    my-disputes: "/disputes/my"
 header_links:
-  - href: 'https://debtcollective.org/debt-union'
-    text: 'Join the Union'
-  - href: 'https://community.debtcollective.org/'
-    text: 'Community'
-    target: '_blank'
-  - href: 'https://teespring.com/stores/debt-collective'
-    text: 'Store'
-    target: '_blank'
+- href: https://debtcollective.org/debt-union
+  text: Join the Union
+- href: https://community.debtcollective.org/
+  text: Community
+  target: _blank
+- href: https://teespring.com/stores/debt-collective
+  text: Store
+  target: _blank
 strike:
   endpoint: https://strike.debtcollective.org
 plugins:
-  - jekyll-seo-tag
+- jekyll-seo-tag
 markdown: DebtCollective
 exclude:
-  - '.circleci'
+- ".circleci"
 redcarpet:
   extensions:
-    - highlight
+  - highlight
