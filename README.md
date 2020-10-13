@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/debtcollective/powerreport.debtcollective.org.svg?style=svg)](https://circleci.com/gh/debtcollective/powerreport.debtcollective.org)
+
 # The Debt Collective's Power Report
 
 This repository houses [The Debt Collective's](https://debtcollective.org) Jekyll website for the Power Report.
