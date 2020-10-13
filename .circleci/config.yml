@@ -18,7 +18,7 @@ jobs:
             bundle exec jekyll build
       - run:
           name: deploy to S3
-          command: aws s3 sync _site s3://powerreport.debtcollective.org --region us-east-1 --acl public-read
+          command: aws s3 sync _site s3://powerreport.debtcollective.org --acl public-read
 workflows:
   version: 2
   deploy:
