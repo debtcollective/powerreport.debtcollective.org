@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0.0"
-gem "redcarpet", "~> 3.2.2"
+gem "redcarpet", "~> 3.5.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
